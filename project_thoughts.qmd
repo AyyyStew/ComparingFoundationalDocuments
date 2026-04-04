@@ -157,19 +157,6 @@ Heatmaps were also produced comparing each sacred text against various literatur
 
 Sacred texts were also compared directly against each other in the same format. (20) If you want to see where the Dao De Jing and the Dhammapada agree most, this is the analysis for that.
 
-# Going Deeper: More Texts
-
-At this point the corpus was feeling thin. A few more traditions were missing that felt important to include if this was going to be a serious cross-tradition comparison.
-
-Added in batches:
-
-- Quran, Upanishads, Srimad Bhagavatam, Diamond Sutra (29) — filling out the Abrahamic and Dharmic/Buddhist sides
-- Poetic Edda and Analects of Confucius (30) — Norse and Confucian traditions
-- Classical philosophy: Plato, Aristotle, Nietzsche, Kant, Descartes (31) — to see where the western philosophical tradition lands
-- Scientific literature: Darwin, William James, Freud, Newton, Jung; also Siddhartha (32) — hard science and depth psychology as anchors
-
-The rationale: if sacred texts cluster together, do they cluster with philosophy? With psychology? Or is there something that genuinely sets them apart?
-
 ## Soft Clustering: GMM Topics
 
 Rather than hard cluster labels, Gaussian Mixture Models were used to assign soft probabilities across topics — every passage belongs to every topic to some degree. This felt more honest given how fuzzy the actual topic boundaries are.
