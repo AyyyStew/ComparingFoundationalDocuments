@@ -72,7 +72,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#expanding-the-corpus-norse-confucian-philosphy-science" id="toc-expanding-the-corpus-norse-confucian-philosphy-science" class="nav-link" data-scroll-target="#expanding-the-corpus-norse-confucian-philosphy-science">Expanding the Corpus: Norse, Confucian, Philosphy, Science</a>
   <ul class="collapse">
   <li><a href="#universal-and-distinct-passages" id="toc-universal-and-distinct-passages" class="nav-link" data-scroll-target="#universal-and-distinct-passages">Universal and Distinct Passages</a></li>
-  <li><a href="#expanded-concept-network" id="toc-expanded-concept-network" class="nav-link" data-scroll-target="#expanded-concept-network">Expanded Concept Network</a></li>
+  <li><a href="#expanded-concept-network" id="toc-expanded-concept-network" class="nav-link" data-scroll-target="#expanded-concept-network">Expanded Concept Network</a>
+  <ul class="collapse">
+  <li><a href="#going-deeper-semantic-edges-and-entropy" id="toc-going-deeper-semantic-edges-and-entropy" class="nav-link" data-scroll-target="#going-deeper-semantic-edges-and-entropy">Going Deeper: Semantic Edges and Entropy</a></li>
+  </ul></li>
   <li><a href="#tradition-similarity" id="toc-tradition-similarity" class="nav-link" data-scroll-target="#tradition-similarity">Tradition Similarity</a></li>
   <li><a href="#similarity-distributions" id="toc-similarity-distributions" class="nav-link" data-scroll-target="#similarity-distributions">Similarity Distributions</a></li>
   <li><a href="#outliers-on-the-full-corpus" id="toc-outliers-on-the-full-corpus" class="nav-link" data-scroll-target="#outliers-on-the-full-corpus">Outliers on the Full Corpus</a></li>
@@ -231,7 +234,10 @@ ul.task-list li input[type="checkbox"] {
 <li>Dhammapada (09)</li>
 <li>Dao De Jing (10)</li>
 <li>Yoga Sutras of Patanjali (11)</li>
-<li>Literature: Frankenstein, Romeo and Juliet, Don Quixote, Pride and Prejudice (12)</li>
+<li>Literature: Frankenstein, Romeo and Juliet, Don Quixote, Pride and Prejudice
+<ol start="12" type="1">
+<li></li>
+</ol></li>
 <li>Historical documents: Luther’s 95 Theses, Code of Hammurabi, US Constitution, Magna Carta, Federalist Papers, Communist Manifesto (13)</li>
 </ul>
 <p>The core question was whether the spiritual texts cluster together compared to historical and legal documents. There’s a materialist argument that religion functions as a coordination mechanism — like law or governance — and if so, maybe they share a semantic fingerprint.</p>
@@ -419,6 +425,26 @@ ul.task-list li input[type="checkbox"] {
 <iframe src="36_concept_network_full.html" width="100%" scrolling="no" style="border:none;display:block;" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';">
 </iframe>
 <p><a href="36_concept_network_full.html">Open in full page</a></p>
+<section id="going-deeper-semantic-edges-and-entropy" class="level3">
+<h3 class="anchored" data-anchor-id="going-deeper-semantic-edges-and-entropy">Going Deeper: Semantic Edges and Entropy</h3>
+<p>The co-occurrence graph has a structural problem worth naming. An edge between two concept clusters means passages from both clusters appeared in the same chapter. But “same chapter” is doing a lot of work. Two concepts might co-occur in a hundred chapters — but if all those chapters are from the same book of the Bible, the edge doesn’t tell you much about cross-tradition resonance. It tells you about Bible chapter structure.</p>
+<p>A second issue: co-occurrence measures proximity, not meaning. Two clusters might keep appearing together because they’re both common topics in discursive chapters, not because they’re conceptually linked.</p>
+<p>To address both, a second graph was built (36b) where edges are drawn on a different basis entirely: cosine similarity between cluster centroids. If the average passage in cluster A is semantically close to the average passage in cluster B, they get an edge. And crucially, only clusters that already contain passages from at least two different traditions are eligible — so the edges are filtering for genuinely cross-traditional semantic neighborhoods, not single-tradition clumps that happen to be close to each other.</p>
+<p>The result looks different from the co-occurrence graph. The edges are sparser and the connected nodes are more interpretable as candidates for shared cross-traditional concepts. Nodes with many centroid edges spanning multiple traditions are the strongest candidates the data can offer for something like universal themes.</p>
+<iframe src="36b_concept_network_centroid.html" width="100%" scrolling="no" style="border:none;display:block;" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';">
+</iframe>
+<p><a href="36b_concept_network_centroid.html">Open in full page</a></p>
+<p>The same analysis was re-run restricted to sacred texts only (36c) — dropping Literature, Historical, Scientific, and Philosophy to ask a cleaner version of the original question. When the noise of secular traditions is removed and only the religious texts compete for shared semantic space, the connected clusters are the ones with the strongest claim to being perennial themes.</p>
+<iframe src="36c_concept_network_sacred.html" width="100%" scrolling="no" style="border:none;display:block;" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';">
+</iframe>
+<p><a href="36c_concept_network_sacred.html">Open in full page</a></p>
+<p>To quantify which nodes are genuinely multi-traditional rather than just dominated by one text, Shannon entropy was computed over the tradition counts for every node (36d). Entropy of 1.0 means all traditions are equally represented in that cluster; 0.0 means one tradition owns it entirely. The high-entropy nodes are worth reading closely — they’re the concept neighborhoods where the data is least explainable by any single tradition’s size or style.</p>
+<p>Entropy tables for each graph: <a href="36_concept_graph_entropy.csv">Full corpus</a> · <a href="36b_concept_graph_entropy.csv">Centroid edges</a> · <a href="36c_concept_graph_entropy.csv">Sacred only</a></p>
+<p>A few things worth noting from the entropy results.</p>
+<p>In the full-corpus centroid graph (36b), the most balanced node — highest entropy across all traditions — was a cluster labeled around <strong>honour, virtue, and wealth</strong> (cluster 28). Nine of the ten traditions are present in it, with Philosophy and Abrahamic passages making up the bulk but Buddhist, Dharmic, Taoist, Confucian, Scientific, Literature, and Historical all showing up. The second most balanced was a cluster around <strong>vanity and hidden worth</strong> (cluster 29) — and the surprise there is that it’s almost exactly split between Abrahamic (84 passages) and Buddhist (59 passages), with the other traditions barely present. If you were going to identify one specific Bible-Buddhism bridge in the data, this is probably it.</p>
+<p>The sacred-only graph (36c) tells a sharper story because the secular noise is gone. The single most balanced cluster — nearly perfect entropy, 0.996 out of 1.0 — was around <strong>divine manifestation through natural phenomena</strong>: thunder, fire, sea, the burning of trees. Exactly 29 Dharmic passages and 25 Abrahamic passages, almost nothing else. Two traditions independently reaching for the same imagery when they want to describe the presence of the divine. The second most balanced was a <strong>wisdom and foolishness</strong> cluster spanning all six sacred traditions (Abrahamic, Buddhist, Norse, Dharmic, Taoist, Confucian) — the only cluster in the sacred graph where every tradition is represented.</p>
+<p>On the other end, about a third of the sacred-only clusters have entropy of exactly zero — they belong entirely to one tradition with no crossover at all. These tend to be the most contextually specific: Exodus narrative passages, Bhagavad Gita cosmology, Norse genealogies. The data has a real structure to it — a handful of genuinely shared concepts, a long tail of tradition-owned ones, and almost nothing in between.</p>
+</section>
 </section>
 <section id="tradition-similarity" class="level2">
 <h2 class="anchored" data-anchor-id="tradition-similarity">Tradition Similarity</h2>
