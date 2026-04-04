@@ -1,0 +1,1524 @@
+======================================================================
+UNIVERSAL PASSAGES — Top 20 cross-tradition nearest-neighbor pairs
+======================================================================
+These passages say the same thing across different traditions.
+
+
+[1]
+  sim=0.8344
+  A: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 4.57
+     Smite yet once more! Pierce through and rend my heart! What mean’th this torture With dull, indented arrows? Why look’st thou hither, Of human pain not weary, With mischief-loving, godly flash-glances?
+  B: [Scientific] Psychology of the Unconscious (Jung) | 2.419
+     Struck to the ground by thee, Thou mocking eye that gazeth at me from the dark! —————— Thus do I lie Bending, writhing, tortured With all eternal tortures, Smitten By thee, crudest huntsman, Thou unfamiliar God. Smite de
+
+[2]
+  sim=0.8312
+  A: [Abrahamic] Bible — KJV (King James Version) | 5:43
+     Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
+  B: [Scientific] Civilization and Its Discontents (Freud) | 5.10
+     If the high-sounding ordinance had run: ‘Love thy neighbour as thy
+neighbour loves thee’, I should not take objection to it. And there is
+a second commandment that seems to me even more incomprehensible, and
+arouses stil
+
+[3]
+  sim=0.8297
+  A: [Philosophy] Critique of Pure Reason (Kant) | 3.774
+     By the principle of the variety of the homogeneous in lower species; and, to complete the systematic unity, it adds, 3. A law of the affinity of all conceptions which prescribes a continuous transition from one species t
+  B: [Scientific] On the Origin of Species (Darwin) | 14.877
+     This is what we should be
+driven to, if we were ever to succeed in collecting all the forms in
+any class which have lived throughout all time and space. We shall
+certainly never succeed in making
+so perfect a collection:
+
+[4]
+  sim=0.8290
+  A: [Historical] Federalist Papers | No. 40.17
+     They must have recollected
+that it was by this irregular and assumed privilege of proposing to the
+people plans for their safety and happiness, that the States were first
+united against the danger with which they were th
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+[5]
+  sim=0.8223
+  A: [Abrahamic] Bible — KJV (King James Version) | 21:32
+     If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.
+  B: [Historical] Code of Hammurabi | §251
+     If the ox has pushed a man, by pushing has made known his vice, and he has not blunted his horn, has not shut up his ox, and that ox has gored a man of gentle birth and caused him to die, he shall pay half a mina of silv
+
+[6]
+  sim=0.8193
+  A: [Philosophy] Nicomachean Ethics (Aristotle) | 7.49
+     But the bodily Pleasures have
+received the name exclusively, because theirs is the most frequent form
+and that which is universally partaken of; and so, because to many
+these alone are known they believe them to be the o
+  B: [Scientific] Civilization and Its Discontents (Freud) | 2.11
+     It is no wonder if, under the pressure of these possibilities of
+suffering, humanity is wont to reduce its demands for happiness,
+just as even the pleasure-principle itself changes into the more
+accommodating reality-pri
+
+[7]
+  sim=0.8190
+  A: [Dharmic] Upanishads (Paramananda) | 2.117
+     Then one should become watchful, for Yoga comes and goes. Yoga literally means to join or to unite the lower self with the Higher Self, the object with the subject, the worshipper with God. In order to gain this union, h
+  B: [Scientific] Varieties of Religious Experience (James) | 50.46
+     Yoga means the experimental union of the
+individual with the divine. It is based on persevering exercise; and the
+diet, posture, breathing, intellectual concentration, and moral discipline
+vary slightly in the different 
+
+[8]
+  sim=0.8129
+  A: [Philosophy] The Republic (Plato) | 4.12
+     The greatest happiness of the individual is certainly to be found in a
+life of virtue and goodness. But we seem to be more assured of a law of
+right than we can be of a divine purpose, that ‘all mankind should be
+saved;’
+  B: [Scientific] Civilization and Its Discontents (Freud) | 2.36
+     There are, as we
+have said, many paths by which the happiness attainable for man can be
+reached, but none which is certain to take him to it. Nor can religion
+keep her promises either. When the faithful find themselves r
+
+[9]
+  sim=0.8104
+  A: [Abrahamic] Bible — KJV (King James Version) | 4:18
+     There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.
+  B: [Buddhist] Dhammapada (Müller) | 16.215
+     From love comes grief, from love comes fear; he who is free from love knows neither grief nor fear.
+
+[10]
+  sim=0.8104
+  A: [Historical] Federalist Papers | No. 78.16
+     If, then, the courts of justice are to be considered as the bulwarks
+of a limited Constitution against legislative encroachments, this
+consideration will afford a strong argument for the permanent tenure of
+judicial offi
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+[11]
+  sim=0.8072
+  A: [Historical] Federalist Papers | No. 85.17
+     We may safely rely on the disposition of the
+State legislatures to erect barriers against the encroachments of the
+national authority. If the foregoing argument is a fallacy, certain it is that I am myself
+deceived by it
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+[12]
+  sim=0.8065
+  A: [Abrahamic] Bible — KJV (King James Version) | 34:13
+     Keep thy tongue from evil, and thy lips from speaking guile.
+  B: [Buddhist] Dhammapada (Müller) | 17.232
+     Beware of the anger of the tongue, and control thy tongue! Leave the sins of the tongue, and practise virtue with thy tongue!
+
+[13]
+  sim=0.8058
+  A: [Historical] Federalist Papers | No. 85.18
+     The judgments of many
+must unite in the work; EXPERIENCE must guide their labor; TIME must
+bring it to perfection, and the FEELING of inconveniences must correct
+the mistakes which they inevitably fall into in their firs
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+[14]
+  sim=0.8052
+  A: [Buddhist] Diamond Sutra (Gemmell) | 1.1
+     Thus have I heard[1] concerning our Lord Buddha:— Upon a memorable occasion, the Lord Buddha[2] sojourned in the kingdom of Shravasti,[3] lodging in the grove of Jeta,[4] a park within the imperial domain, which Jeta, th
+  B: [Literature] Siddhartha (Hesse) | 4.4
+     At sunrise, they saw with astonishment what a large crowd of believers and curious people had spent the night here. On all paths of the marvellous grove, monks walked in yellow robes, under the trees they sat here and th
+
+[15]
+  sim=0.8044
+  A: [Philosophy] Critique of Pure Reason (Kant) | 3.1030
+     Consequently, the hypothesis of a wise author of the universe is necessary for my guidance in the investigation of nature—is the condition under which alone I can fulfil an end which is contingent indeed, but by no means
+  B: [Scientific] Varieties of Religious Experience (James) | 50.18
+     In the vast rhythm of her processes, as the scientific mind now
+follows them, she appears to cancel herself. The books of natural theology
+which satisfied the intellects of our grandfathers seem to us quite
+grotesque,(33
+
+[16]
+  sim=0.8018
+  A: [Literature] Don Quixote (Cervantes) | 16.10
+     Poetry,
+gentle sir, is, as I take it, like a tender young maiden of supreme
+beauty, to array, bedeck, and adorn whom is the task of several other
+maidens, who are all the rest of the sciences; and she must avail
+herself 
+  B: [Philosophy] The Republic (Plato) | 10.16
+     We
+confess her charms; but if she cannot show that she is useful as well
+as delightful, like rational lovers, we must renounce our love, though
+endeared to us by early associations. Having come to years of
+discretion, we
+
+[17]
+  sim=0.8018
+  A: [Historical] Federalist Papers | No. 38.15
+     The patriotic adversary in a State
+of great exports and imports, is not less dissatisfied that the whole
+burden of taxes may be thrown on consumption. This politician discovers
+in the Constitution a direct and irresistib
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+[18]
+  sim=0.8007
+  A: [Historical] Federalist Papers | No. 9.4
+     The efficacy of various
+principles is now well understood, which were either not known at all,
+or imperfectly known to the ancients. The regular distribution of power
+into distinct departments; the introduction of legisl
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+[19]
+  sim=0.8005
+  A: [Philosophy] Beyond Good and Evil (Nietzsche) | 5.24
+     After all, "love to our neighbour" is always a secondary
+matter, partly conventional and arbitrarily manifested in relation to
+our FEAR OF OUR NEIGHBOUR. After the fabric of society seems on the
+whole established and sec
+  B: [Scientific] Civilization and Its Discontents (Freud) | 8.23
+     The greatest value has at all times been set upon systems of ethics,
+as if men had expected them in particular to achieve something
+especially important. And ethics does in fact deal predominantly with
+the point which is
+
+[20]
+  sim=0.8002
+  A: [Historical] Federalist Papers | No. 10.2
+     He will not fail,
+therefore, to set a due value on any plan which, without violating the
+principles to which he is attached, provides a proper cure for it. The instability, injustice, and confusion introduced into the pu
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+======================================================================
+TOP UNIVERSAL PAIRS — by tradition combination
+======================================================================
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Buddhist
+  sim=0.8104
+  A: [Abrahamic] Bible — KJV (King James Version) | 4:18
+     There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.
+  B: [Buddhist] Dhammapada (Müller) | 16.215
+     From love comes grief, from love comes fear; he who is free from love knows neither grief nor fear.
+
+  sim=0.8065
+  A: [Abrahamic] Bible — KJV (King James Version) | 34:13
+     Keep thy tongue from evil, and thy lips from speaking guile.
+  B: [Buddhist] Dhammapada (Müller) | 17.232
+     Beware of the anger of the tongue, and control thy tongue! Leave the sins of the tongue, and practise virtue with thy tongue!
+
+  sim=0.7711
+  A: [Abrahamic] Bible — KJV (King James Version) | 29:11
+     A fool uttereth all his mind: but a wise man keepeth it in till afterwards.
+  B: [Buddhist] Dhammapada (Müller) | 5.63
+     The fool who knows his foolishness, is wise at least so far. But a fool who thinks himself wise, he is called a fool indeed.
+
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Confucian
+  sim=0.7029
+  A: [Abrahamic] Bible — KJV (King James Version) | 2:18
+     Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.
+  B: [Confucian] Analects of Confucius (Legge) | 9.15
+     But it is unfolding their aim which is valuable. If a man be pleased with these words, but does not unfold their aim, and assents to those, but does not reform his conduct, I can really do nothing with him.' The Master s
+
+  sim=0.6984
+  A: [Abrahamic] Bible — KJV (King James Version) | 29:26
+     Many seek the ruler’s favour; but every man’s judgment cometh from the Lord.
+  B: [Confucian] Analects of Confucius (Legge) | 4.6
+     The superior man thinks of the sanctions of law; the small man thinks of favours which he may receive.' The Master said: 'He who acts with a constant view to his own advantage will be much murmured against.' The Master s
+
+  sim=0.6911
+  A: [Abrahamic] Bible — KJV (King James Version) | 32:9
+     Great men are not always wise: neither do the aged understand judgment.
+  B: [Confucian] Analects of Confucius (Legge) | 9.14
+     How do we know that his future will not be equal to our present? If he reach the age of forty or fifty, and has not made himself heard of, then indeed he will not be worth being regarded with respect.' The Master said, '
+
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Dharmic
+  sim=0.7734
+  A: [Abrahamic] Bible — KJV (King James Version) | 2:22
+     He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.
+  B: [Dharmic] Bhagavad Gita | 13.18
+     He is the source of light in all luminaries, and is entirely beyond the darkness of ignorance.  He is knowledge, the object of knowledge, and the goal of knowledge.  He dwells within the hearts of all living beings.
+
+  sim=0.7702
+  A: [Abrahamic] Bible — KJV (King James Version) | 16:29
+     Give unto the Lord the glory due unto his name: bring an offering, and come before him: worship the Lord in the beauty of holiness.
+  B: [Dharmic] Srimad Bhagavatam | 11.3.27
+     One should hear, glorify and meditate upon the wonderful transcendental activities of the Lord. One should specifically become absorbed in the appearance, activities, qualities and holy names of the Supreme Personality o
+
+  sim=0.7651
+  A: [Abrahamic] Bible — KJV (King James Version) | 45:5
+     Thine arrows are sharp in the heart of the king’s enemies; whereby the people fall under thee.
+  B: [Dharmic] Srimad Bhagavatam | 11.23.3
+     Sharp arrows which pierce one’s chest and reach the heart do not cause as much suffering as the arrows of harsh, insulting words that become lodged within the heart when spoken by uncivilized men.
+
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Historical
+  sim=0.8223
+  A: [Abrahamic] Bible — KJV (King James Version) | 21:32
+     If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.
+  B: [Historical] Code of Hammurabi | §251
+     If the ox has pushed a man, by pushing has made known his vice, and he has not blunted his horn, has not shut up his ox, and that ox has gored a man of gentle birth and caused him to die, he shall pay half a mina of silv
+
+  sim=0.7953
+  A: [Abrahamic] Bible — KJV (King James Version) | 21:7
+     And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.
+  B: [Historical] Code of Hammurabi | §146
+     If a man has espoused a votary, and she has given a maid to her husband and she has borne children, afterwards that maid has made herself equal with her mistress, because she has borne children her mistress shall not sel
+
+  sim=0.7791
+  A: [Abrahamic] Bible — KJV (King James Version) | 33:54
+     And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the
+  B: [Historical] Code of Hammurabi | §165
+     If a man has apportioned to his son, the first in his eyes, field, garden, and house, has written him a sealed deed, after the father has gone to his fate, when the brothers divide, the present his father gave him he sha
+
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Literature
+  sim=0.7474
+  A: [Abrahamic] Bible — KJV (King James Version) | 11:15
+     And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness.
+  B: [Literature] Frankenstein (Shelley) | 10.26
+     You have made me wretched beyond expression. You have left me no power
+to consider whether I am just to you or not. Begone! Relieve me from
+the sight of your detested form.”
+
+“Thus I relieve thee, my creator,” he said, a
+
+  sim=0.7404
+  A: [Abrahamic] Bible — KJV (King James Version) | 10:6
+     His body also was like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a mul
+  B: [Literature] Frankenstein (Shelley) | 5.2
+     His limbs were in proportion, and I had selected his features as
+beautiful. Beautiful! Great God! His yellow skin scarcely covered
+the work of muscles and arteries beneath; his hair was of a lustrous
+black, and flowing; 
+
+  sim=0.7403
+  A: [Abrahamic] Bible — KJV (King James Version) | 7:11
+     Wisdom is good with an inheritance: and by it there is profit to them that see the sun.
+  B: [Literature] Siddhartha (Hesse) | 14.10
+     Wisdom which a wise man tries to pass on to someone always sounds like foolishness.” “Are you kidding?” asked Govinda. “I’m not kidding. I’m telling you what I’ve found. Knowledge can be conveyed, but not wisdom. It can 
+
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Norse
+  sim=0.7745
+  A: [Abrahamic] Bible — KJV (King James Version) | 3:13
+     Happy is the man that findeth wisdom, and the man that getteth understanding.
+  B: [Norse] Poetic Edda (Bellows) | 2.8
+     Happy the one | who wins for himself Favor and praises fair; Less safe by far | is the wisdom found That is hid in another’s heart. 9. Happy the man | who has while he lives Wisdom and praise as well, For evil counsel | 
+
+  sim=0.7318
+  A: [Abrahamic] Bible — KJV (King James Version) | 14:33
+     Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.
+  B: [Norse] Poetic Edda (Bellows) | 2.12
+     The foolish man | for friends all those Who laugh at him will hold; When among the wise | he marks it not Though hatred of him they speak. 25. The foolish man | for friends all those Who laugh at him will hold; But the t
+
+  sim=0.7308
+  A: [Abrahamic] Bible — KJV (King James Version) | 3:15
+     If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.
+  B: [Norse] Poetic Edda (Bellows) | 2.23
+     Fire for men | is the fairest gift, And power to see the sun; Health as well, | if a man may have it, And a life not stained with sin. 69. All wretched is no man, | though never so sick; Some from their sons have joy, So
+
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Philosophy
+  sim=0.7631
+  A: [Abrahamic] Bible — KJV (King James Version) | 7:4
+     When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.
+  B: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 1.87
+     Thus passeth the day unto the virtuous. When night cometh, then take I good care not to summon sleep. It disliketh to be summoned—sleep, the lord of the virtues! But I think of what I have done and thought during the day
+
+  sim=0.7594
+  A: [Abrahamic] Bible — KJV (King James Version) | 4:13
+     In thoughts from the visions of the night, when deep sleep falleth on men,
+  B: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 1.89
+     Sleep toucheth my mouth, and it remaineth open. Verily, on soft soles doth it come to me, the dearest of thieves, and stealeth from me my thoughts: stupid do I then stand, like this academic chair. But not much longer do
+
+  sim=0.7589
+  A: [Abrahamic] Bible — KJV (King James Version) | 29:27
+     An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.
+  B: [Philosophy] Nicomachean Ethics (Aristotle) | 5.3
+     Let it be ascertained then in how many senses the term “Unjust man” is
+used. Well, he who violates the law, and he who is a grasping man, and
+the unequal man, are all thought to be Unjust and so manifestly the
+Just man w
+
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Scientific
+  sim=0.8312
+  A: [Abrahamic] Bible — KJV (King James Version) | 5:43
+     Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
+  B: [Scientific] Civilization and Its Discontents (Freud) | 5.10
+     If the high-sounding ordinance had run: ‘Love thy neighbour as thy
+neighbour loves thee’, I should not take objection to it. And there is
+a second commandment that seems to me even more incomprehensible, and
+arouses stil
+
+  sim=0.7973
+  A: [Abrahamic] Bible — KJV (King James Version) | 41:1
+     Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?
+  B: [Scientific] Psychology of the Unconscious (Jung) | 1.128
+     Behold, if a river overflow, he trembleth not; He is confident though a Jordan swell even to his mouth. Shall any take him when he is on the watch. Or pierce through his nose with a snare? Canst thou draw leviathan with 
+
+  sim=0.7787
+  A: [Abrahamic] Bible — KJV (King James Version) | 22:39
+     And the second is like unto it, Thou shalt love thy neighbour as thyself.
+  B: [Scientific] Civilization and Its Discontents (Freud) | 5.10
+     If the high-sounding ordinance had run: ‘Love thy neighbour as thy
+neighbour loves thee’, I should not take objection to it. And there is
+a second commandment that seems to me even more incomprehensible, and
+arouses stil
+
+
+────────────────────────────────────────────────────────────
+  Abrahamic ↔ Taoist
+  sim=0.7038
+  A: [Abrahamic] Bible — KJV (King James Version) | 10:14
+     Every man is brutish in his knowledge: every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them.
+  B: [Taoist] Dao De Jing (Linnell) | 15
+     The virtue of the ancients made they who were scholars subtle, mysterious, obscure, deep, and penetrating. Their mysterious depths can not be understood. Now : only because they can not be understood, Therefore we try to
+
+  sim=0.7037
+  A: [Abrahamic] Bible — KJV (King James Version) | 17:27
+     He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.
+  B: [Taoist] Dao De Jing (Linnell) | 30
+     He who knows people is wise; He who knows himself has insight. He who is victorious over people possesses power; He who is victorious over himself is strong. He who knows he has enough is wealthy; He who uses force posse
+
+  sim=0.6996
+  A: [Abrahamic] Bible — KJV (King James Version) | 24:5
+     A wise man is strong; yea, a man of knowledge increaseth strength.
+  B: [Taoist] Dao De Jing (Linnell) | 30
+     He who knows people is wise; He who knows himself has insight. He who is victorious over people possesses power; He who is victorious over himself is strong. He who knows he has enough is wealthy; He who uses force posse
+
+
+────────────────────────────────────────────────────────────
+  Buddhist ↔ Confucian
+  sim=0.7200
+  A: [Buddhist] Dhammapada (Müller) | 6.84
+     If, whether for his own sake, or for the sake of others, a man wishes neither for a son, nor for wealth, nor for lordship, and if he does not wish for his own success by unfair means, then he is good, wise, and virtuous.
+  B: [Confucian] Analects of Confucius (Legge) | 4.2
+     The virtuous rest in virtue; the wise desire virtue.' The Master said, 'It is only the (truly) virtuous man, who can love, or who can hate, others.' The Master said, 'If the will be set on virtue, there will be no practi
+
+  sim=0.6391
+  A: [Buddhist] Dhammapada (Müller) | 4.50
+     Not the perversities of others, not their sins of commission or omission, but his own misdeeds and negligences should a sage take notice of.
+  B: [Confucian] Analects of Confucius (Legge) | 13.15
+     The father conceals the misconduct of the son, and the son conceals the misconduct of the father. Uprightness is to be found in this.' Fan Ch'ih asked about perfect virtue. The Master said, 'It is, in retirement, to be s
+
+  sim=0.6314
+  A: [Buddhist] Diamond Sutra (Gemmell) | 26.2
+     T. W. Rhys Davids. “A Buddha is to be seen (known) from the Law; For the Lords (Buddha) have the Law-Body; And the nature of the Law cannot be understood, Nor can it be made to be understood.”
+  B: [Confucian] Analects of Confucius (Legge) | 4.6
+     The superior man thinks of the sanctions of law; the small man thinks of favours which he may receive.' The Master said: 'He who acts with a constant view to his own advantage will be much murmured against.' The Master s
+
+
+────────────────────────────────────────────────────────────
+  Buddhist ↔ Dharmic
+  sim=0.7712
+  A: [Buddhist] Dhammapada (Müller) | 6.89
+     Those whose mind is well grounded in the (seven) elements of knowledge, who without clinging to anything, rejoice in freedom from attachment, whose appetites have been conquered, and who are full of light, are free (even
+  B: [Dharmic] Bhagavad Gita | 18.49
+     Those whose intellect is unattached everywhere, who have mastered the mind, and are free from desires by the practice of renunciation, attain the highest perfection of freedom from action.
+
+  sim=0.7537
+  A: [Buddhist] Dhammapada (Müller) | 10.138
+     He will have cruel suffering, loss, injury of the body, heavy affliction, or loss of mind,
+  B: [Dharmic] Srimad Bhagavatam | 3.31.33
+     He becomes devoid of truthfulness, cleanliness, mercy, gravity, spiritual intelligence, shyness, austerity, fame, forgiveness, control of the mind, control of the senses, fortune and all such opportunities.
+
+  sim=0.7516
+  A: [Buddhist] Dhammapada (Müller) | 26.386
+     He who is thoughtful, blameless, settled, dutiful, without passions, and who has attained the highest end, him I call indeed a Brahmana.
+  B: [Dharmic] Srimad Bhagavatam | 10.86.53
+     By his very birth, a brāhmaṇa is the best of all living beings in this world, and he becomes even more exalted when he is endowed with austerity, learning and self-satisfaction, what to speak of devotion to Me.
+
+
+────────────────────────────────────────────────────────────
+  Buddhist ↔ Historical
+  sim=0.6948
+  A: [Buddhist] Dhammapada (Müller) | 5.62
+     "These sons belong to me, and this wealth belongs to me," with such thoughts a fool is tormented. He himself does not belong to himself; how much less sons and wealth?
+  B: [Historical] Code of Hammurabi | §191
+     If a man, after a young child whom he has taken to his sonship and brought him up, has made a house for himself and acquired children, and has set his face to cut off the nursling, that child shall not go his way, the fa
+
+  sim=0.6156
+  A: [Buddhist] Dhammapada (Müller) | 10.143
+     Is there in this world any man so restrained by humility that he does not mind reproof, as a well-trained horse the whip?
+  B: [Historical] Code of Hammurabi | §202
+     If a man has struck the strength of a man who is great above him, he shall be struck in the assembly with sixty strokes of a cow- hide whip.
+
+  sim=0.6115
+  A: [Buddhist] Dhammapada (Müller) | 21.292
+     What ought to be done is neglected, what ought not to be done is done; the desires of unruly, thoughtless people are always increasing.
+  B: [Historical] Federalist Papers | No. 71.4
+     This often applies to
+their very errors. But their good sense would despise the adulator
+who should pretend that they always REASON RIGHT about the MEANS of
+promoting it. They know from experience that they sometimes err
+
+
+────────────────────────────────────────────────────────────
+  Buddhist ↔ Literature
+  sim=0.8052
+  A: [Buddhist] Diamond Sutra (Gemmell) | 1.1
+     Thus have I heard[1] concerning our Lord Buddha:— Upon a memorable occasion, the Lord Buddha[2] sojourned in the kingdom of Shravasti,[3] lodging in the grove of Jeta,[4] a park within the imperial domain, which Jeta, th
+  B: [Literature] Siddhartha (Hesse) | 4.4
+     At sunrise, they saw with astonishment what a large crowd of believers and curious people had spent the night here. On all paths of the marvellous grove, monks walked in yellow robes, under the trees they sat here and th
+
+  sim=0.7405
+  A: [Buddhist] Diamond Sutra (Gemmell) | 14.7
+     The Prince of Kalinga, a cruel and dissolute ruler, having organised a hunting expedition, visited the secluded region, accompanied by numerous ladies of his harem. Fatigued by the excitement of the chase, the prince fel
+  B: [Literature] Siddhartha (Hesse) | 4.2
+     You should know, in Jetavana, in the garden of Anathapindika is where the exalted one dwells. There you pilgrims shall spend the night, for there is enough space for the innumerable, who flock here, to hear the teachings
+
+  sim=0.7219
+  A: [Buddhist] Dhammapada (Müller) | 1.15
+     The evil-doer mourns in this world, and he mourns in the next; he mourns in both. He mourns and suffers when he sees the evil of his own work.
+  B: [Literature] Frankenstein (Shelley) | 24.78
+     If he whom you mourn still lived, still would he be the object, again would
+he become the prey, of your accursed vengeance. It is not pity that you
+feel; you lament only because the victim of your malignity is withdrawn
+
+
+
+────────────────────────────────────────────────────────────
+  Buddhist ↔ Norse
+  sim=0.6491
+  A: [Buddhist] Dhammapada (Müller) | 11.155
+     Men who have not observed proper discipline, and have not gained treasure in their youth, perish like old herons in a lake without fish.
+  B: [Norse] Poetic Edda (Bellows) | 2.11
+     The greedy man, | if his mind be vague, Will eat till sick he is; The vulgar man, | when among the wise, To scorn by his belly is brought. 21. The herds know well | when home they shall fare, And then from the grass they
+
+
+────────────────────────────────────────────────────────────
+  Buddhist ↔ Philosophy
+  sim=0.7792
+  A: [Buddhist] Dhammapada (Müller) | 12.160
+     Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find.
+  B: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 1.110
+     Ever hearkeneth the Self, and seeketh; it compareth, mastereth, conquereth, and destroyeth. It ruleth, and is also the ego’s ruler. Behind thy thoughts and feelings, my brother, there is a mighty lord, an unknown sage—it
+
+  sim=0.7628
+  A: [Buddhist] Dhammapada (Müller) | 2.28
+     When the learned man drives away vanity by earnestness, he, the wise, climbing the terraced heights of wisdom, looks down upon the fools, serene he looks upon the toiling crowd, as one that stands on a mountain looks dow
+  B: [Philosophy] Nicomachean Ethics (Aristotle) | 4.32
+     But the having such an
+opinion of themselves seems to have a deteriorating effect on the
+character: because in all cases men’s aims are regulated by their
+supposed desert, and thus these men, under a notion of their own 
+
+  sim=0.7441
+  A: [Buddhist] Dhammapada (Müller) | 21.305
+     He alone who, without ceasing, practises the duty of sitting alone and sleeping alone, he, subduing himself, will rejoice in the destruction of all desires alone, as if living in a forest.
+  B: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 1.254
+     To-day sufferest thou still from the multitude, thou individual; to-day hast thou still thy courage unabated, and thy hopes. But one day will the solitude weary thee; one day will thy pride yield, and thy courage quail. 
+
+
+────────────────────────────────────────────────────────────
+  Buddhist ↔ Scientific
+  sim=0.7576
+  A: [Buddhist] Dhammapada (Müller) | 9.119
+     Even an evil-doer sees happiness as long as his evil deed has not ripened; but when his evil deed has ripened, then does the evil-doer see evil.
+  B: [Scientific] Varieties of Religious Experience (James) | 50.24
+     Systematic healthy‐mindedness, conceiving good as the essential and
+universal aspect of being, deliberately excludes evil from its field of
+vision; and although, when thus nakedly stated, this might seem a
+difficult feat
+
+  sim=0.7342
+  A: [Buddhist] Dhammapada (Müller) | 1.2
+     All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him
+  B: [Scientific] Varieties of Religious Experience (James) | 50.36
+     It is the character of inner
+happiness in the thoughts which stamps them as good, or else their
+consistency with our other opinions and their serviceability for our
+needs, which make them pass for true in our esteem. Now
+
+  sim=0.7286
+  A: [Buddhist] Diamond Sutra (Gemmell) | 32.3
+     W. Rhys, 13, 29, 31, 80, 95, 110 Davis, Sir John Francis, 19 Dewa-Loka, 30 Devas, 31 Dhamma, 27, 34, 44, 52 _Dhammapada_, 34, 44, 52, 63, 93 Dhammo, 78 Dharma, 30, 35, 83 Dharma Aranyaka, 35 Dharma-Kaya, 17, 82 Dharmasal
+  B: [Scientific] Varieties of Religious Experience (James) | 50.90
+     BUCKE, 398. Buddhism, 31, 34, 522. Buddhist mysticism, 401. BULLEN, 287.
+
+
+────────────────────────────────────────────────────────────
+  Confucian ↔ Dharmic
+  sim=0.6864
+  A: [Confucian] Analects of Confucius (Legge) | 7.14
+     It may simply be said of me, that I strive to become such without satiety, and teach others without weariness.' Kung-hsi Hwa said, 'This is just what we, the disciples, cannot imitate you in.' The Master being very sick,
+  B: [Dharmic] Srimad Bhagavatam | 11.10.6
+     The servant or disciple of the spiritual master should be free from false prestige, never considering himself to be the doer. He should be active and never lazy and should give up all sense of proprietorship over the obj
+
+  sim=0.6800
+  A: [Confucian] Analects of Confucius (Legge) | 12.22
+     Do not disgrace yourself.' The philosopher Tsang said, 'The superior man on grounds of culture meets with his friends, and by their friendship helps his virtue.'
+  B: [Dharmic] Srimad Bhagavatam | 4.8.34
+     Every man should act like this: when he meets a person more qualified than himself, he should be very pleased; when he meets someone less qualified than himself, he should be compassionate toward him; and when he meets s
+
+  sim=0.6755
+  A: [Confucian] Analects of Confucius (Legge) | 1.4
+     He should overflow in love to all, and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies.' Tsze-hsia said, 'If a man wi
+  B: [Dharmic] Srimad Bhagavatam | 11.7.39
+     A learned sage should take his satisfaction in the simple maintenance of his existence and should not seek satisfaction through gratifying the material senses. In other words, one should care for the material body in suc
+
+
+────────────────────────────────────────────────────────────
+  Confucian ↔ Historical
+  sim=0.6463
+  A: [Confucian] Analects of Confucius (Legge) | 13.17
+     They are obstinate little men. Yet perhaps they may make the next class.' 4. Tsze-kung finally inquired, 'Of what sort are those of the present day, who engage in government?' The Master said 'Pooh! they are so many peck
+  B: [Historical] Federalist Papers | No. 72.6
+     And if he could expect to
+prolong his honors by his good conduct, he might hesitate to sacrifice
+his appetite for them to his appetite for gain. But with the prospect
+before him of approaching an inevitable annihilation,
+
+  sim=0.6445
+  A: [Confucian] Analects of Confucius (Legge) | 7.4
+     The Master said to Yen Yuan, 'When called to office, to undertake its duties; when not so called, to lie retired;-- it is only I and you who have attained to this.' 2. Tsze-lu said, 'If you had the conduct of the armies 
+  B: [Historical] Federalist Papers | No. 72.6
+     And if he could expect to
+prolong his honors by his good conduct, he might hesitate to sacrifice
+his appetite for them to his appetite for gain. But with the prospect
+before him of approaching an inevitable annihilation,
+
+  sim=0.5810
+  A: [Confucian] Analects of Confucius (Legge) | 12.7
+     Tsze-kung said, 'If it cannot be helped, and one of these must be dispensed with, which of the three should be foregone first?' 'The military equipment,' said the Master. 3. Tsze-kung again asked, 'If it cannot be helped
+  B: [Historical] Federalist Papers | No. 72.6
+     And if he could expect to
+prolong his honors by his good conduct, he might hesitate to sacrifice
+his appetite for them to his appetite for gain. But with the prospect
+before him of approaching an inevitable annihilation,
+
+
+────────────────────────────────────────────────────────────
+  Confucian ↔ Literature
+  sim=0.7298
+  A: [Confucian] Analects of Confucius (Legge) | 4.6
+     The superior man thinks of the sanctions of law; the small man thinks of favours which he may receive.' The Master said: 'He who acts with a constant view to his own advantage will be much murmured against.' The Master s
+  B: [Literature] Don Quixote (Cervantes) | 51.5
+     Make
+not many proclamations; but those thou makest take care that they be
+good ones, and above all that they be observed and carried out; for
+proclamations that are not observed are the same as if they did not
+exist; nay
+
+  sim=0.7119
+  A: [Confucian] Analects of Confucius (Legge) | 10.4
+     When he was standing, he did not occupy the middle of the gate-way; when he passed in or out, he did not tread upon the threshold. 3. When he was passing the vacant place of the prince, his countenance appeared to change
+  B: [Literature] Frankenstein (Shelley) | 15.20
+     At first his
+countenance was illuminated with pleasure, but as he continued,
+thoughtfulness and sadness succeeded; at length, laying aside the
+instrument, he sat absorbed in reflection.
+
+“My heart beat quick; this was th
+
+  sim=0.7025
+  A: [Confucian] Analects of Confucius (Legge) | 10.5
+     When he had got to the bottom of the steps, he advanced rapidly to his place, with his arms like wings, and on occupying it, his manner still showed respectful uneasiness. 1. When he was carrying the scepter of his ruler
+  B: [Literature] Frankenstein (Shelley) | 15.20
+     At first his
+countenance was illuminated with pleasure, but as he continued,
+thoughtfulness and sadness succeeded; at length, laying aside the
+instrument, he sat absorbed in reflection.
+
+“My heart beat quick; this was th
+
+
+────────────────────────────────────────────────────────────
+  Confucian ↔ Norse
+  sim=0.6826
+  A: [Confucian] Analects of Confucius (Legge) | 9.16
+     The Master said, 'Dressed himself in a tattered robe quilted with hemp, yet standing by the side of men dressed in furs, and not ashamed;-- ah! it is Yu who is equal to this! 2. '"He dislikes none, he covets nothing;-- w
+  B: [Norse] Poetic Edda (Bellows) | 2.31
+     At morning then, | when once more I came, And all were sleeping still, A dog I found | in the fair one’s place, Bound there upon her bed. 102. Many fair maids, | if a man but tries them, False to a lover are found; That 
+
+  sim=0.6784
+  A: [Confucian] Analects of Confucius (Legge) | 5.15
+     Tsze-lu said, 'I should like, having chariots and horses, and light fur dresses, to share them with my friends, and though they should spoil them, I would not be displeased.' 3. Yen Yuan said, 'I should like not to boast
+  B: [Norse] Poetic Edda (Bellows) | 2.31
+     At morning then, | when once more I came, And all were sleeping still, A dog I found | in the fair one’s place, Bound there upon her bed. 102. Many fair maids, | if a man but tries them, False to a lover are found; That 
+
+  sim=0.6538
+  A: [Confucian] Analects of Confucius (Legge) | 6.9
+     Being in the rear on an occasion of flight, when they were about to enter the gate, he whipped up his horse, saying, "It is not that I dare to be last. My horse would not advance."' The Master said, 'Without the specious
+  B: [Norse] Poetic Edda (Bellows) | 2.31
+     At morning then, | when once more I came, And all were sleeping still, A dog I found | in the fair one’s place, Bound there upon her bed. 102. Many fair maids, | if a man but tries them, False to a lover are found; That 
+
+
+────────────────────────────────────────────────────────────
+  Confucian ↔ Philosophy
+  sim=0.7679
+  A: [Confucian] Analects of Confucius (Legge) | 15.15
+     There is plowing;-- even in that there is sometimes want. So with learning;-- emolument may be found in it. The superior man is anxious lest he should not get truth; he is not anxious lest poverty should come upon him.' 
+  B: [Philosophy] Discourse on the Method (Descartes) | 6.11
+     But even superior men have no
+reason for any great anxiety to know these principles, for if what they
+desire is to be able to speak of all things, and to acquire a
+reputation for learning, they will gain their end more e
+
+  sim=0.7461
+  A: [Confucian] Analects of Confucius (Legge) | 6.10
+     If a man lose his uprightness, and yet live, his escape from death is the effect of mere good fortune.' The Master said, 'They who know the truth are not equal to those who love it, and they who love it are not equal to 
+  B: [Philosophy] The Republic (Plato) | 6.25
+     Of all men
+the guardian must not faint in the search after truth; he must be
+prepared to take the longer road, or he will never reach that higher
+region which is above the four virtues; and of the virtues too he must
+not
+
+  sim=0.7386
+  A: [Confucian] Analects of Confucius (Legge) | 17.14
+     'When they are anxious lest such things should be lost, there is nothing to which they will not proceed.' 1. The Master said, 'Anciently, men had three failings, which now perhaps are not to be found. 2. 'The high-minded
+  B: [Philosophy] Beyond Good and Evil (Nietzsche) | 6.24
+     They have always disclosed how much hypocrisy,
+indolence, self-indulgence, and self-neglect, how much falsehood was
+concealed under the most venerated types of contemporary morality, how
+much virtue was OUTLIVED, they ha
+
+
+────────────────────────────────────────────────────────────
+  Confucian ↔ Scientific
+  sim=0.6932
+  A: [Confucian] Analects of Confucius (Legge) | 20.10
+     If you do not charge anything for copies of
+  B: [Scientific] Varieties of Religious Experience (James) | 50.435
+     If you do not charge anything for
+copie
+
+  sim=0.6691
+  A: [Confucian] Analects of Confucius (Legge) | 3.6
+     If those were sufficient, I could adduce them in support of my words.' The Master said, 'At the great sacrifice, after the pouring out of the libation, I have no wish to look on.' Some one asked the meaning of the great 
+  B: [Scientific] Psychology of the Unconscious (Jung) | 2.692
+     By that at least only a portion is sacrificed.[839] With these sacrifices, the object of which in ideal cases is to symbolize the libido drawing away from the mother, life is symbolically renounced in order to regain it.
+
+  sim=0.6558
+  A: [Confucian] Analects of Confucius (Legge) | 12.17
+     Such a man will be distinguished in the country; he will be distinguished in his clan. 6. 'As to the man of notoriety, he assumes the appearance of virtue, but his actions are opposed to it, and he rests in this characte
+  B: [Scientific] Psychology of the Unconscious (Jung) | 1.88
+     Though all men should forget its truth, and walk in a vain show, he can not. At all moments the Flame-image glares in upon him” (“Heroes and Hero-Worship”). One can select from literature at random. For example, S.
+
+
+────────────────────────────────────────────────────────────
+  Confucian ↔ Taoist
+  sim=0.7119
+  A: [Confucian] Analects of Confucius (Legge) | 14.2
+     'When the love of superiority, boasting, resentments, and covetousness are repressed, this may be deemed perfect virtue.' 2. The Master said, 'This may be regarded as the achievement of what is difficult. But I do not kn
+  B: [Taoist] Dao De Jing (Linnell) | 80
+     True words are not beautiful; Beautiful words are not true. He who has virtue does not argue; He who argues does not have virtue. He who knows is not learned; He who is learned does not know. The sage does not accumulate
+
+  sim=0.6821
+  A: [Confucian] Analects of Confucius (Legge) | 9.12
+     Some one said, 'They are rude. How can you do such a thing?' The Master said, 'If a superior man dwelt among them, what rudeness would there be?' The Master said, 'I returned from Wei to Lu, and then the music was reform
+  B: [Taoist] Dao De Jing (Linnell) | 80
+     True words are not beautiful; Beautiful words are not true. He who has virtue does not argue; He who argues does not have virtue. He who knows is not learned; He who is learned does not know. The sage does not accumulate
+
+  sim=0.6787
+  A: [Confucian] Analects of Confucius (Legge) | 14.24
+     The Master said, 'Why must Kao-tsung be referred to as an example of this? The ancients all did so. When the sovereign died, the officers all attended to their several duties, taking instructions from the prime minister 
+  B: [Taoist] Dao De Jing (Linnell) | 17
+     The existence of the best ruler is barely known to the people. Next is one who they love and praise. Next is one who they fear. Next is one who they ridicule. If the ruler does not trust enough, then he will not have any
+
+
+────────────────────────────────────────────────────────────
+  Dharmic ↔ Historical
+  sim=0.7025
+  A: [Dharmic] Srimad Bhagavatam | 6.14.20
+     If the king’s mind is fully controlled, all his family members and governmental officers are subordinate to him. His provincial governors present taxes on time, without resistance, and what to speak of lesser servants?
+  B: [Historical] Federalist Papers | No. 70.21
+     In England, the king is a perpetual magistrate; and it is a maxim which
+has obtained for the sake of the public peace, that he is unaccountable
+for his administration, and his person sacred. Nothing, therefore, can
+be wi
+
+  sim=0.6737
+  A: [Dharmic] Srimad Bhagavatam | 7.5.37
+     Although a medicinal herb, being born in the forest, does not belong to the same category as a man, if beneficial it is kept very carefully. Similarly, if someone outside one’s family is favorable, he should be given pro
+  B: [Historical] Code of Hammurabi | §191
+     If a man, after a young child whom he has taken to his sonship and brought him up, has made a house for himself and acquired children, and has set his face to cut off the nursling, that child shall not go his way, the fa
+
+  sim=0.6623
+  A: [Dharmic] Srimad Bhagavatam | 6.14.40
+     A wife who has no sons is neglected at home by her husband and dishonored by her co-wives exactly like a maidservant. Certainly such a woman is condemned in every respect because of her sinful life.
+  B: [Historical] Code of Hammurabi | §146
+     If a man has espoused a votary, and she has given a maid to her husband and she has borne children, afterwards that maid has made herself equal with her mistress, because she has borne children her mistress shall not sel
+
+
+────────────────────────────────────────────────────────────
+  Dharmic ↔ Literature
+  sim=0.7727
+  A: [Dharmic] Srimad Bhagavatam | 11.3.25
+     One should practice meditation by constantly seeing oneself to be an eternal cognizant spirit soul and seeing the Lord to be the absolute controller of everything. To increase one’s meditation, one should live in a seclu
+  B: [Literature] Siddhartha (Hesse) | 5.9
+     Practise meditation? But all this is over, all of this is no longer alongside my path.” Motionless, Siddhartha remained standing there, and for the time of one moment and breath, his heart felt cold, he felt a cold in hi
+
+  sim=0.7623
+  A: [Dharmic] Srimad Bhagavatam | 3.4.7
+     The Lord’s body is blackish, but is eternal, full of bliss and knowledge, and very, very beautiful. His eyes are always peaceful, and they are reddish like the rising morning sun. I could immediately recognize Him as the
+  B: [Literature] Frankenstein (Shelley) | 5.2
+     His limbs were in proportion, and I had selected his features as
+beautiful. Beautiful! Great God! His yellow skin scarcely covered
+the work of muscles and arteries beneath; his hair was of a lustrous
+black, and flowing; 
+
+  sim=0.7539
+  A: [Dharmic] Upanishads (Paramananda) | 2.60
+     A man must try to subdue his lower nature and gain control over the body and senses. He must conquer the impure selfish desires which now disturb the serenity of his mind, that it may grow calm and peaceful. In other wor
+  B: [Literature] Siddhartha (Hesse) | 2.9
+     But where, where was this self, this innermost part, this ultimate part? It was not flesh and bone, it was neither thought nor consciousness, thus the wisest ones taught. So, where, where was it? To reach this place, the
+
+
+────────────────────────────────────────────────────────────
+  Dharmic ↔ Norse
+  sim=0.7188
+  A: [Dharmic] Srimad Bhagavatam | 7.2.29
+     His golden, bejeweled armor smashed, his ornaments and garlands fallen from their places, his hair scattered and his eyes lusterless, the slain King lay on the battlefield, his entire body smeared with blood, his heart p
+  B: [Norse] Poetic Edda (Bellows) | 29.19
+     Then the warrior spake, | as from slumber he wakened, Soon he knew for his wounds | would the bandage do nought: “Now the truth shalt thou say: | who has slain Buthli’s son? Full sore am I smitten, | nor hope can I see.”
+
+  sim=0.6619
+  A: [Dharmic] Srimad Bhagavatam | 9.10.25
+     Striking their breasts in affliction because their husbands had been killed by the arrows of Lakṣmaṇa, the women embraced their respective husbands and cried piteously in voices appealing to everyone.
+  B: [Norse] Poetic Edda (Bellows) | 22.6
+     To her the warriors | wise there came, Longing her heavy | woe to lighten; Grieving could not | Guthrun weep, So sad her heart, | it seemed, would break. 3. Then the wives | of the warriors came, Gold-adorned, | and Guth
+
+  sim=0.6358
+  A: [Dharmic] Srimad Bhagavatam | 11.17.52
+     A householder taking care of many dependent family members should not become materially attached to them, nor should he become mentally unbalanced, considering himself to be the lord. An intelligent householder should se
+  B: [Norse] Poetic Edda (Bellows) | 2.15
+     Better a house, | though a hut it be, A man is master at home; A pair of goats | and a patched-up roof Are better far than begging. 37. Better a house, | though a hut it be, A man is master at home; His heart is bleeding
+
+
+────────────────────────────────────────────────────────────
+  Dharmic ↔ Philosophy
+  sim=0.7920
+  A: [Dharmic] Srimad Bhagavatam | 11.28.24
+     The material body made of earth is not the true self; nor are the senses, their presiding demigods or the air of life; nor is the external air, water or fire or one’s mind. All these are simply matter. Similarly, neither
+  B: [Philosophy] Critique of Pure Reason (Kant) | 3.344
+     It is manifest that this thought, when applied to an object (myself), can contain nothing but transcendental predicates thereof; because the least empirical predicate would destroy the purity of the science and its indep
+
+  sim=0.7909
+  A: [Dharmic] Srimad Bhagavatam | 10.47.6
+     The friendship shown toward others — those who are not family members — is motivated by personal interest, and thus it is a pretense that lasts only until one’s purpose is fulfilled. Such friendship is just like the inte
+  B: [Philosophy] Nicomachean Ethics (Aristotle) | 9.12
+     Now the friendly feelings which are exhibited towards our friends, and
+by which Friendships are characterised, seem to have sprung out of
+those which we entertain toward ourselves. I mean, people define a friend to be “o
+
+  sim=0.7908
+  A: [Dharmic] Srimad Bhagavatam | 2.10.32
+     The sense organs are attached to the modes of material nature, and the modes of material nature are products of the false ego. The mind is subjected to all kinds of material experiences (happiness and distress), and the 
+  B: [Philosophy] Critique of Pure Reason (Kant) | 3.808
+     The first object of an idea of this kind is the ego, considered merely as a thinking nature or soul. If I wish to investigate the properties of a thinking being, I must interrogate experience. But I find that I can apply
+
+
+────────────────────────────────────────────────────────────
+  Dharmic ↔ Scientific
+  sim=0.8190
+  A: [Dharmic] Upanishads (Paramananda) | 2.117
+     Then one should become watchful, for Yoga comes and goes. Yoga literally means to join or to unite the lower self with the Higher Self, the object with the subject, the worshipper with God. In order to gain this union, h
+  B: [Scientific] Varieties of Religious Experience (James) | 50.46
+     Yoga means the experimental union of the
+individual with the divine. It is based on persevering exercise; and the
+diet, posture, breathing, intellectual concentration, and moral discipline
+vary slightly in the different 
+
+  sim=0.7936
+  A: [Dharmic] Srimad Bhagavatam | 10.10.17
+     Saintly persons may freely associate with those who are poverty-stricken, but not with those who are rich. A poverty-stricken man, by association with saintly persons, very soon becomes uninterested in material desires, 
+  B: [Scientific] Varieties of Religious Experience (James) | 50.100
+     I recommend this matter to your serious pondering, for it is certain that
+the prevalent fear of poverty among the educated classes is the worst
+moral disease from which our civilization suffers.
+
+                  ‐‐‐‐‐‐
+
+  sim=0.7924
+  A: [Dharmic] Srimad Bhagavatam | 11.20.24
+     Through the various disciplinary regulations and the purificatory procedures of the yoga system, through logic and spiritual education or through worship and adoration of Me, one should constantly engage his mind in reme
+  B: [Scientific] Varieties of Religious Experience (James) | 50.46
+     Yoga means the experimental union of the
+individual with the divine. It is based on persevering exercise; and the
+diet, posture, breathing, intellectual concentration, and moral discipline
+vary slightly in the different 
+
+
+────────────────────────────────────────────────────────────
+  Dharmic ↔ Taoist
+  sim=0.7249
+  A: [Dharmic] Srimad Bhagavatam | 4.16.15
+     This King will please everyone by his practical activities, and all of his citizens will remain very satisfied. Because of this the citizens will take great satisfaction in accepting him as their ruling king.
+  B: [Taoist] Dao De Jing (Linnell) | 17
+     The existence of the best ruler is barely known to the people. Next is one who they love and praise. Next is one who they fear. Next is one who they ridicule. If the ruler does not trust enough, then he will not have any
+
+  sim=0.6995
+  A: [Dharmic] Srimad Bhagavatam | 1.18.42
+     O my boy, your intelligence is immature, and therefore you have no knowledge that the king, who is the best amongst human beings, is as good as the Personality of Godhead. He is never to be placed on an equal footing wit
+  B: [Taoist] Dao De Jing (Linnell) | 17
+     The existence of the best ruler is barely known to the people. Next is one who they love and praise. Next is one who they fear. Next is one who they ridicule. If the ruler does not trust enough, then he will not have any
+
+  sim=0.6935
+  A: [Dharmic] Srimad Bhagavatam | 11.25.34
+     A wise sage, free from all material association and unbewildered, should subdue his senses and worship Me. He should conquer the modes of passion and ignorance by engaging himself only with things in the mode of goodness
+  B: [Taoist] Dao De Jing (Linnell) | 20
+     A good traveler is without wagon track or footprint. A good speaker is without flaw or disgrace. A good accountant does not use counting tokens. A good barrier is without bar or lock, yet can not be opened. A good bindin
+
+
+────────────────────────────────────────────────────────────
+  Historical ↔ Literature
+  sim=0.7023
+  A: [Historical] Federalist Papers | No. 6.12
+     Hannibal had carried her arms into
+the heart of Italy and to the gates of Rome, before Scipio, in turn,
+gave him an overthrow in the territories of Carthage, and made a
+conquest of the commonwealth. Venice, in later time
+  B: [Literature] Don Quixote (Cervantes) | 39.5
+     It is now some twenty-two years since I left my father’s house, and all
+that time, though I have written several letters, I have had no news
+whatever of him or of my brothers; my own adventures during that period
+I will 
+
+  sim=0.6952
+  A: [Historical] Magna Carta | Clause 16
+     No man shall be forced to perform more service for a knight’s ‘fee’, or other free holding of land, than is due from it.
+  B: [Literature] Don Quixote (Cervantes) | 32.2
+     Is nothing more needed
+than to get a footing, by hook or by crook, in other people’s houses to
+rule over the masters (and that, perhaps, after having been brought up
+in all the straitness of some seminary, and without ha
+
+  sim=0.6817
+  A: [Historical] Code of Hammurabi | §179
+     If a lady, a votary, or a woman vowed, whose father has granted her a marriage portion, has written her a deed, in the deed he wrote her has written her 'after her wherever is good to her to give,' has allowed to her all
+  B: [Literature] Pride and Prejudice (Austen) | 100.7
+     But the fact is, that
+being, as I am, to inherit this estate after the death of your honoured
+father (who, however, may live many years longer), I could not satisfy
+myself without resolving to choose a wife from among hi
+
+
+────────────────────────────────────────────────────────────
+  Historical ↔ Norse
+  sim=0.6239
+  A: [Historical] Federalist Papers | No. 36.22
+     Two versions of this paragraph appear in different editions.
+  B: [Norse] Poetic Edda (Bellows) | 30.17
+     Many editors assume the loss of a line after line 1. In several editions lines 2–3 are placed after line 2 of stanza 18. Hunnish: the word meant little more than “German”; cf. Guthrunarhvot, 3 and note. 13. In the manusc
+
+  sim=0.6239
+  A: [Historical] Federalist Papers | No. 56.13
+     Two versions of this paragraph appear in different editions.
+  B: [Norse] Poetic Edda (Bellows) | 30.17
+     Many editors assume the loss of a line after line 1. In several editions lines 2–3 are placed after line 2 of stanza 18. Hunnish: the word meant little more than “German”; cf. Guthrunarhvot, 3 and note. 13. In the manusc
+
+  sim=0.6145
+  A: [Historical] Federalist Papers | No. 70.28
+     Two versions of these paragraphs appear in different editions.
+  B: [Norse] Poetic Edda (Bellows) | 7.18
+     Neither manuscript has any superscriptions, but most editors have supplied them as above. From this point through stanza 11 the editors have varied considerably in grouping the lines into stanzas. The manuscripts indicat
+
+
+────────────────────────────────────────────────────────────
+  Historical ↔ Philosophy
+  sim=0.8290
+  A: [Historical] Federalist Papers | No. 40.17
+     They must have recollected
+that it was by this irregular and assumed privilege of proposing to the
+people plans for their safety and happiness, that the States were first
+united against the danger with which they were th
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+  sim=0.8104
+  A: [Historical] Federalist Papers | No. 78.16
+     If, then, the courts of justice are to be considered as the bulwarks
+of a limited Constitution against legislative encroachments, this
+consideration will afford a strong argument for the permanent tenure of
+judicial offi
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+  sim=0.8072
+  A: [Historical] Federalist Papers | No. 85.17
+     We may safely rely on the disposition of the
+State legislatures to erect barriers against the encroachments of the
+national authority. If the foregoing argument is a fallacy, certain it is that I am myself
+deceived by it
+  B: [Philosophy] Discourse on the Method (Descartes) | 2.4
+     I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon trust. For although I 
+
+
+────────────────────────────────────────────────────────────
+  Historical ↔ Scientific
+  sim=0.7936
+  A: [Historical] Communist Manifesto | 2.13
+     We Communists have been reproached with the desire of abolishing the right of personally acquiring property as the fruit of a man’s own labour, which property is alleged to be the groundwork of all personal freedom, acti
+  B: [Scientific] Civilization and Its Discontents (Freud) | 5.17
+     If private property were abolished,
+all valuables held in common and all allowed to share in the enjoyment
+of them, ill-will and enmity would disappear from among men. Since all
+needs would be satisfied, none would have 
+
+  sim=0.7886
+  A: [Historical] Communist Manifesto | 2.11
+     The distinguishing feature of Communism is not the abolition of property generally, but the abolition of bourgeois property. But modern bourgeois private property is the final and most complete expression of the system o
+  B: [Scientific] Civilization and Its Discontents (Freud) | 5.17
+     If private property were abolished,
+all valuables held in common and all allowed to share in the enjoyment
+of them, ill-will and enmity would disappear from among men. Since all
+needs would be satisfied, none would have 
+
+  sim=0.7701
+  A: [Historical] Communist Manifesto | 2.8
+     The theoretical conclusions of the Communists are in no way based on ideas or principles that have been invented, or discovered, by this or that would-be universal reformer. They merely express, in general terms, actual 
+  B: [Scientific] Civilization and Its Discontents (Freud) | 5.16
+     These things are undoubtedly
+indispensable; but opposition is not necessarily enmity, only it may be
+misused to make an opening for it. The Communists believe they have found a way of delivering us from this
+evil. Man is
+
+
+────────────────────────────────────────────────────────────
+  Historical ↔ Taoist
+  sim=0.6150
+  A: [Historical] Communist Manifesto | 2.54
+     In proportion as the exploitation of one individual by another is put an end to, the exploitation of one nation by another will also be put an end to. In proportion as the antagonism between classes within the nation van
+  B: [Taoist] Dao De Jing (Linnell) | 60
+     A great nation is like the lowest places water can flow – The merging place of the world, The female of the world. The female always uses stillness to conquer the male. By using stillness, she becomes lower-than. Therefo
+
+  sim=0.6136
+  A: [Historical] Federalist Papers | No. 11.9
+     The rights of neutrality will only be respected
+when they are defended by an adequate power. A nation, despicable by its
+weakness, forfeits even the privilege of being neutral. Under a vigorous national government, the n
+  B: [Taoist] Dao De Jing (Linnell) | 60
+     A great nation is like the lowest places water can flow – The merging place of the world, The female of the world. The female always uses stillness to conquer the male. By using stillness, she becomes lower-than. Therefo
+
+  sim=0.6115
+  A: [Historical] Federalist Papers | No. 21.8
+     I speak of it now solely with
+a view to equality among the States. Those who have been accustomed
+to contemplate the circumstances which produce and constitute national
+wealth, must be satisfied that there is no common s
+  B: [Taoist] Dao De Jing (Linnell) | 60
+     A great nation is like the lowest places water can flow – The merging place of the world, The female of the world. The female always uses stillness to conquer the male. By using stillness, she becomes lower-than. Therefo
+
+
+────────────────────────────────────────────────────────────
+  Literature ↔ Norse
+  sim=0.7240
+  A: [Literature] Don Quixote (Cervantes) | 14.2
+     The lion’s roar, the fierce wolf’s savage howl,
+The horrid hissing of the scaly snake,
+The awesome cries of monsters yet unnamed,
+The crow’s ill-boding croak, the hollow moan
+Of wild winds wrestling with the restless sea
+  B: [Norse] Poetic Edda (Bellows) | 13.3
+     These have greatly assisted in the reconstruction of the outlines of the narrative surrounding the dialogue poems here given. 1. “Wake thee, Groa! | wake, mother good! At the doors of the dead I call thee; Thy son, bethi
+
+  sim=0.7005
+  A: [Literature] Don Quixote (Cervantes) | 38.5
+     Of this
+beauty, to which my poor feeble tongue has failed to do justice,
+countless princes, not only of that country, but of others, were
+enamoured, and among them a private gentleman, who was at the court,
+dared to rais
+  B: [Norse] Poetic Edda (Bellows) | 2.30
+     This found I myself, | when I sat in the reeds, And long my love awaited; As my life the maiden | wise I loved, Yet her I never had. 97. Billing’s daughter | I found on her bed, In slumber bright as the sun; Empty appear
+
+  sim=0.6931
+  A: [Literature] Don Quixote (Cervantes) | 44.9
+     He put out the candles; but the night was warm and he could not sleep;
+he rose from his bed and opened slightly a grated window that looked
+out on a beautiful garden, and as he did so he perceived and heard
+people walkin
+  B: [Norse] Poetic Edda (Bellows) | 2.48
+     A sixteenth I know, | if I seek delight To win from a maiden wise; The mind I turn | of the white-armed maid, And thus change all her thoughts. 163. A seventeenth I know, | so that seldom shall go A maiden young from me;
+
+
+────────────────────────────────────────────────────────────
+  Literature ↔ Philosophy
+  sim=0.8018
+  A: [Literature] Don Quixote (Cervantes) | 16.10
+     Poetry,
+gentle sir, is, as I take it, like a tender young maiden of supreme
+beauty, to array, bedeck, and adorn whom is the task of several other
+maidens, who are all the rest of the sciences; and she must avail
+herself 
+  B: [Philosophy] The Republic (Plato) | 10.16
+     We
+confess her charms; but if she cannot show that she is useful as well
+as delightful, like rational lovers, we must renounce our love, though
+endeared to us by early associations. Having come to years of
+discretion, we
+
+  sim=0.7839
+  A: [Literature] Don Quixote (Cervantes) | 51.5
+     Make
+not many proclamations; but those thou makest take care that they be
+good ones, and above all that they be observed and carried out; for
+proclamations that are not observed are the same as if they did not
+exist; nay
+  B: [Philosophy] Nicomachean Ethics (Aristotle) | 10.38
+     Yet perhaps it is not sufficient that men while young should get right
+food and tendance, but, inasmuch as they will have to practise and
+become accustomed to certain things even after they have attained to
+man’s estate,
+
+  sim=0.7774
+  A: [Literature] Don Quixote (Cervantes) | 16.11
+     She must on no account be offered for sale, unless, indeed, it be in
+heroic poems, moving tragedies, or sprightly and ingenious comedies. She must not be touched by the buffoons, nor by the ignorant vulgar,
+incapable of 
+  B: [Philosophy] The Republic (Plato) | 10.1518
+     We too are inspired by that love of poetry which the education of noble
+States has implanted in us, and therefore we would have her appear at
+her best and truest; but so long as she is unable to make good her
+defence, th
+
+
+────────────────────────────────────────────────────────────
+  Literature ↔ Scientific
+  sim=0.7746
+  A: [Literature] Frankenstein (Shelley) | 21.30
+     But sleep did
+not afford me respite from thought and misery; my dreams presented a
+thousand objects that scared me. Towards morning I was possessed by a kind
+of nightmare; I felt the fiend’s grasp in my neck and could no
+  B: [Scientific] Varieties of Religious Experience (James) | 50.20
+     I hear again my steps in that narrow naked chamber where
+    long after the hour of sleep had come I had the habit of walking
+    up and down. I see again that moon, half‐veiled by clouds, which
+    now and again illumin
+
+  sim=0.7726
+  A: [Literature] Don Quixote (Cervantes) | 44.7
+     The worthy
+gentleman was beyond measure distressed, and at that moment he would
+have given an ounce of silver to have had half a drachm of green silk
+there; I say green silk, because the stockings were green. Here Cide H
+  B: [Scientific] Varieties of Religious Experience (James) | 50.131
+     After all, we are all men, and if we were to receive
+    people of the world into our rooms, we should not have the
+    strength to remain within the bounds prescribed, but should at
+    least wish to adorn them with som
+
+  sim=0.7593
+  A: [Literature] Frankenstein (Shelley) | 21.28
+     I lay on the deck looking at the stars and listening to
+the dashing of the waves. I hailed the darkness that shut Ireland from my
+sight, and my pulse beat with a feverish joy when I reflected that I should
+soon see Genev
+  B: [Scientific] Varieties of Religious Experience (James) | 50.20
+     I hear again my steps in that narrow naked chamber where
+    long after the hour of sleep had come I had the habit of walking
+    up and down. I see again that moon, half‐veiled by clouds, which
+    now and again illumin
+
+
+────────────────────────────────────────────────────────────
+  Literature ↔ Taoist
+  sim=0.6049
+  A: [Literature] Siddhartha (Hesse) | 14.18
+     But I cannot love words. Therefore, teachings are no good for me, they have no hardness, no softness, no colours, no edges, no smell, no taste, they have nothing but words. Perhaps it is these which keep you from finding
+  B: [Taoist] Dao De Jing (Linnell) | 80
+     True words are not beautiful; Beautiful words are not true. He who has virtue does not argue; He who argues does not have virtue. He who knows is not learned; He who is learned does not know. The sage does not accumulate
+
+
+────────────────────────────────────────────────────────────
+  Norse ↔ Philosophy
+  sim=0.7318
+  A: [Norse] Poetic Edda (Bellows) | 2.16
+     None so free with gifts | or food have I found That gladly he took not a gift, Nor one who so widely | scattered his wealth That of recompense hatred he had. 41. Friends shall gladden each other | with arms and garments,
+  B: [Philosophy] Nicomachean Ethics (Aristotle) | 9.31
+     Chapter IX. A question is raised also respecting the Happy man, whether he will
+want Friends, or no? Some say that they who are blessed and independent have no need of
+Friends, for they already have all that is good, and
+
+  sim=0.7225
+  A: [Norse] Poetic Edda (Bellows) | 4.5
+     The applications of this fact, which has been too often overlooked, are almost limitless, for it suggests a still unwritten chapter in the history of ballad poetry and the so-called “popular” epic. It implies that narrat
+  B: [Philosophy] The Republic (Plato) | 3.34
+     Great in all ages
+and countries, in religion as well as in law and literature, has been
+the art of interpretation.
+
+2. ‘The style is to conform to the subject and the metre to the style.’
+Notwithstanding the fascination 
+
+  sim=0.7204
+  A: [Norse] Poetic Edda (Bellows) | 2.17
+     If a friend thou hast | whom thou fully wilt trust, And good from him wouldst get, Thy thoughts with his mingle, | and gifts shalt thou make, And fare to find him oft. 45. If another thou hast | whom thou hardly wilt tru
+  B: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 3.285
+     Therefore must we be friendly to each other! And even should we not love each other from the bottom of our hearts,—must we then have a grudge against each other if we do not love each other perfectly? And that I am frien
+
+
+────────────────────────────────────────────────────────────
+  Norse ↔ Scientific
+  sim=0.7118
+  A: [Norse] Poetic Edda (Bellows) | 1.22
+     In anger smites | the warder of earth,— Forth from their homes | must all men flee;— Nine paces fares | the son of Fjorgyn, And, slain by the serpent, | fearless he sinks. 57. The sun turns black, | earth sinks in the se
+  B: [Scientific] Psychology of the Unconscious (Jung) | 1.237
+     That stifling, compressing feeling[203] of the onward-surging impulse is projected mythologically as a flood which, rising up and over all, destroys all that exists, in order to allow a new and better creation to come fo
+
+  sim=0.6761
+  A: [Norse] Poetic Edda (Bellows) | 1.6
+     It is, in effect, a series of gigantic pictures, put into words with a directness and sureness which bespeak the poet of genius. It is only after the reader, with the help of the many notes, has familiarized himself with
+  B: [Scientific] Psychology of the Unconscious (Jung) | 2.637
+     In Chasms And in darkness dwell The eagles; and fresh and fearlessly The Sons of the Alps pass swiftly over the abyss Upon lightly swinging bridges.” With these words the dark phantastic poem passes on. The eagle, the bi
+
+  sim=0.6708
+  A: [Norse] Poetic Edda (Bellows) | 21.6
+     The Sigrdrifumol, then, must be regarded simply as a collection of fragments, most of them originally having no relation to the main subject. All of the story, the dialogue and the characterization are embodied in stanza
+  B: [Scientific] Psychology of the Unconscious (Jung) | 2.537
+     The sun also sacrifices its greatest strength in order to hasten onwards to the fruits of autumn, which are the seeds of immortality; fulfilled in children, in works, in posthumous fame, in a new order of things, all of 
+
+
+────────────────────────────────────────────────────────────
+  Norse ↔ Taoist
+  sim=0.6217
+  A: [Norse] Poetic Edda (Bellows) | 2.46
+     An eighth I know, | that is to all Of greatest good to learn; When hatred grows | among heroes’ sons, I soon can set it right. 155. A ninth I know, | if need there comes To shelter my ship on the flood; The wind I calm |
+  B: [Taoist] Dao De Jing (Linnell) | 30
+     He who knows people is wise; He who knows himself has insight. He who is victorious over people possesses power; He who is victorious over himself is strong. He who knows he has enough is wealthy; He who uses force posse
+
+
+────────────────────────────────────────────────────────────
+  Philosophy ↔ Scientific
+  sim=0.8344
+  A: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 4.57
+     Smite yet once more! Pierce through and rend my heart! What mean’th this torture With dull, indented arrows? Why look’st thou hither, Of human pain not weary, With mischief-loving, godly flash-glances?
+  B: [Scientific] Psychology of the Unconscious (Jung) | 2.419
+     Struck to the ground by thee, Thou mocking eye that gazeth at me from the dark! —————— Thus do I lie Bending, writhing, tortured With all eternal tortures, Smitten By thee, crudest huntsman, Thou unfamiliar God. Smite de
+
+  sim=0.8297
+  A: [Philosophy] Critique of Pure Reason (Kant) | 3.774
+     By the principle of the variety of the homogeneous in lower species; and, to complete the systematic unity, it adds, 3. A law of the affinity of all conceptions which prescribes a continuous transition from one species t
+  B: [Scientific] On the Origin of Species (Darwin) | 14.877
+     This is what we should be
+driven to, if we were ever to succeed in collecting all the forms in
+any class which have lived throughout all time and space. We shall
+certainly never succeed in making
+so perfect a collection:
+
+  sim=0.8193
+  A: [Philosophy] Nicomachean Ethics (Aristotle) | 7.49
+     But the bodily Pleasures have
+received the name exclusively, because theirs is the most frequent form
+and that which is universally partaken of; and so, because to many
+these alone are known they believe them to be the o
+  B: [Scientific] Civilization and Its Discontents (Freud) | 2.11
+     It is no wonder if, under the pressure of these possibilities of
+suffering, humanity is wont to reduce its demands for happiness,
+just as even the pleasure-principle itself changes into the more
+accommodating reality-pri
+
+
+────────────────────────────────────────────────────────────
+  Philosophy ↔ Taoist
+  sim=0.6916
+  A: [Philosophy] Beyond Good and Evil (Nietzsche) | 4.4
+     If a man has character, he has also his typical experience, which
+always recurs.
+
+71. THE SAGE AS ASTRONOMER.--So long as thou feelest the stars as an
+"above thee," thou lackest the eye of the discerning one.
+
+72. It is 
+  B: [Taoist] Dao De Jing (Linnell) | 30
+     He who knows people is wise; He who knows himself has insight. He who is victorious over people possesses power; He who is victorious over himself is strong. He who knows he has enough is wealthy; He who uses force posse
+
+  sim=0.6780
+  A: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 3.25
+     Courage is the best slayer: courage slayeth also fellow-suffering. Fellow-suffering, however, is the deepest abyss: as deeply as man looketh into life, so deeply also doth he look into suffering. Courage, however, is the
+  B: [Taoist] Dao De Jing (Linnell) | 70
+     When your courage lies in daring, The consequence is killing. When your courage lies in not daring, The consequence is survival. These two choices, they sometimes cause benefit, sometimes cause harm. That which heaven de
+
+  sim=0.6738
+  A: [Philosophy] Beyond Good and Evil (Nietzsche) | 4.22
+     The more abstract the truth you wish to teach, the more must you
+allure the senses to it.
+
+129. The devil has the most extensive perspectives for God; on that
+account he keeps so far away from him:--the devil, in effect,
+  B: [Taoist] Dao De Jing (Linnell) | 15
+     The virtue of the ancients made they who were scholars subtle, mysterious, obscure, deep, and penetrating. Their mysterious depths can not be understood. Now : only because they can not be understood, Therefore we try to
+
+
+────────────────────────────────────────────────────────────
+  Scientific ↔ Taoist
+  sim=0.6457
+  A: [Scientific] Varieties of Religious Experience (James) | 50.338
+     It is an _initiation of the past_.’ The real secret would be the
+      formula by which the ‘now’ keeps exfoliating out of itself, yet
+      never escapes. What is it, indeed, that keeps existence exfoliating? The formal
+  B: [Taoist] Dao De Jing (Linnell) | 14
+     Look, it is not seen; its name is called elusive. Listen, it is not heard; its name is called tenuous. Grasp, it is not gotten; its name is called subtle and obscure. These three things can not be investigated any furthe
+
+  sim=0.6267
+  A: [Scientific] On the Origin of Species (Darwin) | 14.423
+     Natural selection will produce nothing in one species for the exclusive
+good or injury of another; though it may well produce parts, organs,
+and excretions highly useful or even indispensable, or highly injurious
+to anot
+  B: [Taoist] Dao De Jing (Linnell) | 60
+     A great nation is like the lowest places water can flow – The merging place of the world, The female of the world. The female always uses stillness to conquer the male. By using stillness, she becomes lower-than. Therefo
+
+  sim=0.5931
+  A: [Scientific] Varieties of Religious Experience (James) | 50.109
+     That region
+contains every kind of matter: “seraph and snake” abide there side by
+side. To come from thence is no infallible credential. What comes must be
+sifted and tested, and run the gauntlet of confrontation with th
+  B: [Taoist] Dao De Jing (Linnell) | 6
+     The spirit of the valley does not die – It is called the deep and mysterious feminine. The gateway of this deep and mysterious feminine – It is called the source of heaven and earth. Unbroken, it seems to exist. Using it
+
+======================================================================
+DISTINCT PASSAGES — Top 20 most semantically isolated
+======================================================================
+These passages have no close analog anywhere else in the corpus.
+
+
+[1] Best cross-tradition match is only sim=0.2589
+  SOURCE: [Abrahamic] Bible — KJV (King James Version) | 5:12
+  I would they were even cut off which trouble you.
+  Closest other: [Philosophy] The Republic (Plato) | 10.417
+  They may. But you can cut off a vine-branch with a dagger or with a chisel, and
+in many other ways? Of course. And yet not so well as with a pruning-h
+
+[2] Best cross-tradition match is only sim=0.2847
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 56:71
+  Have you considered the fire you kindle?
+  Closest other: [Literature] Frankenstein (Shelley) | 24.92
+  You may use this eBook for nearly any purpose such
+
+[3] Best cross-tradition match is only sim=0.3029
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 54:52
+  Everything they have done is ˹listed˺ in ˹their˺ records.
+  Closest other: [Dharmic] Srimad Bhagavatam | 10.90.40
+  The Yadu dynasty produced innumerable great men of famous deeds. Even in tens of thousands of years, O King, one could never count them all.
+
+[4] Best cross-tradition match is only sim=0.3077
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 11:104
+  We only delay it for a fixed term.
+  Closest other: [Historical] Federalist Papers | No. 52.8
+  And even these annual
+sessions were left so much at the discretion of the monarch, that,
+under various pretexts, very long and dangerous intermissions
+
+[5] Best cross-tradition match is only sim=0.3154
+  SOURCE: [Scientific] On the Origin of Species (Darwin) | 14.299
+  As it is extremely common for species of the same
+genus to inhabit very hot and very cold countries, and as I believe
+that all the species of the same genus have descended from a single
+parent, if this view be correct, acclimatisation must be readily
+effected during long-continued descent. It is not
+  Closest other: [Philosophy] Beyond Good and Evil (Nietzsche) | 5.19
+  And why? In favour of the "temperate zones"? In favour
+of the temperate men? The "moral"?
+
+[6] Best cross-tradition match is only sim=0.3196
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 71:8
+  Then I certainly called them openly,
+  Closest other: [Confucian] Analects of Confucius (Legge) | 5.14
+  I also am ashamed of them. To conceal resentment against a person, and appear friendly with him;-- Tso Ch'iu-ming was ashamed of such conduct. I also 
+
+[7] Best cross-tradition match is only sim=0.3212
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 52:31
+  Say, “Keep waiting! I too am waiting with you.”
+  Closest other: [Philosophy] Critique of Pure Reason (Kant) | 3.993
+  WHAT CAN I KNOW? 2. WHAT OUGHT I TO DO? 3. WHAT MAY I HOPE? The first question is purely speculative.
+
+[8] Best cross-tradition match is only sim=0.3213
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 52:3
+  on open pages ˹for all to read˺!
+  Closest other: [Dharmic] Yoga Sutras of Patanjali (Johnston) | 1.1
+  OM: Here follows Instruction in Union.
+
+[9] Best cross-tradition match is only sim=0.3218
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 78:34
+  and full cups ˹of pure wine˺,
+  Closest other: [Dharmic] Srimad Bhagavatam | 11.6.44
+  O my dear Kṛṣṇa, Your pastimes are supremely auspicious for mankind and are an intoxicating beverage for the ears. Tasting such pastimes, people forge
+
+[10] Best cross-tradition match is only sim=0.3252
+  SOURCE: [Dharmic] Srimad Bhagavatam | 3.11.9
+  The measuring pot for one nāḍikā, or daṇḍa, can be prepared with a six-pala-weight [fourteen ounce] pot of copper, in which a hole is bored with a gold probe weighing four māṣa and measuring four fingers long. When the pot is placed on water, the time before the water overflows in the pot is called 
+  Closest other: [Abrahamic] Bible — KJV (King James Version) | 4:22
+  And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,
+
+[11] Best cross-tradition match is only sim=0.3254
+  SOURCE: [Dharmic] Srimad Bhagavatam | 12.3.52
+  Whatever result was obtained in Satya-yuga by meditating on Viṣṇu, in Tretā-yuga by performing sacrifices, and in Dvāpara-yuga by serving the Lord’s lotus feet can be obtained in Kali-yuga simply by chanting the Hare Kṛṣṇa mahā-mantra.
+  Closest other: [Scientific] Varieties of Religious Experience (James) | 50.46
+  Yoga means the experimental union of the
+individual with the divine. It is based on persevering exercise; and the
+diet, posture, breathing, intellectu
+
+[12] Best cross-tradition match is only sim=0.3284
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 2:217
+  They
+  Closest other: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 4.293
+  They are old people: they recover in their own way, they laugh in their own way; mine ears have already endured worse and have not become peevish. Thi
+
+[13] Best cross-tradition match is only sim=0.3302
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 68:40
+  Ask them ˹O Prophet˺ which of them can guarantee all that.
+  Closest other: [Taoist] Dao De Jing (Linnell) | 50
+  If their government is very restrained, Its citizens will be very genuine and honest. If their government is very observant and alert, Its citizens wi
+
+[14] Best cross-tradition match is only sim=0.3306
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 100:3
+  launching raids at dawn,
+  Closest other: [Philosophy] Thus Spake Zarathustra (Nietzsche) | 3.119
+  The hour hath come for all light-dreading people, the vesper hour and leisure hour, when they do not—“take leisure.” I hear it and smell it: it hath c
+
+[15] Best cross-tradition match is only sim=0.3307
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 37:106
+  That was truly a revealing test.
+  Closest other: [Philosophy] The Republic (Plato) | 10.1064
+  Yes, he said, you are quite right in testing him. But what do you mean
+by the highest of all knowledge? You may remember, I said, that we divided the 
+
+[16] Best cross-tradition match is only sim=0.3308
+  SOURCE: [Scientific] On the Origin of Species (Darwin) | 14.478
+  I have several specimens showing clearly that they can do
+this. Even in the rude circumferential rim or wall of wax round a
+growing comb, flexures may sometimes be observed, corresponding in
+position to the planes of the rhombic basal plates of future cells. But
+the rough wall of wax has in every ca
+  Closest other: [Abrahamic] Quran (Clear Quran Translation) | 16:68
+  And your Lord inspired the bees: “Make ˹your˺ homes in the mountains, the trees, and in what people construct,
+
+[17] Best cross-tradition match is only sim=0.3321
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 72:9
+  We used to take up positions there for eavesdropping, but whoever dares eavesdrop now will find a flare lying in wait for them.
+  Closest other: [Scientific] Varieties of Religious Experience (James) | 50.22
+  And then indeed the hollow security! What kind of a frame of things is it of which the best you can say is,
+“Thank God, it has let me off clear this t
+
+[18] Best cross-tradition match is only sim=0.3322
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 53:56
+  This ˹Prophet˺ is a warner like earlier ones.
+  Closest other: [Buddhist] Diamond Sutra (Gemmell) | 18.6
+  T. W. Rhys Davids.
+
+[19] Best cross-tradition match is only sim=0.3340
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 37:174
+  So turn away from the deniers for a while ˹O Prophet˺.
+  Closest other: [Philosophy] Beyond Good and Evil (Nietzsche) | 6.12
+  "Are not our ears
+already full of bad sounds?" say the skeptics, as lovers of repose, and
+almost as a kind of safety police; "this subterranean Nay is
+
+[20] Best cross-tradition match is only sim=0.3344
+  SOURCE: [Abrahamic] Quran (Clear Quran Translation) | 104:8
+  It will be sealed over them,
+  Closest other: [Historical] Code of Hammurabi | §105
+  If an agent has forgotten and has not taken a sealed memorandum of the money he has given to the merchant, money that is not sealed for, he shall not 
+
+======================================================================
+AVERAGE CROSS-TRADITION SIMILARITY BY TRADITION
+(lower = more isolated / more unique)
+======================================================================
+              mean  median     min     max
+tradition                                 
+Norse       0.5532  0.5472  0.3722  0.7745
+Dharmic     0.5737  0.5722  0.3252  0.8190
+Abrahamic   0.5783  0.5807  0.2589  0.8312
+Literature  0.6029  0.6039  0.3418  0.8052
+Confucian   0.6051  0.6066  0.4152  0.7679
+Scientific  0.6105  0.6143  0.3154  0.8344
+Taoist      0.6124  0.6137  0.4623  0.7448
+Historical  0.6222  0.6274  0.3618  0.8290
+Buddhist    0.6425  0.6454  0.3486  0.8104
+Philosophy  0.6452  0.6502  0.3577  0.8344
+
+=== Per-corpus mean cross-tradition similarity ===
+tradition   corpus                                   
+Historical  US Constitution                              0.5352
+Abrahamic   Quran (Clear Quran Translation)              0.5473
+Scientific  Opticks (Newton)                             0.5503
+Norse       Poetic Edda (Bellows)                        0.5532
+Dharmic     Srimad Bhagavatam                            0.5700
+Scientific  On the Origin of Species (Darwin)            0.5745
+Historical  Luther's 95 Theses                           0.5820
+Abrahamic   Bible — KJV (King James Version)             0.5845
+Literature  Pride and Prejudice (Austen)                 0.5848
+Historical  Magna Carta                                  0.5865
+Literature  Don Quixote (Cervantes)                      0.5911
+Buddhist    Diamond Sutra (Gemmell)                      0.5936
+Historical  Communist Manifesto                          0.5955
+Scientific  Psychology of the Unconscious (Jung)         0.6038
+Confucian   Analects of Confucius (Legge)                0.6051
+Taoist      Dao De Jing (Linnell)                        0.6124
+Dharmic     Bhagavad Gita                                0.6148
+Literature  Siddhartha (Hesse)                           0.6251
+Dharmic     Yoga Sutras of Patanjali (Johnston)          0.6257
+Philosophy  The Republic (Plato)                         0.6265
+Dharmic     Upanishads (Paramananda)                     0.6301
+Historical  Federalist Papers                            0.6313
+Literature  Romeo and Juliet (Shakespeare)               0.6368
+Historical  Code of Hammurabi                            0.6378
+Philosophy  Thus Spake Zarathustra (Nietzsche)           0.6426
+Literature  Frankenstein (Shelley)                       0.6450
+Buddhist    Dhammapada (Müller)                          0.6550
+Scientific  Varieties of Religious Experience (James)    0.6551
+Philosophy  Nicomachean Ethics (Aristotle)               0.6588
+            Beyond Good and Evil (Nietzsche)             0.6606
+            Critique of Pure Reason (Kant)               0.6614
+Scientific  Civilization and Its Discontents (Freud)     0.6672
+Philosophy  Discourse on the Method (Descartes)          0.7038
