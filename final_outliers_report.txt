@@ -1,0 +1,921 @@
+======================================================================
+WITHIN-TRADITION OUTLIERS (lowest sim to own tradition centroid)
+======================================================================
+
+────────────────────────────────────────────────────────────
+  Abrahamic — bottom 10
+
+  [-0.059] Quran (Clear Quran Translation) | 56:68
+    Have you considered the water you drink?
+
+  [-0.049] Quran (Clear Quran Translation) | 56:71
+    Have you considered the fire you kindle?
+
+  [-0.002] Quran (Clear Quran Translation) | 25:46
+    causing the shade to retreat gradually?
+
+  [0.010] Quran (Clear Quran Translation) | 56:30
+    extended shade,
+
+  [0.012] Quran (Clear Quran Translation) | 4:21
+    And how could you take it back after having enjoyed each other intimately and she has taken from you a firm commitment?
+
+  [0.017] Quran (Clear Quran Translation) | 56:19
+    that will cause them neither headache nor intoxication.
+
+  [0.028] Quran (Clear Quran Translation) | 80:27
+    causing grain to grow in it,
+
+  [0.030] Bible — KJV (King James Version) | 5:12
+    I would they were even cut off which trouble you.
+
+  [0.032] Quran (Clear Quran Translation) | 26:101
+    nor a close friend.
+
+  [0.033] Quran (Clear Quran Translation) | 73:3
+    ˹pray˺ half the night, or a little less,
+
+────────────────────────────────────────────────────────────
+  Buddhist — bottom 10
+
+  [0.320] Dhammapada (Müller) | 4.55
+    Sandal-wood or Tagara, a lotus-flower, or a Vassiki, among these sorts of perfumes, the perfume of virtue is unsurpassed.
+
+  [0.323] Dhammapada (Müller) | 11.149
+    Those white bones, like gourds thrown away in the autumn, what pleasure is there in looking at them?
+
+  [0.332] Dhammapada (Müller) | 6.85
+    Few are there among men who arrive at the other shore (become Arhats); the other people here run up and down the shore.
+
+  [0.350] Dhammapada (Müller) | 15.197
+    Let us live happily then, not hating those who hate us! among men who hate us let us dwell free from hatred!
+
+  [0.358] Diamond Sutra (Gemmell) | 8.4
+    Because, O Subhuti, when the Tathagata preached: ‘The qualities of Buddha, the qualities of Buddha indeed!’ They were preached by him as no-qualities of Buddha. Therefore they are called the qualities
+
+  [0.369] Diamond Sutra (Gemmell) | 10.3
+    Because, the Lord Buddha referred not to a physical body,[6] but to mental and spiritual concepts of bodies, in which sense a body may be regarded as really Great.” It is recorded in _The Diamond Sutr
+
+  [0.370] Dhammapada (Müller) | 1.3
+    "He abused me, he beat me, he defeated me, he robbed me,"--in those who harbour such thoughts hatred will never cease.
+
+  [0.374] Diamond Sutra (Gemmell) | 30.2
+    Because, if these were in reality ‘infinite worlds,’ there would of necessity be unity and eternity of matter. But the Lord Buddha, discoursing upon the ‘unity and eternity of matter,’ declared that t
+
+  [0.377] Dhammapada (Müller) | 25.360
+    Restraint in the eye is good, good is restraint in the ear, in the nose restraint is good, good is restraint in the tongue.
+
+  [0.389] Diamond Sutra (Gemmell) | 32.4
+    This is an English translation of the Chinese version available at: https://hdl.handle.net/2027/umn.319510013625058. The original printed text scans can be found at: https://archive.org/details/cu3192
+
+────────────────────────────────────────────────────────────
+  Confucian — bottom 10
+
+  [0.036] Analects of Confucius (Legge) | 20.10
+    If you do not charge anything for copies of
+
+  [0.297] Analects of Confucius (Legge) | 10.7
+    In warm weather, he had a single garment either of coarse or fine texture, but he wore it displayed over an inner garment. 4. Over lamb's fur he wore a garment of black; over fawn's fur one of white; 
+
+  [0.298] Analects of Confucius (Legge) | 10.21
+    Thrice it smelt him and then rose.
+
+  [0.301] Analects of Confucius (Legge) | 16.19
+    She calls herself HSIAO T'UNG. The people of the State call her CHUN FU ZAN, and, to the people of other States, they call her K'WA HSIAO CHUN. The people of other states also call her CHUN FU ZAN.
+
+  [0.304] Analects of Confucius (Legge) | 10.8
+    When staying at home, he used thick furs of the fox or the badger. 8. When he put off mourning, he wore all the appendages of the girdle. 9. His under-garment, except when it was required to be of the
+
+  [0.313] Analects of Confucius (Legge) | 14.27
+    He wishes quickly to become a man.'
+
+  [0.341] Analects of Confucius (Legge) | 8.12
+    I can find nothing like a flaw in Yu.'
+
+  [0.357] Analects of Confucius (Legge) | 10.20
+    It flies round, and by and by settles. 2. The Master said, 'There is the hen-pheasant on the hill bridge. At its season! At its season!' Tsze-lu made a motion to it.
+
+  [0.369] Analects of Confucius (Legge) | 10.15
+    When the prince sent him a gift of cooked meat, he would adjust his mat, first taste it, and then give it away to others. When the prince sent him a gift of undressed meat, he would have it cooked, an
+
+  [0.379] Analects of Confucius (Legge) | 10.19
+    On a sudden clap of thunder, or a violent wind, he would change countenance. 1. When he was about to mount his carriage, he would stand straight, holding the cord. 2. When he was in the carriage, he d
+
+────────────────────────────────────────────────────────────
+  Dharmic — bottom 10
+
+  [0.068] Srimad Bhagavatam | 3.11.4
+    Atomic time is measured according to its covering a particular atomic space. That time which covers the unmanifest aggregate of atoms is called the great time.
+
+  [0.078] Yoga Sutras of Patanjali (Johnston) | 3.15
+    Difference in stage is the cause of difference in development.
+
+  [0.108] Srimad Bhagavatam | 7.2.55
+    The unfortunate baby birds, bereft of their mother, are waiting in the nest for her to feed them. They are still very small and have not yet grown their wings. How shall I be able to maintain them?
+
+  [0.109] Yoga Sutras of Patanjali (Johnston) | 4.33
+    The series of transformations is divided into moments. When the series is completed, time gives place to duration.
+
+  [0.110] Srimad Bhagavatam | 10.36.24
+    Erect a wrestling ring with many surrounding viewing stands, and bring all the residents of the city and the outlying districts to see the open competition.
+
+  [0.112] Srimad Bhagavatam | 7.15.58
+    Although one may consider the reflection of the sun from a mirror to be false, it has its factual existence. Accordingly, to prove by speculative knowledge that there is no reality would be extremely 
+
+  [0.114] Srimad Bhagavatam | 5.22.14
+    Situated 1,600,000 miles above Mercury, or 8,800,000 miles above earth, is the planet Mars. If this planet does not travel in a crooked way, it crosses through each sign of the zodiac in three fortnig
+
+  [0.115] Srimad Bhagavatam | 3.11.5
+    The division of gross time is calculated as follows: two atoms make one double atom, and three double atoms make one hexatom. This hexatom is visible in the sunshine which enters through the holes of 
+
+  [0.121] Srimad Bhagavatam | 10.46.6
+    Simply because I have promised to return to them, My fully devoted cowherd girlfriends struggle to maintain their lives somehow or other.
+
+  [0.124] Srimad Bhagavatam | 3.26.47
+    The sense whose object of perception is sound is called the auditory sense, and that whose object of perception is touch is called the tactile sense.
+
+────────────────────────────────────────────────────────────
+  Historical — bottom 10
+
+  [0.093] Communist Manifesto | 4.13
+    Updated editions will replace the previous one—the old editions will be renamed.
+
+  [0.118] Luther's 95 Theses | Thesis 93
+    Blessed be all those prophets who say to the people of Christ, "Cross, cross," and there is no cross!
+
+  [0.127] Luther's 95 Theses | Thesis 35
+    They preach no Christian doctrine who teach that contrition is not necessary in those who intend to buy souls out of purgatory or to buy confessionalia.
+
+  [0.156] Luther's 95 Theses | Thesis 18
+    It seems unproved, either by reason or Scripture, that they are outside the state of merit, that is to say, of increasing love.
+
+  [0.157] Communist Manifesto | Preface.7
+    Where is the party in opposition that has not been decried as Communistic by its opponents in power? Where is the Opposition that has not hurled back the branding reproach of Communism, against the mo
+
+  [0.162] Communist Manifesto | 2.46
+    He has not even a suspicion that the real point is to do away with the status of women as mere instruments of production.
+
+  [0.162] Federalist Papers | No. 14.6
+    The southern shore of Lake Erie lies below that latitude. Computing the distance between the thirty-first and forty-fifth degrees,
+it amounts to nine hundred and seventy-three common miles; computing 
+
+  [0.162] Code of Hammurabi | §147
+    If she has not borne children her mistress may sell her for money.
+
+  [0.164] Luther's 95 Theses | Thesis 17
+    With souls in purgatory it seems necessary that horror should grow less and love increase.
+
+  [0.165] Luther's 95 Theses | Thesis 26
+    The pope does well when he grants remission to souls [in purgatory], not by the power of the keys (which he does not possess), but by way of intercession.
+
+────────────────────────────────────────────────────────────
+  Literature — bottom 10
+
+  [0.076] Frankenstein (Shelley) | 24.92
+    You may use this eBook for nearly any purpose such
+
+  [0.086] Don Quixote (Cervantes) | 26.1
+    IN WHICH ARE
+IN THE SIERRA MORENA
+
+  [0.159] Pride and Prejudice (Austen) | 100.6
+    It is highly improper. You must contrive to send somebody. I have the greatest dislike in the
+world to that sort of thing. Young women should always be properly
+guarded and attended, according to thei
+
+  [0.165] Siddhartha (Hesse) | 3.17
+    I have asked the Brahmans, year after year, and I have asked the holy Vedas, year after year, and I have asked the devote Samanas, year after year. Perhaps, oh Govinda, it had been just as well, had b
+
+  [0.180] Pride and Prejudice (Austen) | 100.14
+    Well, well, I only hope it
+will last. And what sort of table do they keep? Charlotte is an
+excellent manager, I dare say. If she is half as sharp as her mother,
+she is saving enough.
+
+  [0.196] Siddhartha (Hesse) | 4.23
+    I have not doubted for a single moment that you are Buddha, that you have reached the goal, the highest goal towards which so many thousands of Brahmans and sons of Brahmans are on their way. You have
+
+  [0.209] Pride and Prejudice (Austen) | 100.9
+    I thank you again and again, for not going to
+the Lakes. How could I be so silly as to wish it! Your idea of the
+ponies is delightful. We will go round the park every day.
+
+  [0.218] Don Quixote (Cervantes) | 41.1
+    IN WHICH THE CAPTIVE STILL
+CONTINUES HIS ADVENTURES
+
+  [0.233] Pride and Prejudice (Austen) | 100.26
+    A house in town! Everything
+that is charming! Three daughters married! Ten thousand a year!
+
+  [0.238] Pride and Prejudice (Austen) | 100.7
+    Nothing could give either Bingley or myself more
+delight. But we considered it, we talked of it as impossible. And do you
+really love him quite well enough? Oh, Lizzy! do anything rather than
+marry wi
+
+────────────────────────────────────────────────────────────
+  News — bottom 10
+
+  [-0.048] News Articles | 1005.1
+    strong>Grocery shopping can be fun or a chore depending on how stressed out you are. But there are ways to make grocery shopping enjoyable, especially if you know that there are rewards to be had. So 
+
+  [-0.010] News Articles | 2116.3
+    Even in my off-time, I watch what I eat."
+
+  [0.012] News Articles | 2320.2
+    "It's for the local police to investigate."
+
+  [0.025] News Articles | 1005.3
+    And yes, you may have the Notes function in your Iphone but trust us when we say this, putting pen to paper to make a list is the best way to keep track of what you want. When you have your list on yo
+
+  [0.029] News Articles | 1984.3
+    Some invoking the Norse god Thor, they spilled into the streets to chant "Afram (Go) Iceland!"
+
+  [0.031] News Articles | 766.1
+    strong>WASHINTON: The Walton family, which owns roughly a 50 percent stake in retailer Wal-Mart Stores Inc (WMT.N), was named the richest family in the United States for a third consecutive year on We
+
+  [0.046] News Articles | 1888.2
+    "His simple diet of milk, fruits and vegetables along with rice, lentils and fish kept him healthy. He never smoked, nor did he take alcohol."
+
+  [0.051] News Articles | 1876.3
+    His 1971 bout with Frazier to unify the heavyweight championship, his third after being reinstated, was called the Fight of the Century. Among those in attendance at Madison Square Garden were Miles D
+
+  [0.054] News Articles | 2164.3
+    That's been really good for her and super encouraging for me."
+
+  [0.057] News Articles | 463.2
+    Palladium slipped 0.5 percent to $510.52 an ounce.
+
+────────────────────────────────────────────────────────────
+  Norse — bottom 10
+
+  [0.174] Poetic Edda (Bellows) | 30.32
+    Consonants. The consonants are pronounced approximately as in English, with the following special points to be noted: G is always hard, as in “get,” never soft, as in “gem;” following “n” it has the s
+
+  [0.305] Poetic Edda (Bellows) | 6.23
+    He and his companions came to a house in the forest, and went in to spend the night. Being disturbed by an earthquake and a terrific noise, they all crawled into a smaller room opening from the main o
+
+  [0.323] Poetic Edda (Bellows) | 2.12
+    The foolish man | for friends all those Who laugh at him will hold; When among the wise | he marks it not Though hatred of him they speak. 25. The foolish man | for friends all those Who laugh at him 
+
+  [0.335] Poetic Edda (Bellows) | 30.119
+    Mū′-spells-heim, home of the fire-dwellers, 3, 21, 73, 100. Myrk′-heim, Myrkwood (Atli’s land), 498. Myrk′-wood, a forest in Atli’s land, 476, 483, 484, 487, 498. Myrk′-wood, a forest in Hothbrodd’s l
+
+  [0.349] Poetic Edda (Bellows) | 8.20
+    There is no other reference to Loki’s having spent eight years underground, or to his cow-milking. On one occasion, however, he did bear offspring. A giant had undertaken to build the gods a fortress,
+
+  [0.352] Poetic Edda (Bellows) | 2.19
+    No great thing needs | a man to give, Oft little will purchase praise; With half a loaf | and a half-filled cup A friend full fast I made. 53. A little sand | has a little sea, And small are the minds
+
+  [0.355] Poetic Edda (Bellows) | 8.22
+    Othin was the god of magic, but there is no other reference to his ever having disguised himself as a witch. 25. Frigg: Othin’s wife; cf. note to introductory prose. 26. Fjorgyn: Othin; cf. Voluspo, 5
+
+  [0.356] Poetic Edda (Bellows) | 8.39
+    In a rage he smites Skrymir three times on the head with his hammer, but the giant—who, it subsequently appears, deftly dodges the blows—is totally undisturbed. Line 5 may well be spurious. 65. The fl
+
+  [0.368] Poetic Edda (Bellows) | 5.16
+    Baldr, however, sent the ring back to Othin from hell. How Freyr obtained it is nowhere stated. Andvari’s ring (Andvaranaut) had a similar power of creating gold; cf. Reginsmol, prose after stanza 4 a
+
+  [0.373] Poetic Edda (Bellows) | 2.43
+    Knowest how one shall tint, | knowest how one makes trial? Knowest how one shall ask, | knowest how one shall offer? Knowest how one shall send, | knowest how one shall sacrifice? 146. Better no praye
+
+────────────────────────────────────────────────────────────
+  Philosophy — bottom 10
+
+  [0.063] The Republic (Plato) | 10.417
+    They may. But you can cut off a vine-branch with a dagger or with a chisel, and
+in many other ways? Of course. And yet not so well as with a pruning-hook made for the purpose?
+
+  [0.089] The Republic (Plato) | 10.1485
+    Yes. And the worker in leather and brass will make them? Certainly. But does the painter know the right form of the bit and reins?
+
+  [0.104] The Republic (Plato) | 10.905
+    That may be assumed. And they will take them on the safe expeditions and be cautious about
+the dangerous ones? True. And they will place them under the command of experienced veterans who
+will be thei
+
+  [0.113] The Republic (Plato) | 10.884
+    Their maintainers and foster-fathers. And what do they call them in other States? Slaves. And what do the rulers call one another in other States?
+
+  [0.118] The Republic (Plato) | 10.628
+    What do you mean? My meaning may be learned from Homer; he, you know, feeds his heroes at
+their feasts, when they are campaigning, on soldiers’ fare; they have
+no fish, although they are on the shores
+
+  [0.123] The Republic (Plato) | 10.319
+    Any more than heat can produce cold? It cannot. Or drought moisture? Clearly not.
+
+  [0.130] Thus Spake Zarathustra (Nietzsche) | 3.232
+    Cheer up! Ye old seaman-hearts! What of fatherland! THITHER striveth our helm where our CHILDREN’S LAND is!
+
+  [0.131] Thus Spake Zarathustra (Nietzsche) | 4.283
+    Hu! Hu! Hu! Hu!
+
+  [0.141] The Republic (Plato) | 10.1310
+    That is true. And in the democracy they are certainly more intensified. How so? Because in the oligarchical State they are disqualified and driven from
+office, and therefore they cannot train or gathe
+
+  [0.145] Critique of Pure Reason (Kant) | 3.51
+    For example, the propositions: “If equals be added to equals, the wholes are equal”; “If equals be taken from equals, the remainders are equal”; are analytical, because I am immediately conscious of t
+
+────────────────────────────────────────────────────────────
+  Scientific — bottom 10
+
+  [-0.095] Varieties of Religious Experience (James) | 50.435
+    If you do not charge anything for
+copie
+
+  [-0.002] Varieties of Religious Experience (James) | 50.116
+    FIELDING, 436. FINNEY, 207, 215. FLETCHER, 98, 181. FLOURNOY, 67, 514.
+
+  [0.031] Varieties of Religious Experience (James) | 50.89
+    BRAINERD, 212, 253. BRAY, 249, 256, 290. BROOKS, 512. BROWNELL, 515.
+
+  [0.039] Varieties of Religious Experience (James) | 50.87
+    BLOOD, 389. BLUMHARDT, 113. BOEHME, 410, 417, 418. BOOTH, 203.
+
+  [0.043] Varieties of Religious Experience (James) | 50.88
+    BOUGAUD, 344. BOURGET, 263. BOURIGNON, 321. BOWNE, 502.
+
+  [0.054] Varieties of Religious Experience (James) | 50.92
+    CALL, 289. CARLYLE, 41, 300. CARPENTER, 319. Catharine, Saint, of Genoa, 289.
+
+  [0.058] Varieties of Religious Experience (James) | 50.85
+    BALDWIN, 347, 503. BASHKIRTSEFF, 83. BEECHER, 256. BEHMEN, see BOEHME.
+
+  [0.058] Varieties of Religious Experience (James) | 50.108
+    EDDY, 106. EDWARDS, JONATHAN, 20, 114, 200, 229, 238, 239, 248, 330. EDWARDS, MRS. J., 276, 280.
+
+  [0.076] Varieties of Religious Experience (James) | 50.105
+    DOWIE, 113. DRESSER, H. W., 96, 99, 289, 516. Drink, 268.
+
+  [0.079] Varieties of Religious Experience (James) | 50.98
+    On my way home I met a friend, and I refrained with
+    some effort from telling her how I felt. That was the first step
+    gained. I went to bed immediately, and my husband wished to send
+    for th
+
+────────────────────────────────────────────────────────────
+  Taoist — bottom 10
+
+  [0.279] Dao De Jing (Linnell) | 70
+    If the citizens do not fear death, How can you use death to frighten them? Assuming you could ensure that the citizens always fear death, And I get hold of those who act strange and unusual and kill t
+
+  [0.438] Dao De Jing (Linnell) | 50
+    Between coming out into life and entering death, Followers of life are 3 in 10. Followers of death are 3 in 10. People whose lives are merely moving them towards the place of death Are also 3 in 10. N
+
+  [0.469] Dao De Jing (Linnell) | 80
+    In a small nation with few citizens : Ensure that it has the weapons of ten nobles, but does not use them. Ensure that the citizens take death seriously, and do not migrate far. Even though they have 
+
+  [0.478] Dao De Jing (Linnell) | 11
+    Thirty spokes of a wheel share one hub; In its emptiness exists the usefulness of the cart. Mix water with clay thus making a vessel; In its emptiness exists the usefulness of the vessel. Cut out door
+
+  [0.481] Dao De Jing (Linnell) | 60
+    Those who command troops have a saying : I dare not act like the master, but instead act like a guest. Dare not advance an inch, but instead retreat a foot. This is called marching without marching, S
+
+  [0.495] Dao De Jing (Linnell) | 50
+    If I correctly use the tiniest bit of knowledge that I possess While travelling on the great Way, It is only walking off the path that I need to fear. The great Way is extremely even, But the citizens
+
+  [0.502] Dao De Jing (Linnell) | 6
+    The spirit of the valley does not die – It is called the deep and mysterious feminine. The gateway of this deep and mysterious feminine – It is called the source of heaven and earth. Unbroken, it seem
+
+  [0.513] Dao De Jing (Linnell) | 20
+    Serious serves as the source of frivolous. Stillness serves as the ruler of restlessness. Thus the noble man travels the entire day, And does not stray from his wagon. He is serious, even though glori
+
+  [0.514] Dao De Jing (Linnell) | 9
+    Holding and filling it Are not as good as your stopping short. Hammering and sharpening it Can not be forever maintained. When gold and jade fill a room, There is no one who can protect it. To have we
+
+  [0.519] Dao De Jing (Linnell) | 5
+    Heaven and earth are not kind – Thus the ten thousand creatures become as straw dogs to them. The sage is not kind – Thus the 100 families become as straw dogs to him. The space between heaven and ear
+
+======================================================================
+CROSS-TRADITION WANDERERS (far from own, close to another)
+======================================================================
+
+────────────────────────────────────────────────────────────
+  Abrahamic wanderers
+
+  [own=0.197  other=0.451  Δ=0.254] → Confucian
+  Quran (Clear Quran Translation) | 92:8
+    And as for the one who is stingy, indifferent ˹to Allah˺,
+
+  [own=0.412  other=0.652  Δ=0.240] → Literature
+  Quran (Clear Quran Translation) | 12:30
+    Some women of the city gossiped, “The Chief Minister’s wife is trying to seduce her slave-boy. Love for him has plagued her heart. Indeed, we see that she is clearly mistaken.”
+
+  [own=0.430  other=0.669  Δ=0.238] → Buddhist
+  Bible — KJV (King James Version) | 14:14
+    The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.
+
+  [own=0.291  other=0.517  Δ=0.226] → Historical
+  Bible — KJV (King James Version) | 12:4
+    For as we have many members in one body, and all members have not the same office:
+
+  [own=0.373  other=0.597  Δ=0.224] → Confucian
+  Quran (Clear Quran Translation) | 18:34
+    And he had other resources ˹as well˺. So he boasted to a ˹poor˺ companion of his, while conversing with him, “I am greater than you in wealth and superior in manpower.”
+
+  [own=0.369  other=0.589  Δ=0.220] → Confucian
+  Bible — KJV (King James Version) | 12:16
+    Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
+
+  [own=0.326  other=0.545  Δ=0.219] → Confucian
+  Quran (Clear Quran Translation) | 18:68
+    And how can you be patient with what is beyond your ˹realm of˺ knowledge?”
+
+  [own=0.301  other=0.519  Δ=0.218] → Historical
+  Quran (Clear Quran Translation) | 7:34
+    For each community there is an appointed term. When their time arrives, they can neither delay it for a moment, nor could they advance it.
+
+  [own=0.223  other=0.438  Δ=0.215] → Confucian
+  Quran (Clear Quran Translation) | 102:1
+    Competition for more ˹gains˺ diverts you ˹from Allah˺,
+
+  [own=0.360  other=0.567  Δ=0.207] → Philosophy
+  Bible — KJV (King James Version) | 62:9
+    Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity.
+
+────────────────────────────────────────────────────────────
+  Buddhist wanderers
+
+  [own=0.438  other=0.607  Δ=0.169] → Literature
+  Diamond Sutra (Gemmell) | 14.8
+    When the prince awoke from his siesta, he was irritated to find that his ladies had disappeared. Instituting an immediate search, he became filled with implacable rage upon discovering them in the soc
+
+  [own=0.503  other=0.654  Δ=0.152] → Scientific
+  Diamond Sutra (Gemmell) | 15.3
+    Compare the statement of the apostle Paul, “I bear in my body evidences of the Lord Jesus Christ.” This descriptive scene concerning the endless trains of pilgrims who lit their lamps at the sacred sh
+
+  [own=0.389  other=0.527  Δ=0.139] → Confucian
+  Diamond Sutra (Gemmell) | 32.4
+    This is an English translation of the Chinese version available at: https://hdl.handle.net/2027/umn.319510013625058. The original printed text scans can be found at: https://archive.org/details/cu3192
+
+  [own=0.323  other=0.430  Δ=0.107] → Scientific
+  Dhammapada (Müller) | 11.149
+    Those white bones, like gourds thrown away in the autumn, what pleasure is there in looking at them?
+
+  [own=0.483  other=0.556  Δ=0.074] → Dharmic
+  Diamond Sutra (Gemmell) | 14.9
+    Even though I am unborn, of changeless essence, and the lord also of all which exist, yet, in presiding over nature (Prakrita), which is mine, I am born by my own mystic power (Maya). For whenever the
+
+  [own=0.513  other=0.580  Δ=0.066] → Abrahamic
+  Dhammapada (Müller) | 26.394
+    What is the use of platted hair, O fool! what of the raiment of goat-skins? Within thee there is ravening, but the outside thou makest clean.
+
+  [own=0.410  other=0.472  Δ=0.062] → Literature
+  Dhammapada (Müller) | 13.175
+    The swans go on the path of the sun, they go through the ether by means of their miraculous power; the wise are led out of this world, when they have conquered Mara and his train.
+
+  [own=0.394  other=0.455  Δ=0.061] → Literature
+  Dhammapada (Müller) | 22.309
+    Four things does a wreckless man gain who covets his neighbour's wife,--a bad reputation, an uncomfortable bed, thirdly, punishment, and lastly, hell.
+
+  [own=0.505  other=0.565  Δ=0.060] → Abrahamic
+  Dhammapada (Müller) | 18.235
+    Thou art now like a sear leaf, the messengers of death (Yama) have come near to thee; thou standest at the door of thy departure, and thou hast no provision for thy journey.
+
+  [own=0.569  other=0.624  Δ=0.055] → Abrahamic
+  Dhammapada (Müller) | 17.224
+    Speak the truth, do not yield to anger; give, if thou art asked for little; by these three steps thou wilt go near the gods.
+
+────────────────────────────────────────────────────────────
+  Confucian wanderers
+
+  [own=0.379  other=0.506  Δ=0.127] → Literature
+  Analects of Confucius (Legge) | 10.19
+    On a sudden clap of thunder, or a violent wind, he would change countenance. 1. When he was about to mount his carriage, he would stand straight, holding the cord. 2. When he was in the carriage, he d
+
+  [own=0.434  other=0.544  Δ=0.111] → Philosophy
+  Analects of Confucius (Legge) | 9.17
+    Or if we may get so established along with them, we shall find them unable to weigh occurring events along with us.' 1. How the flowers of the aspen-plum flutter and turn! Do I not think of you? But y
+
+  [own=0.523  other=0.631  Δ=0.107] → Abrahamic
+  Analects of Confucius (Legge) | 3.6
+    If those were sufficient, I could adduce them in support of my words.' The Master said, 'At the great sacrifice, after the pouring out of the libation, I have no wish to look on.' Some one asked the m
+
+  [own=0.503  other=0.604  Δ=0.101] → Philosophy
+  Analects of Confucius (Legge) | 9.18
+    The Master said, 'It is the want of thought about it. How is it distant?'
+
+  [own=0.298  other=0.395  Δ=0.097] → Abrahamic
+  Analects of Confucius (Legge) | 10.21
+    Thrice it smelt him and then rose.
+
+  [own=0.453  other=0.536  Δ=0.083] → Dharmic
+  Analects of Confucius (Legge) | 19.16
+    While he lived, he would be glorious. When he died, he would be bitterly lamented. How is it possible for him to be attained to?'
+
+  [own=0.432  other=0.511  Δ=0.079] → Abrahamic
+  Analects of Confucius (Legge) | 10.12
+    When he had been assisting at the prince's sacrifice, he did not keep the flesh which he received overnight. The flesh of his family sacrifice he did not keep over three days. If kept over three days,
+
+  [own=0.304  other=0.380  Δ=0.076] → Literature
+  Analects of Confucius (Legge) | 10.8
+    When staying at home, he used thick furs of the fox or the badger. 8. When he put off mourning, he wore all the appendages of the girdle. 9. His under-garment, except when it was required to be of the
+
+  [own=0.570  other=0.644  Δ=0.074] → Literature
+  Analects of Confucius (Legge) | 10.18
+    At home, he did not put on any formal deportment. 2. When he saw any one in a mourning dress, though it might be an acquaintance, he would change countenance; when he saw any one wearing the cap of fu
+
+  [own=0.404  other=0.468  Δ=0.065] → Philosophy
+  Analects of Confucius (Legge) | 17.7
+    But is it not said, that, if a thing be really hard, it may be ground without being made thin? Is it not said, that, if a thing be really white, it may be steeped in a dark fluid without being made bl
+
+────────────────────────────────────────────────────────────
+  Dharmic wanderers
+
+  [own=0.345  other=0.605  Δ=0.260] → Philosophy
+  Srimad Bhagavatam | 11.22.5
+    When philosophers argue, “I don’t choose to analyze this particular case in the same way that you have,” it is simply My own insurmountable energies that are motivating their analytic disagreements.
+
+  [own=0.448  other=0.705  Δ=0.257] → Abrahamic
+  Srimad Bhagavatam | 10.89.29
+    “My lord, I will protect the progeny of you and your wife, who are in such distress. And if I fail to keep this promise, I will enter fire to atone for my sin.”
+
+  [own=0.288  other=0.518  Δ=0.230] → Philosophy
+  Srimad Bhagavatam | 11.22.25
+    Thus great philosophers have analyzed the material elements in many different ways. All of their proposals are reasonable, since they are all presented with ample logic. Indeed, such philosophical bri
+
+  [own=0.404  other=0.634  Δ=0.230] → Philosophy
+  Yoga Sutras of Patanjali (Johnston) | 3.53
+    Hence comes discernment between things which are of like nature, not distinguished by difference of kind, character or position.
+
+  [own=0.164  other=0.390  Δ=0.226] → Philosophy
+  Srimad Bhagavatam | 6.15.8
+    Divisions of generalization and specification, such as nationality and individuality, are the imaginations of persons who are not advanced in knowledge.
+
+  [own=0.275  other=0.497  Δ=0.222] → Literature
+  Srimad Bhagavatam | 10.12.5
+    All the cowherd boys used to steal one another’s lunch bags. When a boy came to understand that his bag had been taken away, the other boys would throw it farther away, to a more distant place, and th
+
+  [own=0.424  other=0.646  Δ=0.222] → Buddhist
+  Srimad Bhagavatam | 4.18.5
+    A foolish person who manufactures his own ways and means through mental speculation and does not recognize the authority of the sages who lay down unimpeachable directions is simply unsuccessful again
+
+  [own=0.277  other=0.496  Δ=0.219] → Buddhist
+  Srimad Bhagavatam | 10.24.5
+    One who is neutral may be avoided like an enemy, but a friend should be considered like one’s own self.
+
+  [own=0.320  other=0.538  Δ=0.218] → Philosophy
+  Yoga Sutras of Patanjali (Johnston) | 1.44
+    The same two steps, when referring to things of finer substance, are said to be with, or without, judicial action of the mind.
+
+  [own=0.325  other=0.538  Δ=0.214] → Literature
+  Srimad Bhagavatam | 11.8.24
+    O best among men, this prostitute was very anxious to get money, and as she stood on the street at night she studied all the men who were passing by, thinking, “Oh, this one surely has money. I know h
+
+────────────────────────────────────────────────────────────
+  Historical wanderers
+
+  [own=0.118  other=0.564  Δ=0.446] → Abrahamic
+  Luther's 95 Theses | Thesis 93
+    Blessed be all those prophets who say to the people of Christ, "Cross, cross," and there is no cross!
+
+  [own=0.208  other=0.568  Δ=0.360] → Abrahamic
+  Luther's 95 Theses | Thesis 92
+    Away, then, with all those prophets who say to the people of Christ, "Peace, peace," and there is no peace!
+
+  [own=0.243  other=0.591  Δ=0.348] → Abrahamic
+  Luther's 95 Theses | Thesis 94
+    Christians are to be exhorted that they be diligent in following Christ, their Head, through penalties, deaths, and hell;
+
+  [own=0.304  other=0.645  Δ=0.341] → Abrahamic
+  Code of Hammurabi | §254
+    If he has taken the seed, worn out the oxen, from the seed which he has hoed he shall restore.
+
+  [own=0.352  other=0.665  Δ=0.313] → Abrahamic
+  Code of Hammurabi | §249
+    If a man has hired an ox, and God has struck it and it has died, the man who has hired the ox shall swear before God and shall go free.
+
+  [own=0.332  other=0.628  Δ=0.296] → Abrahamic
+  Code of Hammurabi | §266
+    If in a sheepfold a stroke of God has taken place or a lion has killed, the shepherd shall purge himself before God, and the accident to the fold the owner of the fold shall face it.
+
+  [own=0.271  other=0.565  Δ=0.294] → Abrahamic
+  Code of Hammurabi | §131
+    If the wife of a man her husband has accused her, and she has not been caught in lying with another male, she shall swear by God and shall return to her house.
+
+  [own=0.156  other=0.447  Δ=0.291] → Abrahamic
+  Luther's 95 Theses | Thesis 18
+    It seems unproved, either by reason or Scripture, that they are outside the state of merit, that is to say, of increasing love.
+
+  [own=0.304  other=0.591  Δ=0.287] → Abrahamic
+  Luther's 95 Theses | Thesis 65
+    Therefore the treasures of the Gospel are nets with which they formerly were wont to fish for men of riches.
+
+  [own=0.285  other=0.571  Δ=0.286] → Abrahamic
+  Luther's 95 Theses | Thesis 1
+    Our Lord and Master Jesus Christ, when He said Poenitentiam agite, willed that the whole life of believers should be repentance.
+
+────────────────────────────────────────────────────────────
+  Literature wanderers
+
+  [own=0.241  other=0.566  Δ=0.325] → Dharmic
+  Siddhartha (Hesse) | 2.7
+    Did the sacrifices give a happy fortune? And what about the gods? Was it really Prajapati who had created the world? Was it not the Atman, He, the only one, the singular one?
+
+  [own=0.319  other=0.640  Δ=0.321] → Buddhist
+  Siddhartha (Hesse) | 14.14
+    The sinner, which I am and which you are, is a sinner, but in times to come he will be Brahma again, he will reach the Nirvana, will be Buddha—and now see: these ‘times to come’ are a deception, are o
+
+  [own=0.295  other=0.604  Δ=0.310] → Buddhist
+  Siddhartha (Hesse) | 14.18
+    But I cannot love words. Therefore, teachings are no good for me, they have no hardness, no softness, no colours, no edges, no smell, no taste, they have nothing but words. Perhaps it is these which k
+
+  [own=0.284  other=0.592  Δ=0.308] → Buddhist
+  Siddhartha (Hesse) | 3.14
+    Might we get closer to enlightenment? Might we get closer to salvation? Or do we perhaps live in a circle—we, who have thought we were escaping the cycle?” Quoth Govinda: “We have learned a lot, Siddh
+
+  [own=0.290  other=0.594  Δ=0.305] → Buddhist
+  Siddhartha (Hesse) | 14.12
+    Everything is one-sided which can be thought with thoughts and said with words, it’s all one-sided, all just one half, all lacks completeness, roundness, oneness. When the exalted Gotama spoke in his 
+
+  [own=0.282  other=0.583  Δ=0.302] → Buddhist
+  Siddhartha (Hesse) | 14.19
+    There is no thing which would be Nirvana; there is just the word Nirvana.” Quoth Govinda: “Not just a word, my friend, is Nirvana. It is a thought.” Siddhartha continued: “A thought, it might be so. I
+
+  [own=0.341  other=0.641  Δ=0.300] → Buddhist
+  Siddhartha (Hesse) | 4.25
+    This is what I have thought and realized, when I have heard the teachings. This is why I am continuing my travels—not to seek other, better teachings, for I know there are none, but to depart from all
+
+  [own=0.313  other=0.609  Δ=0.296] → Buddhist
+  Siddhartha (Hesse) | 14.13
+    A person or an act is never entirely Sansara or entirely Nirvana, a person is never entirely holy or entirely sinful. It does really seem like this, because we are subject to deception, as if time was
+
+  [own=0.339  other=0.630  Δ=0.292] → Dharmic
+  Siddhartha (Hesse) | 4.19
+    Everything in your teachings is perfectly clear, is proven; you are presenting the world as a perfect chain, a chain which is never and nowhere broken, an eternal chain the links of which are causes a
+
+  [own=0.414  other=0.703  Δ=0.289] → Buddhist
+  Siddhartha (Hesse) | 4.24
+    And—thus is my thought, oh exalted one,—nobody will obtain salvation by means of teachings! You will not be able to convey and say to anybody, oh venerable one, in words and through teachings what has
+
+────────────────────────────────────────────────────────────
+  News wanderers
+
+  [own=0.029  other=0.389  Δ=0.359] → Norse
+  News Articles | 1984.3
+    Some invoking the Norse god Thor, they spilled into the streets to chant "Afram (Go) Iceland!"
+
+  [own=0.046  other=0.377  Δ=0.331] → Literature
+  News Articles | 1888.2
+    "His simple diet of milk, fruits and vegetables along with rice, lentils and fish kept him healthy. He never smoked, nor did he take alcohol."
+
+  [own=0.086  other=0.350  Δ=0.264] → Historical
+  News Articles | 622.2
+    There would then be no credible single anchor.Hard-headed cooperation and joint decision making may be the only answer."This means not just putting one's house in order, but also putting our global vi
+
+  [own=0.120  other=0.371  Δ=0.251] → Literature
+  News Articles | 2427.2
+    All the people on that boat were part of me."I thought it was my duty to jump in the water ... if I (had left) them I would feel bad with myself for the rest of my life."She described how her father's
+
+  [own=-0.010  other=0.225  Δ=0.234] → Buddhist
+  News Articles | 2116.3
+    Even in my off-time, I watch what I eat."
+
+  [own=0.149  other=0.359  Δ=0.209] → Confucian
+  News Articles | 1892.2
+    Leave everything else," he said. Wasim also said that one always encountered challenges in life. However, he also said that one should know how to tackle and handle those challenges.During the show, W
+
+  [own=0.102  other=0.290  Δ=0.188] → Taoist
+  News Articles | 629.2
+    It makes me happy to create something which does not have any straight lines. Even if you don't play, you love to hold it in your hand. It's beautiful to look at; it shows all your personality and you
+
+  [own=0.148  other=0.333  Δ=0.185] → Buddhist
+  News Articles | 2602.3
+    However, he stated that he was an optimistic person and it was wonderful how people from around the globe to help make the world a better place.
+
+  [own=0.012  other=0.188  Δ=0.176] → Literature
+  News Articles | 2320.2
+    "It's for the local police to investigate."
+
+  [own=0.139  other=0.310  Δ=0.171] → Confucian
+  News Articles | 2116.2
+    I was never a quick fielder. I was never willing to field in every position."But after becoming fitter, lighter and stronger, I overcame all those doubts I had. Now it (staying fit, eating right) has 
+
+────────────────────────────────────────────────────────────
+  Norse wanderers
+
+  [own=0.323  other=0.655  Δ=0.332] → Buddhist
+  Poetic Edda (Bellows) | 2.12
+    The foolish man | for friends all those Who laugh at him will hold; When among the wise | he marks it not Though hatred of him they speak. 25. The foolish man | for friends all those Who laugh at him 
+
+  [own=0.400  other=0.704  Δ=0.304] → Buddhist
+  Poetic Edda (Bellows) | 2.11
+    The greedy man, | if his mind be vague, Will eat till sick he is; The vulgar man, | when among the wise, To scorn by his belly is brought. 21. The herds know well | when home they shall fare, And then
+
+  [own=0.352  other=0.642  Δ=0.290] → Buddhist
+  Poetic Edda (Bellows) | 2.19
+    No great thing needs | a man to give, Oft little will purchase praise; With half a loaf | and a half-filled cup A friend full fast I made. 53. A little sand | has a little sea, And small are the minds
+
+  [own=0.432  other=0.678  Δ=0.246] → Buddhist
+  Poetic Edda (Bellows) | 2.8
+    Happy the one | who wins for himself Favor and praises fair; Less safe by far | is the wisdom found That is hid in another’s heart. 9. Happy the man | who has while he lives Wisdom and praise as well,
+
+  [own=0.477  other=0.718  Δ=0.242] → Buddhist
+  Poetic Edda (Bellows) | 2.20
+    A measure of wisdom | each man shall have, But never too much let him know; Let no man the fate | before him see, For so is he freest from sorrow. 57. A brand from a brand | is kindled and burned, And
+
+  [own=0.373  other=0.598  Δ=0.225] → Abrahamic
+  Poetic Edda (Bellows) | 2.43
+    Knowest how one shall tint, | knowest how one makes trial? Knowest how one shall ask, | knowest how one shall offer? Knowest how one shall send, | knowest how one shall sacrifice? 146. Better no praye
+
+  [own=0.395  other=0.619  Δ=0.224] → Buddhist
+  Poetic Edda (Bellows) | 2.17
+    If a friend thou hast | whom thou fully wilt trust, And good from him wouldst get, Thy thoughts with his mingle, | and gifts shalt thou make, And fare to find him oft. 45. If another thou hast | whom 
+
+  [own=0.422  other=0.625  Δ=0.203] → Buddhist
+  Poetic Edda (Bellows) | 2.14
+    Friendly of mind | are many men, Till feasting they mock at their friends; To mankind a bane | must it ever be When guests together strive. 33. Oft should one make | an early meal, Nor fasting come to
+
+  [own=0.408  other=0.608  Δ=0.200] → Buddhist
+  Poetic Edda (Bellows) | 2.15
+    Better a house, | though a hut it be, A man is master at home; A pair of goats | and a patched-up roof Are better far than begging. 37. Better a house, | though a hut it be, A man is master at home; H
+
+  [own=0.482  other=0.673  Δ=0.191] → Buddhist
+  Poetic Edda (Bellows) | 2.29
+    Soft words shall he speak | and wealth shall he offer Who longs for a maiden’s love, And the beauty praise | of the maiden bright; He wins whose wooing is best. 93. Fault for loving | let no man find 
+
+────────────────────────────────────────────────────────────
+  Philosophy wanderers
+
+  [own=0.233  other=0.507  Δ=0.273] → Historical
+  The Republic (Plato) | 10.1244
+    They next proceed to make a law which fixes a sum of money as the
+qualification of citizenship; the sum is higher in one place and lower
+in another, as the oligarchy is more or less exclusive; and the
+
+  [own=0.505  other=0.757  Δ=0.253] → Historical
+  Nicomachean Ethics (Aristotle) | 10.44
+    Since then those who have preceded us have left uninvestigated the
+subject of Legislation, it will be better perhaps for us to investigate
+it ourselves, and, in fact, the whole subject of Polity, that
+
+  [own=0.145  other=0.391  Δ=0.246] → Historical
+  The Republic (Plato) | 10.1277
+    Yes. Yes, my good Sir, and there will be no better in which to look for a
+government. Why? Because of the liberty which reigns there—they have a complete
+assortment of constitutions; and he who has a 
+
+  [own=0.341  other=0.577  Δ=0.237] → Historical
+  The Republic (Plato) | 10.1249
+    And at the same time their fondness for
+money makes them unwilling to pay taxes. How discreditable! And, as we said before, under such a constitution the same persons have
+too many callings—they are h
+
+  [own=0.113  other=0.334  Δ=0.221] → Historical
+  The Republic (Plato) | 10.884
+    Their maintainers and foster-fathers. And what do they call them in other States? Slaves. And what do the rulers call one another in other States?
+
+  [own=0.292  other=0.512  Δ=0.221] → Historical
+  The Republic (Plato) | 10.1315
+    And the persons whose property is taken from them are compelled to
+defend themselves before the people as they best can? What else can they do? And then, although they may have no desire of change, th
+
+  [own=0.148  other=0.368  Δ=0.219] → Historical
+  The Republic (Plato) | 10.882
+    True. All of whom will call one another citizens? Of course. But is there not another name which people give to their rulers in
+other States?
+
+  [own=0.643  other=0.855  Δ=0.212] → Historical
+  Discourse on the Method (Descartes) | 2.4
+    I firmly believed that in this way I should much better
+succeed in the conduct of my life, than if I built only upon old
+foundations, and leaned upon principles which, in my youth, I had taken
+upon tr
+
+  [own=0.536  other=0.744  Δ=0.208] → Abrahamic
+  Thus Spake Zarathustra (Nietzsche) | 3.229
+    Ye flee from me? Ye are frightened? Ye tremble at this word? O my brethren, when I enjoined you to break up the good, and the tables of the good, then only did I embark man on his high seas.
+
+  [own=0.345  other=0.553  Δ=0.208] → Historical
+  The Republic (Plato) | 10.336
+    Yes, I know. And the government is the ruling power in each state? Certainly. And the different forms of government make laws democratical,
+aristocratical, tyrannical, with a view to their several int
+
+────────────────────────────────────────────────────────────
+  Scientific wanderers
+
+  [own=0.260  other=0.562  Δ=0.303] → Abrahamic
+  Varieties of Religious Experience (James) | 50.323
+    He has given us all your spears! Once
+      we would have thrown them back at you and killed you. But now we
+      come, not to fight but to tell you about Jesus. He has changed our
+      dark hearts.
+
+  [own=0.339  other=0.606  Δ=0.267] → Abrahamic
+  Varieties of Religious Experience (James) | 50.322
+    We believe that He will protect us to‐day.’
+
+      “As they pressed steadily forward towards the village, spears began
+      to be thrown at them. Some they evaded, being all except one
+      dexterou
+
+  [own=0.305  other=0.566  Δ=0.261] → Abrahamic
+  Varieties of Religious Experience (James) | 50.321
+    Our chief sent in response a loving
+      message, telling them that Jehovah had taught the Christians to
+      return good for evil, and that they would come unarmed to tell them
+      the story of h
+
+  [own=0.339  other=0.593  Δ=0.254] → Abrahamic
+  Varieties of Religious Experience (James) | 50.18
+    I
+    asked them what place that was? They said, Lichfield. Immediately
+    the word of the Lord came to me, that I must go thither. Being
+    come to the house we were going to, I wished the friends 
+
+  [own=0.358  other=0.590  Δ=0.232] → Confucian
+  Varieties of Religious Experience (James) | 50.123
+    In the hands of my
+    Superior, I must be a soft wax, a thing, from which he is to
+    require whatever pleases him, be it to write or receive letters,
+    to speak or not to speak to such a person, 
+
+  [own=0.477  other=0.708  Δ=0.231] → Historical
+  Varieties of Religious Experience (James) | 50.305
+    PHILIP: The Life and Times of George Whitefield, London, 1842, p.
+      366.
+
+  193 EDWARD CARPENTER: Towards Democracy, p. 362, abridged.
+
+  194 Speculum Perfectionis, ed. P. SABATIER, Paris, 1898, p
+
+  [own=0.332  other=0.562  Δ=0.230] → Abrahamic
+  Psychology of the Unconscious (Jung) | 1.129
+    Or press down his tongue with a cord?... Lay thy hand upon him; Remember the battle and do no more. None is so fierce that dare stir him up: Who then is he that can stand before me? Who hath first giv
+
+  [own=0.313  other=0.541  Δ=0.228] → Abrahamic
+  Varieties of Religious Experience (James) | 50.51
+    Scattered all through the prophetic writings are expressions which
+    speak of some strong and irresistible impulse coming down upon the
+    prophet, determining his attitude to the events of his tim
+
+  [own=0.500  other=0.728  Δ=0.227] → Historical
+  Varieties of Religious Experience (James) | 50.42
+    At other
+times, of drowsiness, illness, or fatigue, our fields may narrow almost to
+a point, and we find ourselves correspondingly oppressed and contracted. Different individuals present constitutiona
+
+  [own=0.187  other=0.413  Δ=0.225] → Abrahamic
+  Psychology of the Unconscious (Jung) | 2.227
+    The Old Testament treats the cities of Jerusalem, Babel, etc., as women (_Isaiah_ xlvii:1–5): “Come down and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O dau
+
+────────────────────────────────────────────────────────────
+  Taoist wanderers
+
+  [own=0.552  other=0.571  Δ=0.019] → Historical
+  Dao De Jing (Linnell) | 60
+    A great nation is like the lowest places water can flow – The merging place of the world, The female of the world. The female always uses stillness to conquer the male. By using stillness, she becomes
+
+  [own=0.502  other=0.517  Δ=0.015] → Dharmic
+  Dao De Jing (Linnell) | 6
+    The spirit of the valley does not die – It is called the deep and mysterious feminine. The gateway of this deep and mysterious feminine – It is called the source of heaven and earth. Unbroken, it seem
+
+  [own=0.469  other=0.479  Δ=0.010] → Historical
+  Dao De Jing (Linnell) | 80
+    In a small nation with few citizens : Ensure that it has the weapons of ten nobles, but does not use them. Ensure that the citizens take death seriously, and do not migrate far. Even though they have 
+
+  [own=0.623  other=0.628  Δ=0.005] → Confucian
+  Dao De Jing (Linnell) | 17
+    The existence of the best ruler is barely known to the people. Next is one who they love and praise. Next is one who they fear. Next is one who they ridicule. If the ruler does not trust enough, then 
+
+  [own=0.702  other=0.705  Δ=0.003] → Buddhist
+  Dao De Jing (Linnell) | 20
+    What is wrong then becomes whole and perfect. What is bent then becomes straight. What is hollow then becomes filled. What is worn out then becomes new. Have little, then gain. Have too much, then bec
+
+  [own=0.708  other=0.708  Δ=0.001] → Buddhist
+  Dao De Jing (Linnell) | 30
+    He who knows people is wise; He who knows himself has insight. He who is victorious over people possesses power; He who is victorious over himself is strong. He who knows he has enough is wealthy; He 
+
+  [own=0.478  other=0.478  Δ=-0.000] → Philosophy
+  Dao De Jing (Linnell) | 11
+    Thirty spokes of a wheel share one hub; In its emptiness exists the usefulness of the cart. Mix water with clay thus making a vessel; In its emptiness exists the usefulness of the vessel. Cut out door
+
+  [own=0.584  other=0.584  Δ=-0.001] → Philosophy
+  Dao De Jing (Linnell) | 13
+    Favor and disgrace seem alarming. High rank brings great suffering if you have a self. What is meant by “favor and disgrace seem alarming”? Favor makes you the inferior, so gaining it seems alarming. 
+
+  [own=0.626  other=0.625  Δ=-0.001] → Buddhist
+  Dao De Jing (Linnell) | 70
+    When your courage lies in daring, The consequence is killing. When your courage lies in not daring, The consequence is survival. These two choices, they sometimes cause benefit, sometimes cause harm. 
+
+  [own=0.690  other=0.683  Δ=-0.007] → Philosophy
+  Dao De Jing (Linnell) | 15
+    The virtue of the ancients made they who were scholars subtle, mysterious, obscure, deep, and penetrating. Their mysterious depths can not be understood. Now : only because they can not be understood,
+
+=== Where do wanderers end up? ===
+closest_other  Abrahamic  Buddhist  Confucian  Dharmic  Historical  Literature  Norse  Philosophy  Scientific  Taoist
+tradition                                                                                                            
+Abrahamic              0         1          5        0           2           1      0           1           0       0
+Buddhist               3         0          1        1           0           3      0           0           2       0
+Confucian              3         0          0        1           0           3      0           3           0       0
+Dharmic                1         2          0        0           0           2      0           5           0       0
+Historical            10         0          0        0           0           0      0           0           0       0
+Literature             0         8          0        2           0           0      0           0           0       0
+News                   0         2          2        0           1           3      1           0           0       1
+Norse                  1         9          0        0           0           0      0           0           0       0
+Philosophy             1         0          0        0           9           0      0           0           0       0
+Scientific             7         0          1        0           2           0      0           0           0       0
+Taoist                 0         3          1        1           2           0      0           3           0       0

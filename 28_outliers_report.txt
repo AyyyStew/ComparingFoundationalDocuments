@@ -1,0 +1,328 @@
+
+======================================================================
+WITHIN-TRADITION OUTLIERS (lowest sim to own tradition centroid)
+======================================================================
+
+────────────────────────────────────────────────────────────
+  Abrahamic — bottom 10 (most unlike their tradition)
+
+  [0.026] Bible — KJV (King James Version) | 5:12
+    I would they were even cut off which trouble you.
+
+  [0.097] Bible — KJV (King James Version) | 9:23
+    Therefore said his parents, He is of age; ask him.
+
+  [0.097] Bible — KJV (King James Version) | 33:45
+    And they departed from Iim, and pitched in Dibon–gad.
+
+  [0.098] Bible — KJV (King James Version) | 3:12
+    Why did the knees prevent me? or why the breasts that I should suck?
+
+  [0.102] Bible — KJV (King James Version) | 36:21
+    The length of a board was ten cubits, and the breadth of a board one cubit and a half.
+
+  [0.118] Bible — KJV (King James Version) | 10:30
+    I and my Father are one.
+
+  [0.121] Bible — KJV (King James Version) | 27:5
+    Open rebuke is better than secret love.
+
+  [0.124] Bible — KJV (King James Version) | 15:30
+    And why stand we in jeopardy every hour?
+
+  [0.129] Bible — KJV (King James Version) | 13:38
+    If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;
+
+  [0.132] Bible — KJV (King James Version) | 28:12
+    And landing at Syracuse, we tarried there three days.
+
+────────────────────────────────────────────────────────────
+  Dharmic — bottom 10 (most unlike their tradition)
+
+  [0.105] Yoga Sutras of Patanjali (Johnston) | 3.15
+    Difference in stage is the cause of difference in development.
+
+  [0.170] Yoga Sutras of Patanjali (Johnston) | 4.33
+    The series of transformations is divided into moments. When the series is completed, time gives place to duration.
+
+  [0.186] Bhagavad Gita | 1.13
+    Thereafter, conches, kettledrums, bugles, trumpets, and horns suddenly blared forth, and their combined sound was overwhelming.
+
+  [0.203] Bhagavad Gita | 2.34
+    People will speak of you as a coward and a deserter. For a respectable person, infamy is worse than death.
+
+  [0.208] Bhagavad Gita | 1.10
+    The strength of our army is unlimited and we are safely marshalled by Grandsire Bheeshma, while the strength of the Pandava army, carefully marshalled by Bheem, is limited.
+
+  [0.210] Bhagavad Gita | 1.12
+    Then, the grand old man of the Kuru dynasty, the glorious patriarch Bheeshma, roared like a lion, and blew his conch shell very loudly, giving joy to Duryodhan.
+
+  [0.214] Yoga Sutras of Patanjali (Johnston) | 1.1
+    OM: Here follows Instruction in Union.
+
+  [0.216] Yoga Sutras of Patanjali (Johnston) | 2.46
+    Right poise must be firm and without strain.
+
+  [0.217] Bhagavad Gita | 2.25
+    The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.
+
+  [0.220] Yoga Sutras of Patanjali (Johnston) | 3.6
+    This power is distributed in ascending degrees.
+
+────────────────────────────────────────────────────────────
+  Buddhist — bottom 10 (most unlike their tradition)
+
+  [0.320] Dhammapada (Müller) | 4.55
+    Sandal-wood or Tagara, a lotus-flower, or a Vassiki, among these sorts of perfumes, the perfume of virtue is unsurpassed.
+
+  [0.328] Dhammapada (Müller) | 11.149
+    Those white bones, like gourds thrown away in the autumn, what pleasure is there in looking at them?
+
+  [0.341] Dhammapada (Müller) | 6.85
+    Few are there among men who arrive at the other shore (become Arhats); the other people here run up and down the shore.
+
+  [0.373] Dhammapada (Müller) | 15.197
+    Let us live happily then, not hating those who hate us! among men who hate us let us dwell free from hatred!
+
+  [0.388] Dhammapada (Müller) | 1.3
+    "He abused me, he beat me, he defeated me, he robbed me,"--in those who harbour such thoughts hatred will never cease.
+
+  [0.396] Dhammapada (Müller) | 25.360
+    Restraint in the eye is good, good is restraint in the ear, in the nose restraint is good, good is restraint in the tongue.
+
+  [0.402] Dhammapada (Müller) | 21.298
+    The disciples of Gotama are always well awake, and their thoughts day and night are always set on the church.
+
+  [0.406] Dhammapada (Müller) | 24.338
+    As a tree, even though it has been cut down, is firm so long as its root is safe, and grows again, thus, unless the feeders of thirst are destroyed, the pain (of life) will return again and again.
+
+  [0.409] Dhammapada (Müller) | 17.227
+    This is an old saying, O Atula, this is not only of to-day: `They blame him who sits silent, they blame him who speaks much, they also blame him who says little; there is no one on earth who is not bl
+
+  [0.411] Dhammapada (Müller) | 22.308
+    Better it would be to swallow a heated iron ball, like flaring fire, than that a bad unrestrained fellow should live on the charity of the land.
+
+────────────────────────────────────────────────────────────
+  Taoist — bottom 10 (most unlike their tradition)
+
+  [0.279] Dao De Jing (Linnell) | 70
+    If the citizens do not fear death, How can you use death to frighten them? Assuming you could ensure that the citizens always fear death, And I get hold of those who act strange and unusual and kill t
+
+  [0.438] Dao De Jing (Linnell) | 50
+    Between coming out into life and entering death, Followers of life are 3 in 10. Followers of death are 3 in 10. People whose lives are merely moving them towards the place of death Are also 3 in 10. N
+
+  [0.469] Dao De Jing (Linnell) | 80
+    In a small nation with few citizens : Ensure that it has the weapons of ten nobles, but does not use them. Ensure that the citizens take death seriously, and do not migrate far. Even though they have 
+
+  [0.478] Dao De Jing (Linnell) | 11
+    Thirty spokes of a wheel share one hub; In its emptiness exists the usefulness of the cart. Mix water with clay thus making a vessel; In its emptiness exists the usefulness of the vessel. Cut out door
+
+  [0.481] Dao De Jing (Linnell) | 60
+    Those who command troops have a saying : I dare not act like the master, but instead act like a guest. Dare not advance an inch, but instead retreat a foot. This is called marching without marching, S
+
+  [0.495] Dao De Jing (Linnell) | 50
+    If I correctly use the tiniest bit of knowledge that I possess While travelling on the great Way, It is only walking off the path that I need to fear. The great Way is extremely even, But the citizens
+
+  [0.502] Dao De Jing (Linnell) | 6
+    The spirit of the valley does not die – It is called the deep and mysterious feminine. The gateway of this deep and mysterious feminine – It is called the source of heaven and earth. Unbroken, it seem
+
+  [0.513] Dao De Jing (Linnell) | 20
+    Serious serves as the source of frivolous. Stillness serves as the ruler of restlessness. Thus the noble man travels the entire day, And does not stray from his wagon. He is serious, even though glori
+
+  [0.514] Dao De Jing (Linnell) | 9
+    Holding and filling it Are not as good as your stopping short. Hammering and sharpening it Can not be forever maintained. When gold and jade fill a room, There is no one who can protect it. To have we
+
+  [0.519] Dao De Jing (Linnell) | 5
+    Heaven and earth are not kind – Thus the ten thousand creatures become as straw dogs to them. The sage is not kind – Thus the 100 families become as straw dogs to him. The space between heaven and ear
+
+======================================================================
+CROSS-TRADITION WANDERERS (far from own, close to another)
+======================================================================
+
+────────────────────────────────────────────────────────────
+  Abrahamic wanderers — most drawn toward other traditions
+
+  [own=0.423  other=0.696  Δ=0.273] → closest to: Buddhist
+  Bible — KJV (King James Version) | 14:14
+    The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.
+
+  [own=0.439  other=0.697  Δ=0.258] → closest to: Buddhist
+  Bible — KJV (King James Version) | 28:14
+    Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.
+
+  [own=0.315  other=0.540  Δ=0.225] → closest to: Buddhist
+  Bible — KJV (King James Version) | 2:4
+    Look not every man on his own things, but every man also on the things of others.
+
+  [own=0.327  other=0.549  Δ=0.222] → closest to: Taoist
+  Bible — KJV (King James Version) | 13:15
+    Good understanding giveth favour: but the way of transgressors is hard.
+
+  [own=0.394  other=0.616  Δ=0.222] → closest to: Buddhist
+  Bible — KJV (King James Version) | 7:8
+    Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.
+
+  [own=0.437  other=0.657  Δ=0.219] → closest to: Buddhist
+  Bible — KJV (King James Version) | 21:5
+    The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.
+
+  [own=0.403  other=0.622  Δ=0.219] → closest to: Buddhist
+  Bible — KJV (King James Version) | 62:10
+    Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them.
+
+  [own=0.420  other=0.637  Δ=0.217] → closest to: Buddhist
+  Bible — KJV (King James Version) | 14:15
+    The simple believeth every word: but the prudent man looketh well to his going.
+
+  [own=0.468  other=0.686  Δ=0.217] → closest to: Buddhist
+  Bible — KJV (King James Version) | 9:25
+    And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
+
+  [own=0.477  other=0.694  Δ=0.216] → closest to: Buddhist
+  Bible — KJV (King James Version) | 3:13
+    Happy is the man that findeth wisdom, and the man that getteth understanding.
+
+────────────────────────────────────────────────────────────
+  Dharmic wanderers — most drawn toward other traditions
+
+  [own=0.525  other=0.688  Δ=0.164] → closest to: Abrahamic
+  Bhagavad Gita | 10.1
+    The Lord said: Listen again to My divine teachings, O mighty armed one. Desiring your welfare because you are My beloved friend, I shall reveal them to you.
+
+  [own=0.269  other=0.406  Δ=0.137] → closest to: Abrahamic
+  Yoga Sutras of Patanjali (Johnston) | 2.30
+    The Commandments are these: nom injury, truthfulness, abstaining from stealing, from impurity, from covetousness.
+
+  [own=0.341  other=0.455  Δ=0.114] → closest to: Abrahamic
+  Bhagavad Gita | 1.20
+    At that time, the son of Pandu, Arjun, who had the insignia of Hanuman on the flag of his chariot, took up his bow. Seeing your sons arrayed against him, O King, Arjun then spoke the following words t
+
+  [own=0.554  other=0.661  Δ=0.107] → closest to: Buddhist
+  Bhagavad Gita | 18.58
+    If you always remember Me, by My grace you shall overcome all obstacles and difficulties. But if, due to pride, you do not listen to My advice, you will perish.
+
+  [own=0.555  other=0.653  Δ=0.098] → closest to: Abrahamic
+  Bhagavad Gita | 2.32
+    O Parth, happy are the warriors to whom such opportunities to defend righteousness come unsought, opening for them the stairway to the celestial abodes.
+
+  [own=0.482  other=0.580  Δ=0.098] → closest to: Buddhist
+  Bhagavad Gita | 2.5
+    It would be better to live in this world by begging, than to enjoy life by killing these noble elders, who are my teachers. If we kill them, the wealth and pleasures we enjoy will be tainted with bloo
+
+  [own=0.524  other=0.621  Δ=0.097] → closest to: Abrahamic
+  Bhagavad Gita | 2.12
+    Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.
+
+  [own=0.324  other=0.417  Δ=0.094] → closest to: Abrahamic
+  Bhagavad Gita | 2.33
+    If, however, you refuse to fight this righteous war, abandoning your social duty and reputation, you will certainly incur sin.
+
+  [own=0.186  other=0.272  Δ=0.086] → closest to: Abrahamic
+  Bhagavad Gita | 1.13
+    Thereafter, conches, kettledrums, bugles, trumpets, and horns suddenly blared forth, and their combined sound was overwhelming.
+
+  [own=0.208  other=0.294  Δ=0.086] → closest to: Taoist
+  Bhagavad Gita | 1.10
+    The strength of our army is unlimited and we are safely marshalled by Grandsire Bheeshma, while the strength of the Pandava army, carefully marshalled by Bheem, is limited.
+
+────────────────────────────────────────────────────────────
+  Buddhist wanderers — most drawn toward other traditions
+
+  [own=0.585  other=0.661  Δ=0.076] → closest to: Dharmic
+  Dhammapada (Müller) | 20.279
+    `All forms are unreal,' he who knows and sees this becomes passive in pain; this is the way that leads to purity.
+
+  [own=0.531  other=0.602  Δ=0.071] → closest to: Dharmic
+  Dhammapada (Müller) | 14.191
+    Viz. pain, the origin of pain, the destruction of pain, and the eightfold holy way that leads to the quieting of pain;--
+
+  [own=0.543  other=0.613  Δ=0.070] → closest to: Dharmic
+  Dhammapada (Müller) | 26.383
+    Stop the stream valiantly, drive away the desires, O Brahmana! When you have understood the destruction of all that was made, you will understand that which was not made.
+
+  [own=0.484  other=0.549  Δ=0.065] → closest to: Dharmic
+  Dhammapada (Müller) | 18.255
+    There is no path through the air, a man is not a Samana by outward acts. No creatures are eternal; but the awakened (Buddha) are never shaken.
+
+  [own=0.629  other=0.693  Δ=0.064] → closest to: Dharmic
+  Dhammapada (Müller) | 25.374
+    As soon as he has considered the origin and destruction of the elements (khandha) of the body, he finds happiness and joy which belong to those who know the immortal (Nirvana).
+
+  [own=0.469  other=0.531  Δ=0.062] → closest to: Dharmic
+  Dhammapada (Müller) | 21.301
+    The disciples of Gotama are always well awake, and their mind day and night always delights in meditation.
+
+  [own=0.555  other=0.614  Δ=0.059] → closest to: Dharmic
+  Dhammapada (Müller) | 25.372
+    Without knowledge there is no meditation, without meditation there is no knowledge: he who has knowledge and meditation is near unto Nirvana.
+
+  [own=0.529  other=0.586  Δ=0.057] → closest to: Abrahamic
+  Dhammapada (Müller) | 26.394
+    What is the use of platted hair, O fool! what of the raiment of goat-skins? Within thee there is ravening, but the outside thou makest clean.
+
+  [own=0.470  other=0.522  Δ=0.052] → closest to: Dharmic
+  Dhammapada (Müller) | 21.299
+    The disciples of Gotama are always well awake, and their thoughts day and night are always set on their body.
+
+  [own=0.693  other=0.744  Δ=0.051] → closest to: Dharmic
+  Dhammapada (Müller) | 2.23
+    These wise people, meditative, steady, always possessed of strong powers, attain to Nirvana, the highest happiness.
+
+────────────────────────────────────────────────────────────
+  Taoist wanderers — most drawn toward other traditions
+
+  [own=0.611  other=0.652  Δ=0.041] → closest to: Dharmic
+  Dao De Jing (Linnell) | 50
+    The world had a beginning, Which can be considered the mother of the world. Once you have realized its mother, You thus know her children. Once you know her children, Return to and maintain their moth
+
+  [own=0.502  other=0.532  Δ=0.030] → closest to: Dharmic
+  Dao De Jing (Linnell) | 6
+    The spirit of the valley does not die – It is called the deep and mysterious feminine. The gateway of this deep and mysterious feminine – It is called the source of heaven and earth. Unbroken, it seem
+
+  [own=0.626  other=0.648  Δ=0.023] → closest to: Buddhist
+  Dao De Jing (Linnell) | 70
+    When your courage lies in daring, The consequence is killing. When your courage lies in not daring, The consequence is survival. These two choices, they sometimes cause benefit, sometimes cause harm. 
+
+  [own=0.708  other=0.717  Δ=0.009] → closest to: Buddhist
+  Dao De Jing (Linnell) | 30
+    He who knows people is wise; He who knows himself has insight. He who is victorious over people possesses power; He who is victorious over himself is strong. He who knows he has enough is wealthy; He 
+
+  [own=0.618  other=0.619  Δ=0.002] → closest to: Dharmic
+  Dao De Jing (Linnell) | 50
+    That which is well established is not uprooted. That which is well embraced is not abandoned. Thus children and grandchildren offer sacrifices, and so sacrifices do not stop. Cultivate it in the self 
+
+  [own=0.513  other=0.503  Δ=-0.009] → closest to: Buddhist
+  Dao De Jing (Linnell) | 20
+    Serious serves as the source of frivolous. Stillness serves as the ruler of restlessness. Thus the noble man travels the entire day, And does not stray from his wagon. He is serious, even though glori
+
+  [own=0.438  other=0.428  Δ=-0.010] → closest to: Dharmic
+  Dao De Jing (Linnell) | 50
+    Between coming out into life and entering death, Followers of life are 3 in 10. Followers of death are 3 in 10. People whose lives are merely moving them towards the place of death Are also 3 in 10. N
+
+  [own=0.560  other=0.549  Δ=-0.011] → closest to: Buddhist
+  Dao De Jing (Linnell) | 40
+    Fame and self : which do you love? Self and property : which is greater? Gain and loss : which is the affliction? Extreme desire must lead to great expense. Collecting too much must lead to substantia
+
+  [own=0.702  other=0.690  Δ=-0.012] → closest to: Buddhist
+  Dao De Jing (Linnell) | 20
+    What is wrong then becomes whole and perfect. What is bent then becomes straight. What is hollow then becomes filled. What is worn out then becomes new. Have little, then gain. Have too much, then bec
+
+  [own=0.589  other=0.575  Δ=-0.014] → closest to: Buddhist
+  Dao De Jing (Linnell) | 70
+    Knowing that you do not know is honorable! Not knowing that you know is a sickness! Now : only when you are sick of sickness, Thus you are not sick. The sage is not sick Because he is sick of sickness
+
+=== Summary: mean similarity to own centroid per tradition ===
+            mean    min    max
+tradition                     
+Abrahamic  0.560  0.026  0.793
+Buddhist   0.593  0.320  0.765
+Dharmic    0.550  0.105  0.786
+Taoist     0.637  0.279  0.789
+
+=== Where do wanderers end up? (top destination tradition) ===
+closest_other  Abrahamic  Buddhist  Dharmic  Taoist
+tradition                                          
+Abrahamic              0         9        0       1
+Buddhist               1         0        9       0
+Dharmic                7         2        0       1
+Taoist                 0         6        4       0

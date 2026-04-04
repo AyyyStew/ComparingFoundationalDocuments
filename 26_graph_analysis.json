@@ -1,0 +1,1274 @@
+{
+  "graph": {
+    "nodes": 30,
+    "edges": 184,
+    "lcc_nodes": 30,
+    "lcc_edges": 184
+  },
+  "centrality": {
+    "betweenness": [
+      {
+        "node": 16,
+        "label": "death / sorrow / dead / body",
+        "tradition": "Abrahamic",
+        "score": 0.16938
+      },
+      {
+        "node": 10,
+        "label": "does / sage / citizens / world",
+        "tradition": "Taoist",
+        "score": 0.13099
+      },
+      {
+        "node": 21,
+        "label": "sword / enemies / man / hand",
+        "tradition": "Abrahamic",
+        "score": 0.0878
+      },
+      {
+        "node": 23,
+        "label": "man / riches / vanity / wealth",
+        "tradition": "Abrahamic",
+        "score": 0.06502
+      },
+      {
+        "node": 26,
+        "label": "shalt / commandments / lord god / commandment",
+        "tradition": "Abrahamic",
+        "score": 0.06007
+      },
+      {
+        "node": 3,
+        "label": "revealed / known / hid / hear",
+        "tradition": "Abrahamic",
+        "score": 0.0523
+      },
+      {
+        "node": 24,
+        "label": "wisdom / wise / fool / understanding",
+        "tradition": "Abrahamic",
+        "score": 0.04605
+      },
+      {
+        "node": 6,
+        "label": "brahmana / free / brahman / man",
+        "tradition": "Buddhist",
+        "score": 0.03415
+      },
+      {
+        "node": 20,
+        "label": "upright / forbidden / ashamed / righteousness",
+        "tradition": "Abrahamic",
+        "score": 0.03408
+      },
+      {
+        "node": 22,
+        "label": "evil / evil good / overcome / men",
+        "tradition": "Abrahamic",
+        "score": 0.0243
+      },
+      {
+        "node": 17,
+        "label": "lust / mara / forest / damaged",
+        "tradition": "Buddhist",
+        "score": 0.02244
+      },
+      {
+        "node": 28,
+        "label": "lord / lord trouble / hand / trouble",
+        "tradition": "Abrahamic",
+        "score": 0.01932
+      },
+      {
+        "node": 18,
+        "label": "good / evil / fear / grief",
+        "tradition": "Buddhist",
+        "score": 0.01827
+      },
+      {
+        "node": 4,
+        "label": "light / darkness / night / bright",
+        "tradition": "Abrahamic",
+        "score": 0.01773
+      },
+      {
+        "node": 19,
+        "label": "evil / wicked / righteous / man",
+        "tradition": "Abrahamic",
+        "score": 0.01724
+      },
+      {
+        "node": 11,
+        "label": "mode / pleasant / mode ignorance / mode goodness",
+        "tradition": "Dharmic",
+        "score": 0.01714
+      },
+      {
+        "node": 15,
+        "label": "mind / nature / consciousness / material",
+        "tradition": "Dharmic",
+        "score": 0.01673
+      },
+      {
+        "node": 27,
+        "label": "lord / god / praise / sing",
+        "tradition": "Abrahamic",
+        "score": 0.01597
+      },
+      {
+        "node": 8,
+        "label": "sacrifice / offering / offer / sacrifices",
+        "tradition": "Abrahamic",
+        "score": 0.0099
+      },
+      {
+        "node": 14,
+        "label": "devotion / worship / devotees / celestial",
+        "tradition": "Dharmic",
+        "score": 0.008
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": 21,
+        "label": "sword / enemies / man / hand",
+        "tradition": "Abrahamic",
+        "score": 0.32594
+      },
+      {
+        "node": 15,
+        "label": "mind / nature / consciousness / material",
+        "tradition": "Dharmic",
+        "score": 0.32494
+      },
+      {
+        "node": 12,
+        "label": "arjun / form / supreme / beings",
+        "tradition": "Dharmic",
+        "score": 0.30248
+      },
+      {
+        "node": 24,
+        "label": "wisdom / wise / fool / understanding",
+        "tradition": "Abrahamic",
+        "score": 0.29313
+      },
+      {
+        "node": 19,
+        "label": "evil / wicked / righteous / man",
+        "tradition": "Abrahamic",
+        "score": 0.25696
+      },
+      {
+        "node": 14,
+        "label": "devotion / worship / devotees / celestial",
+        "tradition": "Dharmic",
+        "score": 0.25337
+      },
+      {
+        "node": 27,
+        "label": "lord / god / praise / sing",
+        "tradition": "Abrahamic",
+        "score": 0.22946
+      },
+      {
+        "node": 16,
+        "label": "death / sorrow / dead / body",
+        "tradition": "Abrahamic",
+        "score": 0.21318
+      },
+      {
+        "node": 8,
+        "label": "sacrifice / offering / offer / sacrifices",
+        "tradition": "Abrahamic",
+        "score": 0.2087
+      },
+      {
+        "node": 4,
+        "label": "light / darkness / night / bright",
+        "tradition": "Abrahamic",
+        "score": 0.20335
+      },
+      {
+        "node": 2,
+        "label": "yog / karm / yogis / yogi",
+        "tradition": "Dharmic",
+        "score": 0.2008
+      },
+      {
+        "node": 23,
+        "label": "man / riches / vanity / wealth",
+        "tradition": "Abrahamic",
+        "score": 0.18826
+      },
+      {
+        "node": 20,
+        "label": "upright / forbidden / ashamed / righteousness",
+        "tradition": "Abrahamic",
+        "score": 0.18393
+      },
+      {
+        "node": 11,
+        "label": "mode / pleasant / mode ignorance / mode goodness",
+        "tradition": "Dharmic",
+        "score": 0.18375
+      },
+      {
+        "node": 22,
+        "label": "evil / evil good / overcome / men",
+        "tradition": "Abrahamic",
+        "score": 0.13689
+      },
+      {
+        "node": 9,
+        "label": "duties / prescribed / prescribed duties / perform",
+        "tradition": "Dharmic",
+        "score": 0.13424
+      },
+      {
+        "node": 3,
+        "label": "revealed / known / hid / hear",
+        "tradition": "Abrahamic",
+        "score": 0.12916
+      },
+      {
+        "node": 26,
+        "label": "shalt / commandments / lord god / commandment",
+        "tradition": "Abrahamic",
+        "score": 0.12818
+      },
+      {
+        "node": 5,
+        "label": "lord / saying / word lord / word",
+        "tradition": "Abrahamic",
+        "score": 0.122
+      },
+      {
+        "node": 13,
+        "label": "tongue / mouth / lips / speaketh",
+        "tradition": "Abrahamic",
+        "score": 0.1186
+      }
+    ],
+    "degree": [
+      {
+        "node": 21,
+        "label": "sword / enemies / man / hand",
+        "tradition": "Abrahamic",
+        "score": 0.82759
+      },
+      {
+        "node": 15,
+        "label": "mind / nature / consciousness / material",
+        "tradition": "Dharmic",
+        "score": 0.68966
+      },
+      {
+        "node": 16,
+        "label": "death / sorrow / dead / body",
+        "tradition": "Abrahamic",
+        "score": 0.68966
+      },
+      {
+        "node": 24,
+        "label": "wisdom / wise / fool / understanding",
+        "tradition": "Abrahamic",
+        "score": 0.68966
+      },
+      {
+        "node": 27,
+        "label": "lord / god / praise / sing",
+        "tradition": "Abrahamic",
+        "score": 0.58621
+      },
+      {
+        "node": 4,
+        "label": "light / darkness / night / bright",
+        "tradition": "Abrahamic",
+        "score": 0.55172
+      },
+      {
+        "node": 12,
+        "label": "arjun / form / supreme / beings",
+        "tradition": "Dharmic",
+        "score": 0.55172
+      },
+      {
+        "node": 8,
+        "label": "sacrifice / offering / offer / sacrifices",
+        "tradition": "Abrahamic",
+        "score": 0.51724
+      },
+      {
+        "node": 20,
+        "label": "upright / forbidden / ashamed / righteousness",
+        "tradition": "Abrahamic",
+        "score": 0.51724
+      },
+      {
+        "node": 23,
+        "label": "man / riches / vanity / wealth",
+        "tradition": "Abrahamic",
+        "score": 0.51724
+      },
+      {
+        "node": 3,
+        "label": "revealed / known / hid / hear",
+        "tradition": "Abrahamic",
+        "score": 0.48276
+      },
+      {
+        "node": 10,
+        "label": "does / sage / citizens / world",
+        "tradition": "Taoist",
+        "score": 0.48276
+      },
+      {
+        "node": 11,
+        "label": "mode / pleasant / mode ignorance / mode goodness",
+        "tradition": "Dharmic",
+        "score": 0.48276
+      },
+      {
+        "node": 14,
+        "label": "devotion / worship / devotees / celestial",
+        "tradition": "Dharmic",
+        "score": 0.44828
+      },
+      {
+        "node": 19,
+        "label": "evil / wicked / righteous / man",
+        "tradition": "Abrahamic",
+        "score": 0.44828
+      },
+      {
+        "node": 26,
+        "label": "shalt / commandments / lord god / commandment",
+        "tradition": "Abrahamic",
+        "score": 0.44828
+      },
+      {
+        "node": 2,
+        "label": "yog / karm / yogis / yogi",
+        "tradition": "Dharmic",
+        "score": 0.41379
+      },
+      {
+        "node": 6,
+        "label": "brahmana / free / brahman / man",
+        "tradition": "Buddhist",
+        "score": 0.41379
+      },
+      {
+        "node": 22,
+        "label": "evil / evil good / overcome / men",
+        "tradition": "Abrahamic",
+        "score": 0.41379
+      },
+      {
+        "node": 9,
+        "label": "duties / prescribed / prescribed duties / perform",
+        "tradition": "Dharmic",
+        "score": 0.34483
+      }
+    ],
+    "closeness": [
+      {
+        "node": 21,
+        "label": "sword / enemies / man / hand",
+        "tradition": "Abrahamic",
+        "score": 0.85294
+      },
+      {
+        "node": 15,
+        "label": "mind / nature / consciousness / material",
+        "tradition": "Dharmic",
+        "score": 0.76316
+      },
+      {
+        "node": 16,
+        "label": "death / sorrow / dead / body",
+        "tradition": "Abrahamic",
+        "score": 0.76316
+      },
+      {
+        "node": 24,
+        "label": "wisdom / wise / fool / understanding",
+        "tradition": "Abrahamic",
+        "score": 0.76316
+      },
+      {
+        "node": 12,
+        "label": "arjun / form / supreme / beings",
+        "tradition": "Dharmic",
+        "score": 0.69048
+      },
+      {
+        "node": 27,
+        "label": "lord / god / praise / sing",
+        "tradition": "Abrahamic",
+        "score": 0.69048
+      },
+      {
+        "node": 4,
+        "label": "light / darkness / night / bright",
+        "tradition": "Abrahamic",
+        "score": 0.67442
+      },
+      {
+        "node": 8,
+        "label": "sacrifice / offering / offer / sacrifices",
+        "tradition": "Abrahamic",
+        "score": 0.67442
+      },
+      {
+        "node": 20,
+        "label": "upright / forbidden / ashamed / righteousness",
+        "tradition": "Abrahamic",
+        "score": 0.67442
+      },
+      {
+        "node": 10,
+        "label": "does / sage / citizens / world",
+        "tradition": "Taoist",
+        "score": 0.65909
+      },
+      {
+        "node": 23,
+        "label": "man / riches / vanity / wealth",
+        "tradition": "Abrahamic",
+        "score": 0.65909
+      },
+      {
+        "node": 3,
+        "label": "revealed / known / hid / hear",
+        "tradition": "Abrahamic",
+        "score": 0.64444
+      },
+      {
+        "node": 11,
+        "label": "mode / pleasant / mode ignorance / mode goodness",
+        "tradition": "Dharmic",
+        "score": 0.64444
+      },
+      {
+        "node": 14,
+        "label": "devotion / worship / devotees / celestial",
+        "tradition": "Dharmic",
+        "score": 0.64444
+      },
+      {
+        "node": 2,
+        "label": "yog / karm / yogis / yogi",
+        "tradition": "Dharmic",
+        "score": 0.63043
+      },
+      {
+        "node": 19,
+        "label": "evil / wicked / righteous / man",
+        "tradition": "Abrahamic",
+        "score": 0.63043
+      },
+      {
+        "node": 26,
+        "label": "shalt / commandments / lord god / commandment",
+        "tradition": "Abrahamic",
+        "score": 0.63043
+      },
+      {
+        "node": 6,
+        "label": "brahmana / free / brahman / man",
+        "tradition": "Buddhist",
+        "score": 0.61702
+      },
+      {
+        "node": 22,
+        "label": "evil / evil good / overcome / men",
+        "tradition": "Abrahamic",
+        "score": 0.61702
+      },
+      {
+        "node": 17,
+        "label": "lust / mara / forest / damaged",
+        "tradition": "Buddhist",
+        "score": 0.60417
+      }
+    ]
+  },
+  "communities": [
+    {
+      "community_id": 1,
+      "nodes": [
+        1,
+        5,
+        20,
+        21,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "node_labels": [
+        "word lord / saying / lord saying / word",
+        "lord / saying / word lord / word",
+        "upright / forbidden / ashamed / righteousness",
+        "sword / enemies / man / hand",
+        "servant / masters / servants / submit",
+        "shalt / commandments / lord god / commandment",
+        "lord / god / praise / sing",
+        "lord / lord trouble / hand / trouble",
+        "hear / lord / god / ear"
+      ],
+      "tradition_counts": {
+        "Abrahamic": 469,
+        "Dharmic": 22,
+        "Buddhist": 13,
+        "Taoist": 1
+      },
+      "entropy": 0.31172679754825494,
+      "dominant": "Abrahamic",
+      "dominant_pct": 0.9287128712871288
+    },
+    {
+      "community_id": 2,
+      "nodes": [
+        2,
+        3,
+        6,
+        8,
+        9,
+        11,
+        12,
+        14,
+        15
+      ],
+      "node_labels": [
+        "yog / karm / yogis / yogi",
+        "revealed / known / hid / hear",
+        "brahmana / free / brahman / man",
+        "sacrifice / offering / offer / sacrifices",
+        "duties / prescribed / prescribed duties / perform",
+        "mode / pleasant / mode ignorance / mode goodness",
+        "arjun / form / supreme / beings",
+        "devotion / worship / devotees / celestial",
+        "mind / nature / consciousness / material"
+      ],
+      "tradition_counts": {
+        "Abrahamic": 67,
+        "Dharmic": 605,
+        "Buddhist": 58,
+        "Taoist": 1
+      },
+      "entropy": 0.5856811516519042,
+      "dominant": "Dharmic",
+      "dominant_pct": 0.8276333789329685
+    },
+    {
+      "community_id": 0,
+      "nodes": [
+        7,
+        13,
+        18,
+        19,
+        22,
+        23,
+        24
+      ],
+      "node_labels": [
+        "bhikshu / law / restraint / called",
+        "tongue / mouth / lips / speaketh",
+        "good / evil / fear / grief",
+        "evil / wicked / righteous / man",
+        "evil / evil good / overcome / men",
+        "man / riches / vanity / wealth",
+        "wisdom / wise / fool / understanding"
+      ],
+      "tradition_counts": {
+        "Abrahamic": 229,
+        "Dharmic": 4,
+        "Buddhist": 80,
+        "Taoist": 4
+      },
+      "entropy": 0.6927351351492348,
+      "dominant": "Abrahamic",
+      "dominant_pct": 0.722397476340694
+    },
+    {
+      "community_id": 3,
+      "nodes": [
+        0,
+        4,
+        10,
+        16,
+        17
+      ],
+      "node_labels": [
+        "dao / creatures / does / thousand creatures",
+        "light / darkness / night / bright",
+        "does / sage / citizens / world",
+        "death / sorrow / dead / body",
+        "lust / mara / forest / damaged"
+      ],
+      "tradition_counts": {
+        "Abrahamic": 69,
+        "Dharmic": 26,
+        "Buddhist": 59,
+        "Taoist": 59
+      },
+      "entropy": 1.3330608174153205,
+      "dominant": "Abrahamic",
+      "dominant_pct": 0.323943661971831
+    }
+  ],
+  "cross_tradition_edges": [
+    {
+      "node_a": 18,
+      "label_a": "good / evil / fear / grief",
+      "trad_a": "Buddhist",
+      "node_b": 19,
+      "label_b": "evil / wicked / righteous / man",
+      "trad_b": "Abrahamic",
+      "weight": 7
+    },
+    {
+      "node_a": 8,
+      "label_a": "sacrifice / offering / offer / sacrifices",
+      "trad_a": "Abrahamic",
+      "node_b": 14,
+      "label_b": "devotion / worship / devotees / celestial",
+      "trad_b": "Dharmic",
+      "weight": 6
+    },
+    {
+      "node_a": 15,
+      "label_a": "mind / nature / consciousness / material",
+      "trad_a": "Dharmic",
+      "node_b": 16,
+      "label_b": "death / sorrow / dead / body",
+      "trad_b": "Abrahamic",
+      "weight": 6
+    },
+    {
+      "node_a": 15,
+      "label_a": "mind / nature / consciousness / material",
+      "trad_a": "Dharmic",
+      "node_b": 17,
+      "label_b": "lust / mara / forest / damaged",
+      "trad_b": "Buddhist",
+      "weight": 6
+    },
+    {
+      "node_a": 4,
+      "label_a": "light / darkness / night / bright",
+      "trad_a": "Abrahamic",
+      "node_b": 12,
+      "label_b": "arjun / form / supreme / beings",
+      "trad_b": "Dharmic",
+      "weight": 5
+    },
+    {
+      "node_a": 4,
+      "label_a": "light / darkness / night / bright",
+      "trad_a": "Abrahamic",
+      "node_b": 15,
+      "label_b": "mind / nature / consciousness / material",
+      "trad_b": "Dharmic",
+      "weight": 5
+    },
+    {
+      "node_a": 8,
+      "label_a": "sacrifice / offering / offer / sacrifices",
+      "trad_a": "Abrahamic",
+      "node_b": 15,
+      "label_b": "mind / nature / consciousness / material",
+      "trad_b": "Dharmic",
+      "weight": 5
+    },
+    {
+      "node_a": 8,
+      "label_a": "sacrifice / offering / offer / sacrifices",
+      "trad_a": "Abrahamic",
+      "node_b": 12,
+      "label_b": "arjun / form / supreme / beings",
+      "trad_b": "Dharmic",
+      "weight": 5
+    },
+    {
+      "node_a": 12,
+      "label_a": "arjun / form / supreme / beings",
+      "trad_a": "Dharmic",
+      "node_b": 21,
+      "label_b": "sword / enemies / man / hand",
+      "trad_b": "Abrahamic",
+      "weight": 5
+    },
+    {
+      "node_a": 12,
+      "label_a": "arjun / form / supreme / beings",
+      "trad_a": "Dharmic",
+      "node_b": 24,
+      "label_b": "wisdom / wise / fool / understanding",
+      "trad_b": "Abrahamic",
+      "weight": 5
+    },
+    {
+      "node_a": 16,
+      "label_a": "death / sorrow / dead / body",
+      "trad_a": "Abrahamic",
+      "node_b": 17,
+      "label_b": "lust / mara / forest / damaged",
+      "trad_b": "Buddhist",
+      "weight": 5
+    },
+    {
+      "node_a": 3,
+      "label_a": "revealed / known / hid / hear",
+      "trad_a": "Abrahamic",
+      "node_b": 15,
+      "label_b": "mind / nature / consciousness / material",
+      "trad_b": "Dharmic",
+      "weight": 4
+    },
+    {
+      "node_a": 3,
+      "label_a": "revealed / known / hid / hear",
+      "trad_a": "Abrahamic",
+      "node_b": 12,
+      "label_b": "arjun / form / supreme / beings",
+      "trad_b": "Dharmic",
+      "weight": 4
+    },
+    {
+      "node_a": 10,
+      "label_a": "does / sage / citizens / world",
+      "trad_a": "Taoist",
+      "node_b": 15,
+      "label_b": "mind / nature / consciousness / material",
+      "trad_b": "Dharmic",
+      "weight": 4
+    },
+    {
+      "node_a": 11,
+      "label_a": "mode / pleasant / mode ignorance / mode goodness",
+      "trad_a": "Dharmic",
+      "node_b": 21,
+      "label_b": "sword / enemies / man / hand",
+      "trad_b": "Abrahamic",
+      "weight": 4
+    },
+    {
+      "node_a": 12,
+      "label_a": "arjun / form / supreme / beings",
+      "trad_a": "Dharmic",
+      "node_b": 27,
+      "label_b": "lord / god / praise / sing",
+      "trad_b": "Abrahamic",
+      "weight": 4
+    },
+    {
+      "node_a": 14,
+      "label_a": "devotion / worship / devotees / celestial",
+      "trad_a": "Dharmic",
+      "node_b": 21,
+      "label_b": "sword / enemies / man / hand",
+      "trad_b": "Abrahamic",
+      "weight": 4
+    },
+    {
+      "node_a": 15,
+      "label_a": "mind / nature / consciousness / material",
+      "trad_a": "Dharmic",
+      "node_b": 21,
+      "label_b": "sword / enemies / man / hand",
+      "trad_b": "Abrahamic",
+      "weight": 4
+    },
+    {
+      "node_a": 17,
+      "label_a": "lust / mara / forest / damaged",
+      "trad_a": "Buddhist",
+      "node_b": 19,
+      "label_b": "evil / wicked / righteous / man",
+      "trad_b": "Abrahamic",
+      "weight": 4
+    },
+    {
+      "node_a": 18,
+      "label_a": "good / evil / fear / grief",
+      "trad_a": "Buddhist",
+      "node_b": 24,
+      "label_b": "wisdom / wise / fool / understanding",
+      "trad_b": "Abrahamic",
+      "weight": 4
+    },
+    {
+      "node_a": 2,
+      "label_a": "yog / karm / yogis / yogi",
+      "trad_a": "Dharmic",
+      "node_b": 4,
+      "label_b": "light / darkness / night / bright",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 2,
+      "label_a": "yog / karm / yogis / yogi",
+      "trad_a": "Dharmic",
+      "node_b": 21,
+      "label_b": "sword / enemies / man / hand",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 2,
+      "label_a": "yog / karm / yogis / yogi",
+      "trad_a": "Dharmic",
+      "node_b": 6,
+      "label_b": "brahmana / free / brahman / man",
+      "trad_b": "Buddhist",
+      "weight": 3
+    },
+    {
+      "node_a": 2,
+      "label_a": "yog / karm / yogis / yogi",
+      "trad_a": "Dharmic",
+      "node_b": 8,
+      "label_b": "sacrifice / offering / offer / sacrifices",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 2,
+      "label_a": "yog / karm / yogis / yogi",
+      "trad_a": "Dharmic",
+      "node_b": 3,
+      "label_b": "revealed / known / hid / hear",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 3,
+      "label_a": "revealed / known / hid / hear",
+      "trad_a": "Abrahamic",
+      "node_b": 11,
+      "label_b": "mode / pleasant / mode ignorance / mode goodness",
+      "trad_b": "Dharmic",
+      "weight": 3
+    },
+    {
+      "node_a": 3,
+      "label_a": "revealed / known / hid / hear",
+      "trad_a": "Abrahamic",
+      "node_b": 14,
+      "label_b": "devotion / worship / devotees / celestial",
+      "trad_b": "Dharmic",
+      "weight": 3
+    },
+    {
+      "node_a": 4,
+      "label_a": "light / darkness / night / bright",
+      "trad_a": "Abrahamic",
+      "node_b": 14,
+      "label_b": "devotion / worship / devotees / celestial",
+      "trad_b": "Dharmic",
+      "weight": 3
+    },
+    {
+      "node_a": 4,
+      "label_a": "light / darkness / night / bright",
+      "trad_a": "Abrahamic",
+      "node_b": 17,
+      "label_b": "lust / mara / forest / damaged",
+      "trad_b": "Buddhist",
+      "weight": 3
+    },
+    {
+      "node_a": 6,
+      "label_a": "brahmana / free / brahman / man",
+      "trad_a": "Buddhist",
+      "node_b": 14,
+      "label_b": "devotion / worship / devotees / celestial",
+      "trad_b": "Dharmic",
+      "weight": 3
+    },
+    {
+      "node_a": 6,
+      "label_a": "brahmana / free / brahman / man",
+      "trad_a": "Buddhist",
+      "node_b": 15,
+      "label_b": "mind / nature / consciousness / material",
+      "trad_b": "Dharmic",
+      "weight": 3
+    },
+    {
+      "node_a": 7,
+      "label_a": "bhikshu / law / restraint / called",
+      "trad_a": "Buddhist",
+      "node_b": 23,
+      "label_b": "man / riches / vanity / wealth",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 8,
+      "label_a": "sacrifice / offering / offer / sacrifices",
+      "trad_a": "Abrahamic",
+      "node_b": 9,
+      "label_b": "duties / prescribed / prescribed duties / perform",
+      "trad_b": "Dharmic",
+      "weight": 3
+    },
+    {
+      "node_a": 8,
+      "label_a": "sacrifice / offering / offer / sacrifices",
+      "trad_a": "Abrahamic",
+      "node_b": 11,
+      "label_b": "mode / pleasant / mode ignorance / mode goodness",
+      "trad_b": "Dharmic",
+      "weight": 3
+    },
+    {
+      "node_a": 10,
+      "label_a": "does / sage / citizens / world",
+      "trad_a": "Taoist",
+      "node_b": 24,
+      "label_b": "wisdom / wise / fool / understanding",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 10,
+      "label_a": "does / sage / citizens / world",
+      "trad_a": "Taoist",
+      "node_b": 17,
+      "label_b": "lust / mara / forest / damaged",
+      "trad_b": "Buddhist",
+      "weight": 3
+    },
+    {
+      "node_a": 10,
+      "label_a": "does / sage / citizens / world",
+      "trad_a": "Taoist",
+      "node_b": 16,
+      "label_b": "death / sorrow / dead / body",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 15,
+      "label_a": "mind / nature / consciousness / material",
+      "trad_a": "Dharmic",
+      "node_b": 27,
+      "label_b": "lord / god / praise / sing",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 18,
+      "label_a": "good / evil / fear / grief",
+      "trad_a": "Buddhist",
+      "node_b": 20,
+      "label_b": "upright / forbidden / ashamed / righteousness",
+      "trad_b": "Abrahamic",
+      "weight": 3
+    },
+    {
+      "node_a": 2,
+      "label_a": "yog / karm / yogis / yogi",
+      "trad_a": "Dharmic",
+      "node_b": 16,
+      "label_b": "death / sorrow / dead / body",
+      "trad_b": "Abrahamic",
+      "weight": 2
+    },
+    {
+      "node_a": 2,
+      "label_a": "yog / karm / yogis / yogi",
+      "trad_a": "Dharmic",
+      "node_b": 10,
+      "label_b": "does / sage / citizens / world",
+      "trad_b": "Taoist",
+      "weight": 2
+    },
+    {
+      "node_a": 3,
+      "label_a": "revealed / known / hid / hear",
+      "trad_a": "Abrahamic",
+      "node_b": 6,
+      "label_b": "brahmana / free / brahman / man",
+      "trad_b": "Buddhist",
+      "weight": 2
+    },
+    {
+      "node_a": 3,
+      "label_a": "revealed / known / hid / hear",
+      "trad_a": "Abrahamic",
+      "node_b": 9,
+      "label_b": "duties / prescribed / prescribed duties / perform",
+      "trad_b": "Dharmic",
+      "weight": 2
+    },
+    {
+      "node_a": 4,
+      "label_a": "light / darkness / night / bright",
+      "trad_a": "Abrahamic",
+      "node_b": 11,
+      "label_b": "mode / pleasant / mode ignorance / mode goodness",
+      "trad_b": "Dharmic",
+      "weight": 2
+    },
+    {
+      "node_a": 6,
+      "label_a": "brahmana / free / brahman / man",
+      "trad_a": "Buddhist",
+      "node_b": 22,
+      "label_b": "evil / evil good / overcome / men",
+      "trad_b": "Abrahamic",
+      "weight": 2
+    },
+    {
+      "node_a": 6,
+      "label_a": "brahmana / free / brahman / man",
+      "trad_a": "Buddhist",
+      "node_b": 8,
+      "label_b": "sacrifice / offering / offer / sacrifices",
+      "trad_b": "Abrahamic",
+      "weight": 2
+    },
+    {
+      "node_a": 6,
+      "label_a": "brahmana / free / brahman / man",
+      "trad_a": "Buddhist",
+      "node_b": 9,
+      "label_b": "duties / prescribed / prescribed duties / perform",
+      "trad_b": "Dharmic",
+      "weight": 2
+    },
+    {
+      "node_a": 6,
+      "label_a": "brahmana / free / brahman / man",
+      "trad_a": "Buddhist",
+      "node_b": 10,
+      "label_b": "does / sage / citizens / world",
+      "trad_b": "Taoist",
+      "weight": 2
+    },
+    {
+      "node_a": 6,
+      "label_a": "brahmana / free / brahman / man",
+      "trad_a": "Buddhist",
+      "node_b": 12,
+      "label_b": "arjun / form / supreme / beings",
+      "trad_b": "Dharmic",
+      "weight": 2
+    },
+    {
+      "node_a": 6,
+      "label_a": "brahmana / free / brahman / man",
+      "trad_a": "Buddhist",
+      "node_b": 11,
+      "label_b": "mode / pleasant / mode ignorance / mode goodness",
+      "trad_b": "Dharmic",
+      "weight": 2
+    }
+  ],
+  "tradition_subgraphs": {
+    "Abrahamic": {
+      "nodes": 18,
+      "edges": 84,
+      "density": 0.5490196078431373,
+      "avg_degree": 9.333333333333334,
+      "lcc_size": 18,
+      "diameter": 3
+    },
+    "Dharmic": {
+      "nodes": 6,
+      "edges": 15,
+      "density": 1.0,
+      "avg_degree": 5.0,
+      "lcc_size": 6,
+      "diameter": 1
+    },
+    "Buddhist": {
+      "nodes": 4,
+      "edges": 3,
+      "density": 0.5,
+      "avg_degree": 1.5,
+      "lcc_size": 4,
+      "diameter": 3
+    },
+    "Taoist": {
+      "nodes": 2,
+      "edges": 1,
+      "density": 1.0,
+      "avg_degree": 1.0,
+      "lcc_size": 2,
+      "diameter": 1
+    }
+  },
+  "shortest_paths": {
+    "Abrahamic \u2192 Dharmic": {
+      "from": 21,
+      "to": 15,
+      "path_nodes": [
+        21,
+        15
+      ],
+      "path_labels": [
+        "sword / enemies / man / hand",
+        "mind / nature / consciousness / material"
+      ],
+      "length": 1
+    },
+    "Abrahamic \u2192 Buddhist": {
+      "from": 21,
+      "to": 17,
+      "path_nodes": [
+        21,
+        4,
+        17
+      ],
+      "path_labels": [
+        "sword / enemies / man / hand",
+        "light / darkness / night / bright",
+        "lust / mara / forest / damaged"
+      ],
+      "length": 2
+    },
+    "Abrahamic \u2192 Taoist": {
+      "from": 21,
+      "to": 10,
+      "path_nodes": [
+        21,
+        10
+      ],
+      "path_labels": [
+        "sword / enemies / man / hand",
+        "does / sage / citizens / world"
+      ],
+      "length": 1
+    },
+    "Dharmic \u2192 Buddhist": {
+      "from": 15,
+      "to": 17,
+      "path_nodes": [
+        15,
+        17
+      ],
+      "path_labels": [
+        "mind / nature / consciousness / material",
+        "lust / mara / forest / damaged"
+      ],
+      "length": 1
+    },
+    "Dharmic \u2192 Taoist": {
+      "from": 15,
+      "to": 10,
+      "path_nodes": [
+        15,
+        10
+      ],
+      "path_labels": [
+        "mind / nature / consciousness / material",
+        "does / sage / citizens / world"
+      ],
+      "length": 1
+    },
+    "Buddhist \u2192 Taoist": {
+      "from": 17,
+      "to": 10,
+      "path_nodes": [
+        17,
+        10
+      ],
+      "path_labels": [
+        "lust / mara / forest / damaged",
+        "does / sage / citizens / world"
+      ],
+      "length": 1
+    }
+  },
+  "diameter": {
+    "diameter": 3,
+    "center_nodes": [
+      {
+        "node": 2,
+        "label": "yog / karm / yogis / yogi",
+        "tradition": "Dharmic"
+      },
+      {
+        "node": 8,
+        "label": "sacrifice / offering / offer / sacrifices",
+        "tradition": "Abrahamic"
+      },
+      {
+        "node": 10,
+        "label": "does / sage / citizens / world",
+        "tradition": "Taoist"
+      },
+      {
+        "node": 12,
+        "label": "arjun / form / supreme / beings",
+        "tradition": "Dharmic"
+      },
+      {
+        "node": 14,
+        "label": "devotion / worship / devotees / celestial",
+        "tradition": "Dharmic"
+      },
+      {
+        "node": 15,
+        "label": "mind / nature / consciousness / material",
+        "tradition": "Dharmic"
+      },
+      {
+        "node": 16,
+        "label": "death / sorrow / dead / body",
+        "tradition": "Abrahamic"
+      },
+      {
+        "node": 17,
+        "label": "lust / mara / forest / damaged",
+        "tradition": "Buddhist"
+      },
+      {
+        "node": 20,
+        "label": "upright / forbidden / ashamed / righteousness",
+        "tradition": "Abrahamic"
+      },
+      {
+        "node": 21,
+        "label": "sword / enemies / man / hand",
+        "tradition": "Abrahamic"
+      },
+      {
+        "node": 24,
+        "label": "wisdom / wise / fool / understanding",
+        "tradition": "Abrahamic"
+      }
+    ],
+    "diameter_path": [
+      {
+        "node": 0,
+        "label": "dao / creatures / does / thousand creatures",
+        "tradition": "Taoist"
+      },
+      {
+        "node": 10,
+        "label": "does / sage / citizens / world",
+        "tradition": "Taoist"
+      },
+      {
+        "node": 2,
+        "label": "yog / karm / yogis / yogi",
+        "tradition": "Dharmic"
+      },
+      {
+        "node": 4,
+        "label": "light / darkness / night / bright",
+        "tradition": "Abrahamic"
+      }
+    ]
+  }
+}

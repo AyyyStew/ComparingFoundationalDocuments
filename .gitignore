@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# DuckDB database and Parquet exports (hosted on Kaggle)
+data/corpus.duckdb
+data/corpus.duckdb.wal
+data/parquet/
+
+
+# Quarto render output (keep .qmd source, ignore rendered artefacts)
+/_freeze/
+/.quarto/
+/project_thoughts_files/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
