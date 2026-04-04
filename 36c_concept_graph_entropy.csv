@@ -1,0 +1,32 @@
+cluster,label,n_passages,dom_tradition,dom_pct,n_traditions,entropy,norm_entropy,n_abrahamic,n_dharmic,n_buddhist,n_taoist,n_norse,n_confucian,n_philosophy,n_scientific,n_literature,n_historical
+9,sea arose / sound thunder / moses / trees burnt,54,Dharmic,0.5370370370370371,2,0.9960383613659183,0.9960383613659183,25,29,0,0,0,0,0,0,0,0
+13,understanding wisdom / fool layeth / praise evil / shot birds,137,Abrahamic,0.4744525547445255,6,1.7220662349781655,0.6661861572451211,65,4,50,3,13,2,0,0,0,0
+14,riches righteousness / charge copies / fathers shalt / exchange worthless,65,Abrahamic,0.6461538461538462,4,1.3148738628586873,0.6574369314293437,42,16,6,0,0,1,0,0,0,0
+12,delights evil / mean man / man repents / qualities behavior,88,Buddhist,0.6477272727272727,4,1.308946144788149,0.6544730723940745,21,9,57,0,0,1,0,0,0,0
+19,sodom abraham / twins womb / cattle children / maidens equal,205,Abrahamic,0.8439024390243902,2,0.6248914000851857,0.6248914000851857,173,32,0,0,0,0,0,0,0,0
+20,bhikshu mendicant / called brahmana / evil muni / dutiful virtuous,63,Buddhist,0.8888888888888888,2,0.5032583347756457,0.5032583347756457,0,7,56,0,0,0,0,0,0,0
+21,commandments clear / regard oath / father forsake / duties parth,55,Abrahamic,0.8727272727272727,3,0.6597626133600722,0.41626386306293117,48,5,2,0,0,0,0,0,0,0
+8,daylight darkness / brahma / understanding vedas / flies round,195,Abrahamic,0.8358974358974359,4,0.7498763934447797,0.37493819672238987,163,28,3,0,0,1,0,0,0,0
+23,confused righteousness / knowledge happiness / enjoyment devotee / arjun symptoms,94,Dharmic,0.8829787234042553,3,0.5721680670960589,0.36099785757437364,1,83,10,0,0,0,0,0,0,0
+27,devotion / karmic reactions / uncontrolled mind / abstaining work,61,Dharmic,0.9180327868852459,4,0.5214461385892911,0.26072306929464556,1,56,3,1,0,0,0,0,0,0
+18,killing prophets / astray cried / words scripture / birds divided,121,Abrahamic,0.9586776859504132,2,0.24832244463628722,0.24832244463628722,116,5,0,0,0,0,0,0,0,0
+24,forgiving righteous / scripture understand / god does / judge plead,130,Abrahamic,0.9461538461538461,3,0.3489914697118136,0.22018910198381533,123,5,2,0,0,0,0,0,0,0
+17,righteousness paradise / quran insight / disbelieve message / alms tax,83,Abrahamic,0.9759036144578314,2,0.1638605128691584,0.1638605128691584,81,2,0,0,0,0,0,0,0,0
+25,punishment hell / destroy family / janardan krishna / oppose believers,235,Abrahamic,0.9617021276595744,3,0.25370654015720223,0.16007100486085069,226,8,1,0,0,0,0,0,0,0
+7,inquiry confucius / died mean / slanders superiors / master tsze,324,Confucian,0.9537037037037037,5,0.3478998466291349,0.14983230850049717,1,3,3,8,0,309,0,0,0,0
+26,brahman eternal / bodies spiritual / realization explain / control senses,399,Dharmic,0.949874686716792,5,0.3381535064808827,0.1456347882716354,16,379,2,1,0,1,0,0,0,0
+22,praise wonderful / commandments hearkening / lord declare / people peace,150,Abrahamic,0.98,2,0.14144054254182067,0.14144054254182067,147,3,0,0,0,0,0,0,0,0
+1,buddha enquired / disciples honoured / subhuti means / exceedingly glorious,82,Buddhist,0.9878048780487805,2,0.09501724567107636,0.09501724567107636,0,1,81,0,0,0,0,0,0,0
+10,covenant saying / commandments explanations / cover ark / land israel,120,Abrahamic,0.9916666666666667,2,0.06952964699480783,0.06952964699480783,119,1,0,0,0,0,0,0,0,0
+28,vedas understand / yoga devotional / gratification worship / beings truthfulness,211,Dharmic,0.995260663507109,2,0.04341407633805841,0.04341407633805841,1,210,0,0,0,0,0,0,0,0
+0,gothmund stanza / rivers named / concerning giants / citing german,1391,Norse,0.9935298346513299,5,0.06823818812486082,0.029388587990779744,2,4,2,0,1382,1,0,0,0,0
+3,serpent moses / moses responded / people cried / objects illusion,109,Abrahamic,1.0,1,-0.0,0.0,109,0,0,0,0,0,0,0,0,0
+6,pharaoh joseph / heed thyself / buy land / officers saying,153,Abrahamic,1.0,1,-0.0,0.0,153,0,0,0,0,0,0,0,0,0
+11,working devotion / study vedas / failure equanimity / opinion arjun,126,Dharmic,1.0,1,-0.0,0.0,0,126,0,0,0,0,0,0,0,0
+4,moses spoken / scripture differences / commanded children / forgive,58,Abrahamic,1.0,1,-0.0,0.0,58,0,0,0,0,0,0,0,0,0
+5,moses scolded / aaron priests / egypt kill / people thirsted,51,Abrahamic,1.0,1,-0.0,0.0,51,0,0,0,0,0,0,0,0,0
+2,joseph interpretations / lord egypt / prisoners bound / save bread,75,Abrahamic,1.0,1,-0.0,0.0,75,0,0,0,0,0,0,0,0,0
+16,prepare believers / israel sanctify / lord peace / end wrongdoers,91,Abrahamic,1.0,1,-0.0,0.0,91,0,0,0,0,0,0,0,0,0
+15,battle sanjay / duryodhan respected / armies fathers / strength pandava,63,Dharmic,1.0,1,-0.0,0.0,0,63,0,0,0,0,0,0,0,0
+29,formless brahman / jīva śhakti / universe unborn / comprehend nature,246,Dharmic,1.0,1,-0.0,0.0,0,246,0,0,0,0,0,0,0,0
+30,supreme entity / spiritual understanding / brahman paramātmā / explain personality,68,Dharmic,1.0,1,-0.0,0.0,0,68,0,0,0,0,0,0,0,0

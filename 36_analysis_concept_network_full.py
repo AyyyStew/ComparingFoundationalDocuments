@@ -24,7 +24,10 @@ import numpy as np
 import pandas as pd
 import networkx as nx
 from collections import defaultdict
-from sklearn.feature_extraction.text import TfidfVectorizer
+import torch
+from keybert import KeyBERT
+from sentence_transformers import SentenceTransformer
+from tqdm import tqdm
 from hdbscan import HDBSCAN
 from umap import UMAP
 from pyvis.network import Network
@@ -169,20 +172,30 @@ for mcs in sweep_sizes:
 print(f"\nUsing min_cluster_size={best_mcs} → {best_k} clusters")
 df["cluster"] = best_labels
 
-# %% Label clusters with top distinctive words (c-TF-IDF)
-tfidf = TfidfVectorizer(stop_words=STOP_WORDS, max_features=10_000,
-                        ngram_range=(1, 2), min_df=2)
-tfidf.fit(df["text"])
-vocab = np.array(tfidf.get_feature_names_out())
+# %% Label clusters with KeyBERT
+kw_model = KeyBERT(model=SentenceTransformer(MODEL_NAME, device="cuda"))
 
 cluster_ids    = sorted(c for c in df["cluster"].unique() if c != -1)
 cluster_labels = {}
 
-for c in cluster_ids:
-    texts   = df[df["cluster"] == c]["text"].tolist()
-    vec     = tfidf.transform([" ".join(texts)]).toarray()[0]
-    top_idx = vec.argsort()[::-1][:4]
-    cluster_labels[c] = " / ".join(vocab[top_idx])
+for c in tqdm(cluster_ids, desc="KeyBERT labeling"):
+    texts = df[df["cluster"] == c]["text"].tolist()
+    # Sample to avoid excessively long documents for large clusters
+    if len(texts) > 300:
+        texts = pd.Series(texts).sample(300, random_state=42).tolist()
+    doc = " ".join(texts)
+    kws = kw_model.extract_keywords(
+        doc,
+        keyphrase_ngram_range=(1, 2),
+        stop_words=list(STOP_WORDS),
+        top_n=4,
+        use_mmr=True,
+        diversity=0.5,
+    )
+    cluster_labels[c] = " / ".join(kw for kw, _ in kws)
+
+del kw_model
+torch.cuda.empty_cache()
 
 print("\nCluster labels:")
 for c, label in cluster_labels.items():
@@ -350,3 +363,16 @@ try:
             print(f"    C{n} [{cluster_labels[n]}] — {G.nodes[n]['dom_tradition']}")
 except ImportError:
     print("  (install python-louvain for community detection: pip install python-louvain)")
+
+# %% Save centroids for 36b (no need to re-run embeddings)
+centroids = {}
+for c in cluster_ids:
+    sub      = df[df["cluster"] == c]
+    vecs_c   = np.stack(sub["vector"].values).astype("float32")
+    centroid = vecs_c.mean(axis=0)
+    centroid /= np.linalg.norm(centroid) + 1e-9
+    centroids[c] = centroid
+
+with open("36_centroids.pkl", "wb") as f:
+    pickle.dump(centroids, f)
+print("Saved: 36_centroids.pkl")
