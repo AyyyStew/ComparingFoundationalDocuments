@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="project_thoughts_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="project_thoughts_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="project_thoughts_files/libs/bootstrap/bootstrap-7c8466fdffa63a87991707e602ffc21b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="project_thoughts_files/libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="project_thoughts_files/libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="project_thoughts_files/libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <style>html{ scroll-behavior: smooth; }</style>
 
 
@@ -136,14 +139,14 @@ ul.task-list li input[type="checkbox"] {
 <p>I started by ingesting and embedding the KJV Bible with all-mpnet-base-v2. (01) Then just looked at the Bible itself — how much variation is there within it, and how do the books distribute in embedding space? (02)</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="02_kjv_book_embeddings_umap.png" class="img-fluid figure-img"></p>
+<p><a href="02_kjv_book_embeddings_umap.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="KJV Books in Embedding Space"><img src="02_kjv_book_embeddings_umap.png" class="img-fluid figure-img" alt="KJV Books in Embedding Space"></a></p>
 <figcaption>KJV Books in Embedding Space</figcaption>
 </figure>
 </div>
 <p>Looking at the plot there are several cluster that seem to form. The gosphels as thier own blob. Old testament in the bottom right. And several new testament books in the top right.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="02_kjv_testament_density.png" class="img-fluid figure-img"></p>
+<p><a href="02_kjv_testament_density.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="KJV Heatmaps of New testatment vs Old testament verses"><img src="02_kjv_testament_density.png" class="img-fluid figure-img" alt="KJV Heatmaps of New testatment vs Old testament verses"></a></p>
 <figcaption>KJV Heatmaps of New testatment vs Old testament verses</figcaption>
 </figure>
 </div>
@@ -166,13 +169,13 @@ ul.task-list li input[type="checkbox"] {
 <p>Ten components account for 74% of variance. The top four — history/theology, prophetic doom/community action, covenant/domestic life, lists/Gospel are the main axes the model finds in the Bible. The rest are real but smaller contrasts in register and genre.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="03_kjv_pca_scree.png" class="img-fluid figure-img"></p>
+<p><a href="03_kjv_pca_scree.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="PCA Scree Chart"><img src="03_kjv_pca_scree.png" class="img-fluid figure-img" alt="PCA Scree Chart"></a></p>
 <figcaption>PCA Scree Chart</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="03_kjv_pca_loadings.png" class="img-fluid figure-img"></p>
+<p><a href="03_kjv_pca_loadings.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="PCA Variation Across the Bible"><img src="03_kjv_pca_loadings.png" class="img-fluid figure-img" alt="PCA Variation Across the Bible"></a></p>
 <figcaption>PCA Variation Across the Bible</figcaption>
 </figure>
 </div>
@@ -182,20 +185,20 @@ ul.task-list li input[type="checkbox"] {
 <p>The Bible has many translations, so a few versions were embedded alongside the KJV to see how much translations actually diverge from each other. Using the KJV as a baseline, ACV, YLT, and BBE were compared via cosine similarity. The BBE had the lowest similarity scores overall, but all versions were quite close — the lowest similarity score across any book was 0.692 on Job in the BBE. Translations vary in register but the semantic content stays consistent. (04)</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="04_translation_book_heatmap.png" class="img-fluid figure-img"></p>
+<p><a href="04_translation_book_heatmap.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Cosine Similarty Between KJV and Translations Per Book"><img src="04_translation_book_heatmap.png" class="img-fluid figure-img" alt="Cosine Similarty Between KJV and Translations Per Book"></a></p>
 <figcaption>Cosine Similarty Between KJV and Translations Per Book</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="04_translation_canon_trajectory.png" class="img-fluid figure-img"></p>
+<p><a href="04_translation_canon_trajectory.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Cosine Distance from KJV across the Canon"><img src="04_translation_canon_trajectory.png" class="img-fluid figure-img" alt="Cosine Distance from KJV across the Canon"></a></p>
 <figcaption>Cosine Distance from KJV across the Canon</figcaption>
 </figure>
 </div>
 <p>Aggregation method was also tested: does rolling up verse embeddings by mean, weighted mean, or other methods change the shape of the UMAP cloud? Several approaches were tried and the overall structure stayed stable, which was reassuring. (05)</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="05_chapter_aggregation_comparison.png" class="img-fluid figure-img"></p>
+<p><a href="05_chapter_aggregation_comparison.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="Aggregation Method Tests"><img src="05_chapter_aggregation_comparison.png" class="img-fluid figure-img" alt="Aggregation Method Tests"></a></p>
 <figcaption>Aggregation Method Tests</figcaption>
 </figure>
 </div>
@@ -207,14 +210,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Plotted against the KJV in UMAP space, the Gita sits off to the side — close enough to touch the edge of the Bible cloud but clearly its own thing. They’re not covering the same territory, but they’re not far apart either. (07)</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="07_joint_chapter_umap.png" class="img-fluid figure-img"></p>
+<p><a href="07_joint_chapter_umap.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8" title="Gita and KJV UMAP"><img src="07_joint_chapter_umap.png" class="img-fluid figure-img" alt="Gita and KJV UMAP"></a></p>
 <figcaption>Gita and KJV UMAP</figcaption>
 </figure>
 </div>
 <p>Comparing each chapter of the Gita against the KJV books in a heatmap, the Old Testament comes out as the most dissimilar, while the wisdom books and epistles are more similar. Whether that’s stylistic or thematic is hard to say — the Gita is poetic and aphoristic, which is closer in register to Psalms or Proverbs than to Leviticus.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="07_gita_vs_bible_heatmap.png" class="img-fluid figure-img"></p>
+<p><a href="07_gita_vs_bible_heatmap.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9" title="Gita vs KJV Heatmap"><img src="07_gita_vs_bible_heatmap.png" class="img-fluid figure-img" alt="Gita vs KJV Heatmap"></a></p>
 <figcaption>Gita vs KJV Heatmap</figcaption>
 </figure>
 </div>
@@ -222,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The same script also plots the similarity distributions directly: within-Bible random pairs, within-Gita all pairs, and cross-tradition random pairs on the same axis. The within-tradition distributions sit at roughly the same place — medians around 0.32–0.34 — and the cross-tradition distribution shifts left to around 0.21. They overlap substantially, but the gap is real. A random Gita-Bible pair is less similar than a random verse-to-verse draw within either text.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="07_similarity_distributions.png" class="img-fluid figure-img"></p>
+<p><a href="07_similarity_distributions.png" class="lightbox" data-gallery="quarto-lightbox-gallery-10" title="Similarity Distributions"><img src="07_similarity_distributions.png" class="img-fluid figure-img" alt="Similarity Distributions"></a></p>
 <figcaption>Similarity Distributions</figcaption>
 </figure>
 </div>
@@ -245,7 +248,7 @@ ul.task-list li input[type="checkbox"] {
 <p>What was found was that the spiritual, historical, and literary texts tend to cluster separately. (14) With one notable exception: the Code of Hammurabi lands within the spiritual cluster.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="14_book_landscape.png" class="img-fluid figure-img"></p>
+<p><a href="14_book_landscape.png" class="lightbox" data-gallery="quarto-lightbox-gallery-11" title="Sacred Texts, Literature, and Historical Documents in Embedding Space"><img src="14_book_landscape.png" class="img-fluid figure-img" alt="Sacred Texts, Literature, and Historical Documents in Embedding Space"></a></p>
 <figcaption>Sacred Texts, Literature, and Historical Documents in Embedding Space</figcaption>
 </figure>
 </div>
@@ -256,7 +259,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The news as a whole floated off into its own region of embedding space, which was expected. But when sports and business articles were separated and plotted, something interesting appeared: business news clustered with the historical documents, while sports news clustered with literature and religion. (16)</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="16_book_landscape_with_news.png" class="img-fluid figure-img"></p>
+<p><a href="16_book_landscape_with_news.png" class="lightbox" data-gallery="quarto-lightbox-gallery-12" title="Corpus with News"><img src="16_book_landscape_with_news.png" class="img-fluid figure-img" alt="Corpus with News"></a></p>
 <figcaption>Corpus with News</figcaption>
 </figure>
 </div>
@@ -264,7 +267,7 @@ ul.task-list li input[type="checkbox"] {
 <p>A few BERTopic analyses were run across the full corpus at this point (17) but didn’t reveal much beyond the obvious — the dominant topic was a broad god/lord cluster containing everything except the news, with news forming its own topics. Useful as a sanity check that the sacred texts are topically distinguishable from news, but not a particularly deep finding.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="17a_topic_composition.png" class="img-fluid figure-img"></p>
+<p><a href="17a_topic_composition.png" class="lightbox" data-gallery="quarto-lightbox-gallery-13" title="BertTopic Top Topics"><img src="17a_topic_composition.png" class="img-fluid figure-img" alt="BertTopic Top Topics"></a></p>
 <figcaption>BertTopic Top Topics</figcaption>
 </figure>
 </div>
@@ -275,7 +278,7 @@ ul.task-list li input[type="checkbox"] {
 <p>A cross-tradition similarity heatmap shows mean similarity between the four groups. Worth noting how this is computed: it isn’t random-pair sampling like the earlier distribution plot. For each passage, the script finds its top-5 nearest neighbors in every other group, then averages those similarity scores. So the numbers represent how similar these groups are <em>at their closest</em> — when they’re trying their best to agree.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="18_cross_tradition_similarity.png" class="img-fluid figure-img"></p>
+<p><a href="18_cross_tradition_similarity.png" class="lightbox" data-gallery="quarto-lightbox-gallery-14" title="Cross Tradition Similarity"><img src="18_cross_tradition_similarity.png" class="img-fluid figure-img" alt="Cross Tradition Similarity"></a></p>
 <figcaption>Cross Tradition Similarity</figcaption>
 </figure>
 </div>
@@ -289,13 +292,13 @@ ul.task-list li input[type="checkbox"] {
 <p>A BIC sweep was run first to find the right number of components (21a), then the model was fit at K=20 for the full corpus (21b). The same was done for sacred texts only (22a, 22b).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="21b_topic_composition.png" class="img-fluid figure-img"></p>
+<p><a href="21b_topic_composition.png" class="lightbox" data-gallery="quarto-lightbox-gallery-15" title="GMM Topic Composition"><img src="21b_topic_composition.png" class="img-fluid figure-img" alt="GMM Topic Composition"></a></p>
 <figcaption>GMM Topic Composition</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="22b_topic_composition.png" class="img-fluid figure-img"></p>
+<p><a href="22b_topic_composition.png" class="lightbox" data-gallery="quarto-lightbox-gallery-16" title="GMM Sacred Text Composition"><img src="22b_topic_composition.png" class="img-fluid figure-img" alt="GMM Sacred Text Composition"></a></p>
 <figcaption>GMM Sacred Text Composition</figcaption>
 </figure>
 </div>
@@ -310,14 +313,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Worth noting: all values in the heatmap are computed the same way — mean similarity of each passage’s top-5 nearest neighbors, with self-similarity excluded on the diagonal. This is the same “best match” framing as script 18, not random-pair sampling. The numbers are higher than they would be under random sampling (as in the 07 distribution chart), but the comparison is apples-to-apples across all cells.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="23_tradition_similarity_heatmap.png" class="img-fluid figure-img"></p>
+<p><a href="23_tradition_similarity_heatmap.png" class="lightbox" data-gallery="quarto-lightbox-gallery-17" title="Sacred Tradition Similarty Heatmap"><img src="23_tradition_similarity_heatmap.png" class="img-fluid figure-img" alt="Sacred Tradition Similarty Heatmap"></a></p>
 <figcaption>Sacred Tradition Similarty Heatmap</figcaption>
 </figure>
 </div>
 <p>Bridge passages — ones pulled toward by two or more other sacred traditions — were fed into BERTopic. The two largest topics (around evil/death/soul and heart/riches/self) showed contributions from all four traditions. Topic 2, themed around nirvana, spiritual practice, and material life, was notably more Dharmic and Buddhist with significantly less Abrahamic presence. A wisdom topic (wise, understanding, fools) also showed a good cross-tradition mix. The size imbalance is still visible — Abrahamic passages dominate most topics by count — but the bridge filter does a reasonable job of pulling the shared signal to the surface.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="23_bridge_topics.png" class="img-fluid figure-img"></p>
+<p><a href="23_bridge_topics.png" class="lightbox" data-gallery="quarto-lightbox-gallery-18" title="Bridge Topic Composition"><img src="23_bridge_topics.png" class="img-fluid figure-img" alt="Bridge Topic Composition"></a></p>
 <figcaption>Bridge Topic Composition</figcaption>
 </figure>
 </div>
@@ -325,7 +328,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The within-tradition advantage still holds on random pairs, just less dramatically. The top-k method is useful for finding where traditions <em>can</em> agree; random pairs show the baseline of how much they agree by default.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="23b_tradition_similarity_random.png" class="img-fluid figure-img"></p>
+<p><a href="23b_tradition_similarity_random.png" class="lightbox" data-gallery="quarto-lightbox-gallery-19" title="Random-Pair Baseline Heatmap"><img src="23b_tradition_similarity_random.png" class="img-fluid figure-img" alt="Random-Pair Baseline Heatmap"></a></p>
 <figcaption>Random-Pair Baseline Heatmap</figcaption>
 </figure>
 </div>
@@ -335,7 +338,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The structural finding: when traditions agree across boundaries, that agreement is more <em>diffuse</em> than within-tradition similarity. It’s not a few passages that happen to match perfectly — it’s a broader low-level resonance spread throughout the texts. Within-tradition clustering is spiky; cross-tradition overlap is flat.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="23c_similarity_lift.png" class="img-fluid figure-img"></p>
+<p><a href="23c_similarity_lift.png" class="lightbox" data-gallery="quarto-lightbox-gallery-20" title="Similarity Lift"><img src="23c_similarity_lift.png" class="img-fluid figure-img" alt="Similarity Lift"></a></p>
 <figcaption>Similarity Lift</figcaption>
 </figure>
 </div>
@@ -366,7 +369,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Chapter-mean positions were computed in UMAP space and plotted as trajectories with arrows showing direction. Each text gets its own subplot. The result is a kind of semantic path — you can see whether a text starts in one region and ends in another, or stays in one place throughout.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="27_narrative_flow.png" class="img-fluid figure-img"></p>
+<p><a href="27_narrative_flow.png" class="lightbox" data-gallery="quarto-lightbox-gallery-21" title="Narrative Flow"><img src="27_narrative_flow.png" class="img-fluid figure-img" alt="Narrative Flow"></a></p>
 <figcaption>Narrative Flow</figcaption>
 </figure>
 </div>
@@ -389,13 +392,13 @@ ul.task-list li input[type="checkbox"] {
 <p>The corpus was expanded to include passages from traditions including philosophy, science, literature, Norse, and Confucian. A final UMAP was run. (33) Two versions: one with everything overlaid and one faceted with each tradition highlighted one at a time against a grey background.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="33_full_corpus_umap.png" class="img-fluid figure-img"></p>
+<p><a href="33_full_corpus_umap.png" class="lightbox" data-gallery="quarto-lightbox-gallery-22" title="Final Corpus Umap"><img src="33_full_corpus_umap.png" class="img-fluid figure-img" alt="Final Corpus Umap"></a></p>
 <figcaption>Final Corpus Umap</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="33_full_corpus_umap_faceted.png" class="img-fluid figure-img"></p>
+<p><a href="33_full_corpus_umap_faceted.png" class="lightbox" data-gallery="quarto-lightbox-gallery-23" title="Final Corpus Umap Faceted"><img src="33_full_corpus_umap_faceted.png" class="img-fluid figure-img" alt="Final Corpus Umap Faceted"></a></p>
 <figcaption>Final Corpus Umap Faceted</figcaption>
 </figure>
 </div>
@@ -452,14 +455,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Cross-tradition, the highest pairs are Philosophy ↔︎ Historical (0.557) and Dharmic ↔︎ Taoist (0.567). Abrahamic ↔︎ Norse is one of the lowest at 0.364.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="final_topk_heatmap_filtered.png" class="img-fluid figure-img"></p>
+<p><a href="final_topk_heatmap_filtered.png" class="lightbox" data-gallery="quarto-lightbox-gallery-24" title="Tradition Similarity Heatmap — Full Corpus (News excluded)"><img src="final_topk_heatmap_filtered.png" class="img-fluid figure-img" alt="Tradition Similarity Heatmap — Full Corpus (News excluded)"></a></p>
 <figcaption>Tradition Similarity Heatmap — Full Corpus (News excluded)</figcaption>
 </figure>
 </div>
 <p>The lift analysis shows how much of that similarity is concentrated versus diffuse. Literature has the highest diagonal ratio — its best internal matches are very good relative to a random draw. Sacred traditions have more moderate lift, meaning their internal similarity is more evenly spread. The difference panel (top-k minus random) is the clearest view of which cross-tradition connections are genuinely concentrated versus just broadly present.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="final_lift_filtered.png" class="img-fluid figure-img"></p>
+<p><a href="final_lift_filtered.png" class="lightbox" data-gallery="quarto-lightbox-gallery-25" title="Similarity Lift — Full Corpus (News excluded)"><img src="final_lift_filtered.png" class="img-fluid figure-img" alt="Similarity Lift — Full Corpus (News excluded)"></a></p>
 <figcaption>Similarity Lift — Full Corpus (News excluded)</figcaption>
 </figure>
 </div>
@@ -908,6 +911,38 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
