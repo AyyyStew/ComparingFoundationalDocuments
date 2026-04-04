@@ -2,7 +2,7 @@
 title: "Are World Religions Saying the Same Thing?"
 subtitle: "An embedding-space exploration of sacred texts across traditions"
 author: "AyyyStew"
-date: April 3, 2025
+date: April 3, 2026 | Updated April 4, 2026
 format:
   html:
     theme: cosmo
@@ -436,7 +436,7 @@ heart shall be filled with his own ways." It reads like something about karma.
 <iframe src="28_outliers_cross.html" width="100%" scrolling="no" style="border:none;display:block;" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';"></iframe>
 [Open in full page](28_outliers_cross.html)
 
-# Expanding the Corpus: Norse, Confucian, Philosphy, Science
+# More Traditions: Norse, Confucian, Philosphy, Science
 
 The corpus was expanded to include passages from traditions including
 philosophy, science, literature, Norse, and Confucian. A final UMAP was run.
