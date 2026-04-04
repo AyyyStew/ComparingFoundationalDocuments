@@ -22,6 +22,8 @@ format:
       body-width: 900px
 ---
 
+**TLDR**: The model found the finger, not the moon
+
 # Origins
 
 It started out with a question:
@@ -32,7 +34,7 @@ Reading them I can't help but feel they point to similar things. Perennial philo
 
 So is there a way to quantify that?
 
-As you read this each number in parentheses corresponds to a script in the [github repo](http://fixme.com) for anyone who wants to follow along in the code.
+As you read this each number in parentheses corresponds to a script in the [github repo](https://github.com/AyyyStew/ComparingFoundationalDocuments) for anyone who wants to follow along in the code.
 
 **Disclaimer:** I am not a statistician, an academic, or anything of the sort. I just like poking data. The goal of this is exploration not to establish fact or truth.
 
@@ -354,3 +356,16 @@ Or it might be that style and content aren't as separable as that framing implie
 I don't have a way to answer that question with the tools used here. It would require something like controlled experiments with paraphrased passages — does the similarity survive rewriting in a different register? That's a different project.
 
 What this project did establish is that embedding space has real structure, that the structure tracks something meaningful about how humans write about transcendence and meaning, and that the boundaries between traditions are real but permeable. Where exactly the signal comes from remains open.
+
+**Conclusion**
+The model found the finger, not the moon
+
+> The tao that can be told
+>
+> is not the eternal Tao
+>
+> The name that can be named
+>
+> is not the eternal Name.
+>
+> -Tao Te Ching - Verse 1

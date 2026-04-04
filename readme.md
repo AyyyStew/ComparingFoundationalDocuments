@@ -123,6 +123,9 @@ Cross-tradition similarity scores are **not** perfectly length-normalized. A nov
 
 Bible verses from [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases)
 
+kjv.json from https://github.com/jburson/bible-data/blob/main/data/kjv/kjv.json
+for red letter annotations
+
 Bhagavad Gita from https://www.kaggle.com/datasets/madhurpant/bhagavad-gita-verses-dataset
 
 Bhagavata Purana from https://www.kaggle.com/datasets/madhurpant/srimad-bhagawatam-bhagavata-purana-dataset
