@@ -63,9 +63,6 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#the-news" id="toc-the-news" class="nav-link" data-scroll-target="#the-news">The News</a></li>
   <li><a href="#bridges" id="toc-bridges" class="nav-link" data-scroll-target="#bridges">Bridges</a></li>
-  </ul></li>
-  <li><a href="#going-deeper-more-texts" id="toc-going-deeper-more-texts" class="nav-link" data-scroll-target="#going-deeper-more-texts">Going Deeper: More Texts</a>
-  <ul class="collapse">
   <li><a href="#soft-clustering-gmm-topics" id="toc-soft-clustering-gmm-topics" class="nav-link" data-scroll-target="#soft-clustering-gmm-topics">Soft Clustering: GMM Topics</a></li>
   <li><a href="#cross-tradition-nearest-neighbors-sacred-only" id="toc-cross-tradition-nearest-neighbors-sacred-only" class="nav-link" data-scroll-target="#cross-tradition-nearest-neighbors-sacred-only">Cross-Tradition Nearest Neighbors, Sacred Only</a></li>
   <li><a href="#concept-networks" id="toc-concept-networks" class="nav-link" data-scroll-target="#concept-networks">Concept Networks</a></li>
@@ -280,18 +277,6 @@ ul.task-list li input[type="checkbox"] {
 <p>Heatmaps were also produced comparing each sacred text against various literature works one-on-one. They’re long and not displayed here but are in the repo if you are curious. (19)</p>
 <p>Sacred texts were also compared directly against each other in the same format. (20) If you want to see where the Dao De Jing and the Dhammapada agree most, this is the analysis for that.</p>
 </section>
-</section>
-<section id="going-deeper-more-texts" class="level1">
-<h1>Going Deeper: More Texts</h1>
-<p>At this point the corpus was feeling thin. A few more traditions were missing that felt important to include if this was going to be a serious cross-tradition comparison.</p>
-<p>Added in batches:</p>
-<ul>
-<li>Quran, Upanishads, Srimad Bhagavatam, Diamond Sutra (29) — filling out the Abrahamic and Dharmic/Buddhist sides</li>
-<li>Poetic Edda and Analects of Confucius (30) — Norse and Confucian traditions</li>
-<li>Classical philosophy: Plato, Aristotle, Nietzsche, Kant, Descartes (31) — to see where the western philosophical tradition lands</li>
-<li>Scientific literature: Darwin, William James, Freud, Newton, Jung; also Siddhartha (32) — hard science and depth psychology as anchors</li>
-</ul>
-<p>The rationale: if sacred texts cluster together, do they cluster with philosophy? With psychology? Or is there something that genuinely sets them apart?</p>
 <section id="soft-clustering-gmm-topics" class="level2">
 <h2 class="anchored" data-anchor-id="soft-clustering-gmm-topics">Soft Clustering: GMM Topics</h2>
 <p>Rather than hard cluster labels, Gaussian Mixture Models were used to assign soft probabilities across topics — every passage belongs to every topic to some degree. This felt more honest given how fuzzy the actual topic boundaries are.</p>
