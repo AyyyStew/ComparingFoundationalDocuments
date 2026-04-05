@@ -71,6 +71,17 @@ def _load_passages(sikh_db: str) -> list[dict]:
     return result
 
 
+def _clean_text(text: str) -> str:
+    """Strip Gurbani verse/section markers (||1||, Pause7||, Sudh||, bare ||, etc.)."""
+    import re
+    # Remove all pipe characters
+    text = text.replace("|", "")
+    # Strip trailing orphaned marker remnants: " Pause7", " Sudh", " 17"
+    text = re.sub(r"\s+(Pause|Sudh)?\d+\s*$", "", text)
+    text = re.sub(r"\s+(Pause|Sudh)\s*$", "", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def _split_section(raw: str | None) -> tuple[str | None, str | None]:
     """
     Split "Siri Raag - Sukhmani Sahib (Peace Of Mind)" into
@@ -145,8 +156,8 @@ def ingest_sikh(
 
     passages = []
     for row in rows:
-        en_text = row["en_text"]
-        if not en_text or not en_text.strip():
+        en_text = _clean_text(row["en_text"])
+        if not en_text:
             continue
 
         book, section = _split_section(row["raw_section"])
