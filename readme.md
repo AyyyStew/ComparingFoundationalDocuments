@@ -168,3 +168,13 @@ From Project Gutenberg:
 - Diamond Sutra: https://www.gutenberg.org/ebooks/64623
 - Crime and Punishment: https://www.gutenberg.org/ebooks/2554
 - Luther's 95 Theses: https://www.gutenberg.org/ebooks/274
+
+
+
+
+Sources added after the projects thoughts write up:
+- Sri Guru Granth Sahib: https://sikher.com/ | https://sourceforge.net/projects/sikher/
+- avesta yasna : https://www.avesta.org/yasna/index.html
+- avesta vendidad : https://www.avesta.org/vendidad/index.html
+- Chuang Tzu: https://www.gutenberg.org/ebooks/59709
+- Kojiki: https://sacred-texts.com/shi/kj/index.htm

@@ -27,3 +27,6 @@ data/parquet/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+
+*.sql*

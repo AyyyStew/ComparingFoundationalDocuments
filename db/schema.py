@@ -12,7 +12,7 @@ Usage:
 import duckdb
 import os
 
-DB_PATH = os.environ.get("CORPUS_DB", "data/corpus.duckdb")
+DB_PATH = os.environ.get("CORPUS_DB", "/home/alexs/Projects/DataSources/corpus.duckdb")
 
 
 def get_conn(path: str = DB_PATH) -> duckdb.DuckDBPyConnection:
